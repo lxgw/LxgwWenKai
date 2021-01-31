@@ -22,6 +22,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ## 补字计划
 
+[查看补字日志](https://lxgw.github.io/2021/01/28/Klee-Simpchin/#%E5%AD%97%E7%A8%BF)
+
 ### 简体部分
 
 - [ ] 补完原字库所含繁体字对应的简化字；

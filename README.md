@@ -16,6 +16,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ## 字体预览
 
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-overview.png)
+
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-demo.png)
 
 [PDF 格式](https://github.com/lxgw/LxgwWenKai/raw/main/demo.pdf)
@@ -26,7 +28,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ### 简体部分
 
-- [ ] 补完原字库所含繁体字对应的简化字；
+- [x] 补完原字库所含繁体字对应的简化字；
 - [ ] 补完 3500 常用汉字 <sup>①</sup>;
 - [ ] 修改字形; 
 - [ ] 补完 GB2312 所有汉字。

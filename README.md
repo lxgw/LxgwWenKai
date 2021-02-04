@@ -70,6 +70,11 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
 
+## 鸣谢
+
+- [FONTWORKS](fontworks.co.jp) 提供开源字体
+- [CL-Jeremy](https://github.com/CL-Jeremy) 为字形设计提供指导
+
 ## 其它项目
 
 ### 日系字体中文化
@@ -84,3 +89,4 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 - [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
 - [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
+

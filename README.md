@@ -29,7 +29,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 ### 简体部分
 
 - [x] 补完原字库所含繁体字对应的简化字；
-- [ ] 补完 3500 常用汉字 <sup>①</sup>;
+- [x] 补完 3500 常用汉字 <sup>①</sup>;
 - [ ] 修改字形; 
 - [ ] 补完 GB2312 所有汉字。
 - [ ] *补完通用规范汉字表，若条件允许。*

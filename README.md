@@ -20,11 +20,19 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-demo.png)
 
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-3500.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-modify.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-license.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-thanks.png)
+
 [PDF 格式](https://github.com/lxgw/LxgwWenKai/raw/main/demo.pdf)
 
-## 补字计划
+## 补字计划与历史纪录
 
-[查看补字日志](https://lxgw.github.io/2021/01/28/Klee-Simpchin/#%E5%AD%97%E7%A8%BF)
+[查看历史纪录](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
 
 ### 简体部分
 
@@ -43,6 +51,11 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - [ ] *补完常用粤闽客字，若条件允许。*
 
 **<sup>②</sup>** 台湾地区称「常用国字标准字体表」。
+
+## 下载字体
+
+1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
+2. 进入 [猫啃网](https://www.maoken.com/freefonts/9704.html) 进行下载。（可能不是最新）
 
 ## 继续完善
 

@@ -74,7 +74,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 - [FONTWORKS 株式会社](fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
 - 部分汉字结构参考 [仓耳今楷](http://tsanger.cn/product) 字体；
-- [@CL-Jeremy](https://github.com/CL-Jeremy) 为字形设计提供指导；
+- [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 为字形设计提供指导；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
 
 ## 其它项目

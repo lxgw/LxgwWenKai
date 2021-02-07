@@ -35,7 +35,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 - [x] 补完原字库所含繁体字对应的简化字；
 - [x] 补完简体中文 3603 常用汉字 <sup>①</sup>;
-- [ ] 补完 GB2312 所有汉字*（6000/6763）*；
+- [ ] 补完 GB2312 所有汉字 *（6000/6763）* ；
 - [ ] 修改字形；
 - [ ] *补完通用规范汉字表，若条件允许。*
 
@@ -52,7 +52,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 ## 下载字体
 
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
-2. 进入 [猫啃网](https://www.maoken.com/freefonts/9704.html) 进行下载。（可能不是最新）
+2. 进入 [猫啃网](https://www.maoken.com/freefonts/9704.html) 进行下载。GitHub 项目更新后，会联系猫啃网站长进行同步更新。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
 
 ## 注意事项
 

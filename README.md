@@ -1,9 +1,6 @@
 # LXGW WenKai / 霞鹜文楷
 An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。
 
-> **注意：**
-> 本字体为 DEMO 版（演示版）字体，其中汉字大多尚缺，请在使用时留意。如您有意补完此款字体，欢迎与本人联系。
-
 ## 项目简介
 
 前段时间，日本著名字体厂商 FONTWORKS 在 GitHub 上释出了 [7 款开源日文字体](https://github.com/fontworks-fonts)，分别为 **Train、Klee、Stick、Rock-n-Roll、Reggae、Rampart 和 DotGothic16。** 7 款开源日文字体各有各的特点，其中我最感兴趣的，当属 [Klee](https://github.com/fontworks-fonts/Klee)。
@@ -37,16 +34,16 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 ### 简体部分
 
 - [x] 补完原字库所含繁体字对应的简化字；
-- [x] 补完 3500 常用汉字 <sup>①</sup>;
+- [x] 补完简体中文 3603 常用汉字 <sup>①</sup>;
 - [ ] 补完 GB2312 所有汉字*（6000/6763）*；
 - [ ] 修改字形；
 - [ ] *补完通用规范汉字表，若条件允许。*
 
-**<sup>①</sup>** 包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表）。
+**<sup>①</sup>** 包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），新老 3500 加一起共 3603 字。
 
 ### 繁体部分 
 
-- [x] 补完台湾 4808 常用字 <sup>②</sup>；
+- [x] 补完繁体中文 4808 常用汉字 <sup>②</sup>；
 - [ ] 补完 GB/T 12345-90 和 BIG5 一级汉字；
 - [ ] *补完常用粤闽客字，若条件允许。*
 
@@ -56,6 +53,11 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
 2. 进入 [猫啃网](https://www.maoken.com/freefonts/9704.html) 进行下载。（可能不是最新）
+
+## 注意事项
+
+1. 本字体仍处于测试版，为单字重字体，部分汉字还是处于日本写法，且字库并不是很全。 
+2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。但聊胜于无。欢迎大家通过 Issues 反馈。
 
 ## 继续完善
 

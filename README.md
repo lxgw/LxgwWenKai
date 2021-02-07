@@ -10,7 +10,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 这是一款本人非常喜欢的字体，有着日本教科书体的写法，兼有仿宋和楷体的特点，可读性高。一些 DIY 字体爱好者曾先后用**仿宋、刻本仿宋、仓耳今楷**补全这款字体，做为手机系统的美化字体移稙在 iOS、Android 等手机系统中，受到很多机友的欢迎。不过这样补全的字体有一些不足之处。 **第一**，原有字体和后补字体之间有着一定的差异，致使一些不同的文字（如 Klee 原有汉字与后补简体字）混排之后会有违和感。 **第二**，由于补字所用的字体（如刻本仿宋、仓耳今楷等）为商业版权字体，补全之后不可用于商业用途，还会有侵权的风险。
 
-鉴于此，本人开始了为 Klee 这一高质量的日文字体补全简体字的尝试。补全后的字体拟命名 **「霞鹜文楷」**。选取原字体 SemiBold 字重做为 Regular 字重。
+鉴于此，本人开始了为 Klee 这一高质量的日文字体补全简繁常用字的尝试。补全后的字体拟命名 **「霞鹜文楷」**。选取原字体 SemiBold 字重做为 Regular 字重。
 
 有关补字的更多信息，请参阅本人博客里的文章：[《为 Klee 试制简化字》](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)
 
@@ -28,25 +28,25 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-thanks.png)
 
-[PDF 格式](https://github.com/lxgw/LxgwWenKai/raw/main/demo.pdf)
-
 ## 补字计划与历史纪录
 
 [查看历史纪录](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
+
+
 
 ### 简体部分
 
 - [x] 补完原字库所含繁体字对应的简化字；
 - [x] 补完 3500 常用汉字 <sup>①</sup>;
-- [ ] 修改字形; 
-- [ ] 补完 GB2312 所有汉字。
+- [ ] 补完 GB2312 所有汉字*（6000/6763）*；
+- [ ] 修改字形；
 - [ ] *补完通用规范汉字表，若条件允许。*
 
 **<sup>①</sup>** 包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表）。
 
 ### 繁体部分 
 
-- [ ] 补完台湾 4808 常用字 <sup>②</sup>；
+- [x] 补完台湾 4808 常用字 <sup>②</sup>；
 - [ ] 补完 GB/T 12345-90 和 BIG5 一级汉字；
 - [ ] *补完常用粤闽客字，若条件允许。*
 

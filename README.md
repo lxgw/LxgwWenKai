@@ -13,17 +13,17 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ## 字体预览
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-overview.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-1.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-demo.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-2.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-3500.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-3.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-modify.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-4.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-license.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-5.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-thanks.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-6.png)
 
 ## 补字计划与历史纪录
 

@@ -19,7 +19,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-3.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-4A.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-4.png)
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-5.png)
 

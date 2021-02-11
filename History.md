@@ -2,6 +2,10 @@
 
 - 优化「呲」「峭」的字形
 
+- 新增 65 个字：呔咂咣喑嗖嘭噔噻姹嫒尥崂嵇憷挲搋摞撺旮旯氕氘氚氩熠牮牿犋犏犟犰犸狍狳盱眙矬砼篪籼肽膦艄苷茳荇菹萘蒗蜱蝻裢褡趔趵蹀躞郏酰鎏铧锏阚鳊黢
+
+  *（GB 2312 里的「牛」字补全，祝大家牛年大吉！）*
+
 - 新年彩蛋：新增「招财进宝」合字，Unicode 码位`U+E501`，Photoshop 内输入`%招财进宝%` 即可显示合字，Word 需输入 E501 再按 Alt+X。
 
   ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/zcjb.png)

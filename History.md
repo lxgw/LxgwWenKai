@@ -2,7 +2,7 @@
 
 - 优化「呲」「峭」的字形
 
-- 新年彩蛋：新增「招财进宝」合字，Unicode 码位`U+E051`，Photoshop 内输入`%招财进宝%` 即可显示合字，Word 需输入 E051 再按 Alt+X。
+- 新年彩蛋：新增「招财进宝」合字，Unicode 码位`U+E501`，Photoshop 内输入`%招财进宝%` 即可显示合字，Word 需输入 E501 再按 Alt+X。
 
   ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/zcjb.png)
 

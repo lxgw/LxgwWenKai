@@ -35,7 +35,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 - [x] 补完原字库所含繁体字对应的简化字；
 - [x] 补完简体中文 3603 常用汉字 <sup>①</sup>;
-- [ ] 补完 GB2312 所有汉字 *（6050/6763）* ；
+- [x] 补完 GB2312 所有汉字；
 - [ ] 修改字形 *（进行中）*；
 - [ ] *补完通用规范汉字表，若条件允许。*
 

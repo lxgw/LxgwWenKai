@@ -51,8 +51,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ## 下载字体
 
-1. 进入 [Release](https://github.com/lxgw/LxgwWenKai/releases) 界面下载对应版本的 TTF 格式文件。
-2. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
+1. 进入 [Release](https://github.com/lxgw/LxgwWenKai/releases) 界面下载对应版本的 TTF 格式文件。以后 TTF 文件仅在 Release 页面更新。
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/9704.html) 进行下载。GitHub 项目更新后，会联系猫啃网站长进行同步更新。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
 
 ## 注意事项

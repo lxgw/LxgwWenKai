@@ -45,7 +45,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 - [x] 补完繁体中文 4808 常用汉字 <sup>②</sup>；
 - [x] 补完 GB/T 12345-90 和 BIG5 一级汉字；
-- [ ] *补完常用粤闽客字，若条件允许。*
+- [ ] 补完常用粤语、闽南语、客家语用字。*（已补全 [「常用香港外字表」](https://github.com/ichitenfont/suppchara) A-3 级汉字。）*
 
 **<sup>②</sup>** 台湾地区称「常用国字标准字体表」。
 

@@ -117,3 +117,5 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
 - [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
 
+## 打赏支持
+[点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)

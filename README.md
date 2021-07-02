@@ -101,7 +101,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
 
 ## 字体使用实例
-- [BV1qV41147tu 木鱼水心X《觉醒年代》主创：终于等到你！独家披露创作细节](https://www.bilibili.com/video/BV1qV41147tu)
+- [「BV1qV41147tu」木鱼水心X《觉醒年代》主创：终于等到你！独家披露创作细节](https://www.bilibili.com/video/BV1qV41147tu)
 
 ## 其它项目
 

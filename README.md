@@ -100,7 +100,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 为字形设计提供指导；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
 
-## 字体使用实例
+## 使用本字体的实例
 - [「BV1qV41147tu」木鱼水心X《觉醒年代》主创：终于等到你！独家披露创作细节](https://www.bilibili.com/video/BV1qV41147tu)
 
 ## 其它项目

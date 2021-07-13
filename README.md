@@ -28,9 +28,9 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-6.png)
 
-## 补字计划与历史纪录
+## 补字计划与更新记录
 
-[查看历史纪录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
+[查看更新记录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
 
 历史版本的 Release，请在 [Release](https://github.com/lxgw/LxgwWenKai/releases) 页面查看。
 

@@ -103,6 +103,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ## 使用本字体的实例
 
+- [「纯纯写作」应用](https://app.mi.com/details?id=com.drakeet.purewriter)
 - [「BV1qV41147tu」木鱼水心X《觉醒年代》主创：终于等到你！独家披露创作细节](https://www.bilibili.com/video/BV1qV41147tu)
 
 ## 其它项目

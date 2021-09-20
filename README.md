@@ -64,8 +64,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ## 注意事项
 
-1. 本字体包含 1.3 万个简繁日汉字，已基本满足日常用字需要，但离全字库还有很长一段距离。**如有补字需求，请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 提出，不要另开 Issue。** 
-2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。**如有字形优化建议，请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 提出，不要另开 Issue。**
+1. 本字体包含 1.3 万个简繁日汉字，已基本满足日常用字需要，但离全字库还有很长一段距离。**如有补字需求，请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 提出，不要另开 Issue。** *（该 issue 已置顶）*
+2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。**如有字形优化建议，请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 提出，不要另开 Issue。** *（该 issue 已置顶）*
 3. 另，本字体也有供繁体中文用户和旧字形爱好者使用的 [繁体中文版](https://github.com/lxgw/LxgwWenkaiTC)，采用旧字形写法，目前仍处于测试阶段。
 
 ## 协助完善

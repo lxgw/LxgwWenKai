@@ -22,6 +22,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-3.png)
 
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-7.png)
+
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-4.png)
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-5.png)
@@ -101,7 +103,6 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 ## 鸣谢
 
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
-- 部分汉字结构参考 [仓耳今楷](http://tsanger.cn/category/21) 字体；
 - [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 为字形设计提供指导；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
 - [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)

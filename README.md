@@ -8,7 +8,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 2020 年 12 月，日本著名字体厂商 FONTWORKS 在 GitHub 上释出了 [7 款开源日文字体](https://github.com/fontworks-fonts)，分别为 **Train、Klee、Stick、Rock-n-Roll、Reggae、Rampart 和 DotGothic16。** 7 款开源日文字体各有各的特点，而这七款字体中，字符数量最多的是 [Klee](https://github.com/fontworks-fonts/Klee)。
 
-这是一款有着日本教科书体的写法的字体，兼有仿宋和楷体的特点，可读性高。一些 DIY 字体爱好者曾先后用仿宋等字体补全这款字体，做为手机系统的美化字体移植在 iOS、Android 等手机系统中，受到很多机友的欢迎。不过这样补全的字体有一些不足之处。 **第一**，原有字体和后补字体之间有着一定的差异，致使一些不同的文字（如 Klee 原有汉字与后补简体字）混排之后会有违和感。 **第二**，由于补字所用的字体为商业版权字体，补全之后不可用于商业用途，还会有侵权的风险。此外，目前现有的开源中文字库里，楷体类寥寥无几，仿宋类则几乎没有。
+这是一款有着日本教科书体风格的字体，兼有仿宋和楷体的特点，可读性高。一些 DIY 字体爱好者曾先后用仿宋等字体补全这款字体，作为手机系统的美化字体移植在 iOS、Android 等手机系统中，受到很多机友的欢迎。不过这样补全的字体有一些不足之处。 **第一**，原有字体和后补字体之间有着一定的差异，致使一些不同的文字（如 Klee 原有汉字与后补简体字）混排之后会有违和感。 **第二**，由于补字所用的字体为商业版权字体，补全之后不可用于商业用途，还会有侵权的风险。此外，目前现有的开源中文字库里，楷体类寥寥无几，仿宋类则几乎没有。
 
 鉴于此，也为了丰富开源中文字体中的楷体门类，本人开始了为 Klee 这一高质量的日文字体补全简繁常用字的尝试。补全后的字体拟命名 **「霞鹜文楷」**。选取原字体 SemiBold 字重作为 Regular 字重。
 
@@ -75,6 +75,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。**如有字形优化建议，请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 提出，不要另开 Issue。**  
 *（以上两个 issue 均已加上 long term 标签，且均已在 Issues 页面置顶。）*
 3. 另，本字体也有供繁体中文用户和旧字形爱好者使用的 [繁体中文版](https://github.com/lxgw/LxgwWenkaiTC)，采用旧字形写法，目前仍处于测试阶段。
+4. 由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，特制作以 Bold 字重为基础的 [霞鹜文楷屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)，加粗后的「霞鹜文楷」与 Windows 默认英文字体 Segoe UI Regular 粗细相当，PC 和 Android 手机屏幕阅读更加舒适。
 
 ## 协助完善
 

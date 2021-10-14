@@ -65,7 +65,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
   - [x] 台湾闽客汉字（外字表ㄅ级）
 
 ### 其他
-- [x] 补完 CJK 统一汉字基本区 20992 个汉字；
+- [x] 补完 CJK 统一汉字基本区 20992 个汉字 *（深度学习生成，字形较粗糙）* ；
 - [ ] 补全常用谚文（韩文、朝鲜文）音节 2350 个。
 
 ## 下载字体

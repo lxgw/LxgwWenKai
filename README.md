@@ -22,15 +22,17 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-3.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-7.png)
-
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-4.png)
-
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-8.png)
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-5.png)
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-6.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-7.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-8.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-9.png)
 
 ## 简要更新记录
 

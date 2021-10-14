@@ -1,3 +1,8 @@
+### Ver 1.101 2021.10.10
+- 应用户反馈及《纯纯写作》用户投票，本版本起恢复非全宽的蝌蚪引号。[详情点此](https://weibo.com/6624339726/KC5EPErjl)
+- 此外，为便于开发者将字体嵌入软件中，按照 [v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite/releases)，剔除 v1.100 版本增补的一些较不常用的汉字，字体文件回到过往版本的体积。若完整版有字形优化或特性更新，精简版也将会跟进（大量增字除外）。
+![](https://s3.bmp.ovh/imgs/2021/10/bc0f9fbc4c7d4e67.png)
+
 ### Ver 1.100 2021.10.01
 - 补全 **CJK 基本汉字区**共 20992 个汉字，字库更全（利用 [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch) 深度学习技术，与原有字符相比在轮廓上会显得粗糙一些）；
 - 新增工尺谱和十二律相关汉字（[参考文章](https://b23.tv/DaILWX)）；  

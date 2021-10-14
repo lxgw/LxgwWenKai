@@ -46,7 +46,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - **2021.06.29** 增补部分粤字、闽南语字、客家语字。
 - **2021.07.13** 1.0 版发布，此后继续调整字形，但更新速度有所放缓。
 - **2021.10.01** 增补完 CJK 统一汉字基本区共 20992 个字，版本号 1.100。此后分为完整版（本项目）和 [轻便版](https://github.com/lxgw/LxgwWenKai-Lite)（适用于开发者嵌入 APP），新增 [屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)（适用于 PC 与 Android 设备屏幕阅读）。
-- **2021.10.13** 完整版（本项目）增补常用谚文音节，实现对韩语/朝鲜语的支持，版本号 1.110。
+- **2021.10.13** 完整版（本项目）增补 2367 个常用谚文音节，实现对韩语/朝鲜语的支持，版本号 1.110。
 
 [查看详细更新记录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
 

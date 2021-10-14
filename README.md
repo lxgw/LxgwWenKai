@@ -116,6 +116,9 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
 - [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)
 
+## 由本字体衍生的字体
+- [澳声通传乐文楷](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai)
+
 ## 其它项目
 
 ### 日系字体中文化

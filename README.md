@@ -129,7 +129,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)
 
 ## 由本字体衍生的字体
-- [澳声通拼音文楷](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai)
+
+- [澳声通拼音文楷](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai) (需配合 toneoz.com/ime 使用)
 
 ## 其它项目
 

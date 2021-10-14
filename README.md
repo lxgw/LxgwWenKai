@@ -12,7 +12,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 鉴于此，也为了丰富开源中文字体中的楷体门类，2021 年 1 月 20 日起，本人开始了为 Klee 这一高质量的日文字体补全简繁常用字的尝试。因该字体非常适合正文阅读，命名 **「霞鹜文楷」**。由于 Klee 字体的 Regular 字重太细不太适合阅读，选取原字体 SemiBold 字重作为 Regular 字重。经过长时间的积累，目前已发展成简繁日韩均支持的 3 字重字体家族。
 
-有关补字的更多信息，请参阅本人 GitHub.io 博客里的文章：[《为 Klee 试制简化字》](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)。
+有关补字过程的更多信息，请参阅本人 GitHub.io 博客里的文章：[《为 Klee 试制简化字》](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)。
 
 ## 字体预览
 

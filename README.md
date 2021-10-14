@@ -32,11 +32,13 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-6.png)
 
-## 补字计划与更新记录
+## 简要更新记录
 
-[查看更新记录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
+[查看详细更新记录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
 
 历史版本的 Release，请在 [Release](https://github.com/lxgw/LxgwWenKai/releases) 页面查看。
+
+## 补字计划
 
 ### 简体部分
 
@@ -61,6 +63,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
   - [x] 台湾闽客汉字（外字表ㄅ级）
 
 ### 其他
+- [x] 补完 CJK 统一汉字基本区 20992 个汉字；
 - [ ] 补全常用谚文（韩文、朝鲜文）音节 2350 个。
 
 ## 下载字体

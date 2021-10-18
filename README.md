@@ -96,7 +96,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 *（以上两个 issue 均已加上 long term 标签，且均已在 Issues 页面置顶。）*
 3. **由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，而 Bold 字重需要在粗体模式下才能调用，特制作以 Bold 字重为基础的 [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)，加粗后的「霞鹜文楷」与 Windows 默认英文字体 Segoe UI Regular 粗细相当，PC 和 Android 手机屏幕阅读更加舒适，无需特别切换到粗体模式。此外，屏幕阅读版也将作为本项目的先行测试版。**
 4. **为便于开发者将字体嵌入软件中，按照 [v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)。与 v1.100 版本的霞鹜文楷相比，剔除 v1.100 版本增补的一些较不常用的汉字，回到过往版本的体积。若完整版有字形优化或特性更新，精简版也将会跟进（大量增字除外）。精简版不包含谚文。**
-5. 另，本字体也有供繁体中文用户和旧字形爱好者使用的 [繁体中文版](https://github.com/lxgw/LxgwWenkaiTC)，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改，目前仍处于测试阶段。（并不完全遵循传承部件检校表）
+5. 另，本字体也有供繁体中文用户和旧字形爱好者使用的 [繁体中文版](https://github.com/lxgw/LxgwWenkaiTC)，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改，目前仍处于测试阶段。（目前并不打算完全遵循传承部件检校表）
 
 ## 协助完善
 

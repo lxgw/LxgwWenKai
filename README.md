@@ -1,7 +1,7 @@
 > **注意事项**
 > - 添字请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 反馈，字形调整请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 反馈，**不要另开议题**。
 > - **以 Bold 字重为基础的 [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)，PC 和 Android 手机屏幕阅读更加舒适，无需特别切换到粗体模式。**
-> - **为便于开发者将字体嵌入软件中，提供 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)。与完整版的霞鹜文楷相比，剔除一些较不常用的汉字，且不包含谚文，回到过往版本的体积。若完整版有字形优化或特性更新，精简版也将会跟进（大量增字除外）。**
+> - **为便于开发者将字体嵌入软件中，提供 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)。与完整版的霞鹜文楷相比，剔除一些较不常用的汉字，且不包含谚文。**
 
 
 # LXGW WenKai / 霞鹜文楷

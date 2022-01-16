@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni8BA0" format="2">
+	<advance width="1000"/>
+	<unicode hex="8BA0"/>
+	<note>
+		uni8BA0
+	</note>
+	<outline>
+		<contour>
+			<point x="362" y="623"/>
+			<point x="261" y="720"/>
+			<point x="210" y="756"/>
+			<point x="193" y="756"/>
+			<point x="174" y="728"/>
+			<point x="174" y="717"/>
+			<point x="187" y="706" type="qcurve" smooth="yes"/>
+			<point x="257" y="646"/>
+			<point x="315" y="575"/>
+			<point x="337" y="575"/>
+			<point x="362" y="605"/>
+		</contour>
+		<contour>
+			<point x="88" y="492"/>
+			<point x="70" y="497"/>
+			<point x="60" y="497"/>
+			<point x="60" y="491" type="qcurve" smooth="yes"/>
+			<point x="60" y="469"/>
+			<point x="89" y="443" type="qcurve" smooth="yes"/>
+			<point x="94" y="438"/>
+			<point x="112" y="438" type="qcurve" smooth="yes"/>
+			<point x="125" y="438" type="line" smooth="yes"/>
+			<point x="132" y="438"/>
+			<point x="141" y="439" type="qcurve" smooth="yes"/>
+			<point x="239" y="450" type="line"/>
+			<point x="228" y="66" type="line"/>
+			<point x="202" y="55"/>
+			<point x="165" y="48"/>
+			<point x="165" y="43" type="qcurve" smooth="yes"/>
+			<point x="166" y="37"/>
+			<point x="191" y="10"/>
+			<point x="223" y="-12"/>
+			<point x="246" y="-10"/>
+			<point x="291" y="20"/>
+			<point x="395" y="139"/>
+			<point x="428" y="177"/>
+			<point x="428" y="185" type="qcurve" smooth="yes"/>
+			<point x="428" y="190"/>
+			<point x="406" y="188"/>
+			<point x="303" y="107"/>
+			<point x="285" y="96" type="qcurve"/>
+			<point x="298" y="448" type="line"/>
+			<point x="299" y="454"/>
+			<point x="302" y="465"/>
+			<point x="302" y="470" type="qcurve" smooth="yes"/>
+			<point x="303" y="486"/>
+			<point x="275" y="503"/>
+			<point x="261" y="503" type="qcurve" smooth="yes"/>
+			<point x="253" y="503" type="line"/>
+			<point x="230" y="501" type="line"/>
+			<point x="105" y="492" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 60 values pushed */
+45 37 17 3 3 4 1 76 36 21 2 3 73 0 1 0 1 133 0 0 2 0 133 0 2 4 2 133 5 1 4 3 3 4 89 5 1 4 4 3 97 0 3 4 3 81 11 11 11 48 11 48 42 39 37 21 17 6 6 25 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni65F7" format="2">
+	<advance width="1000"/>
+	<unicode hex="65F7"/>
+	<note>
+		uni65F7
+	</note>
+	<outline>
+		<contour>
+			<point x="530" y="634" type="line"/>
+			<point x="498" y="648"/>
+			<point x="462" y="659"/>
+			<point x="454" y="659" type="qcurve" smooth="yes"/>
+			<point x="445" y="659"/>
+			<point x="445" y="653" type="qcurve" smooth="yes"/>
+			<point x="445" y="647"/>
+			<point x="450" y="637" type="qcurve" smooth="yes"/>
+			<point x="457" y="623"/>
+			<point x="461" y="586"/>
+			<point x="462" y="563" type="qcurve" smooth="yes"/>
+			<point x="462" y="531" type="line" smooth="yes"/>
+			<point x="462" y="411"/>
+			<point x="435" y="215"/>
+			<point x="375" y="48"/>
+			<point x="326" y="-30" type="qcurve" smooth="yes"/>
+			<point x="314" y="-51"/>
+			<point x="314" y="-61" type="qcurve" smooth="yes"/>
+			<point x="314" y="-69"/>
+			<point x="320" y="-69" type="qcurve" smooth="yes"/>
+			<point x="331" y="-69"/>
+			<point x="378" y="-21"/>
+			<point x="436" y="68"/>
+			<point x="487" y="190"/>
+			<point x="502" y="263" type="qcurve" smooth="yes"/>
+			<point x="511" y="310"/>
+			<point x="522" y="419"/>
+			<point x="528" y="530"/>
+			<point x="528" y="580" type="qcurve"/>
+			<point x="905" y="602" type="line" smooth="yes"/>
+			<point x="933" y="604"/>
+			<point x="933" y="616" type="qcurve" smooth="yes"/>
+			<point x="933" y="625"/>
+			<point x="912" y="647"/>
+			<point x="887" y="664"/>
+			<point x="879" y="664" type="qcurve" smooth="yes"/>
+			<point x="873" y="664"/>
+			<point x="867" y="661" type="qcurve" smooth="yes"/>
+			<point x="849" y="653"/>
+			<point x="827" y="652" type="qcurve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="345" y="127" type="line" smooth="yes"/>
+			<point x="356" y="128"/>
+			<point x="373" y="130"/>
+			<point x="373" y="137" type="qcurve" smooth="yes"/>
+			<point x="373" y="143"/>
+			<point x="361" y="164"/>
+			<point x="346" y="180" type="qcurve"/>
+			<point x="362" y="622" type="line"/>
+			<point x="363" y="627"/>
+			<point x="367" y="638"/>
+			<point x="367" y="645" type="qcurve" smooth="yes"/>
+			<point x="367" y="658"/>
+			<point x="340" y="678"/>
+			<point x="325" y="678" type="qcurve" smooth="yes"/>
+			<point x="314" y="678" type="line"/>
+			<point x="156" y="666" type="line"/>
+			<point x="104" y="684"/>
+			<point x="93" y="684" type="qcurve" smooth="yes"/>
+			<point x="85" y="684"/>
+			<point x="85" y="678" type="qcurve" smooth="yes"/>
+			<point x="85" y="674"/>
+			<point x="90" y="664" type="qcurve" smooth="yes"/>
+			<point x="94" y="655"/>
+			<point x="101" y="629"/>
+			<point x="101" y="614" type="qcurve" smooth="yes"/>
+			<point x="110" y="142" type="line" smooth="yes"/>
+			<point x="110" y="128"/>
+			<point x="108" y="101"/>
+			<point x="105" y="86" type="qcurve" smooth="yes"/>
+			<point x="105" y="85"/>
+			<point x="104" y="82"/>
+			<point x="104" y="80" type="qcurve" smooth="yes"/>
+			<point x="104" y="60"/>
+			<point x="142" y="39"/>
+			<point x="154" y="39" type="qcurve" smooth="yes"/>
+			<point x="167" y="39"/>
+			<point x="167" y="60" type="qcurve" smooth="yes"/>
+			<point x="167" y="64" type="line"/>
+			<point x="166" y="121" type="line"/>
+		</contour>
+		<contour>
+			<point x="297" y="436" type="line"/>
+			<point x="160" y="430" type="line"/>
+			<point x="157" y="614" type="line"/>
+			<point x="301" y="625" type="line"/>
+		</contour>
+		<contour>
+			<point x="291" y="178" type="line"/>
+			<point x="165" y="174" type="line"/>
+			<point x="161" y="380" type="line"/>
+			<point x="296" y="385" type="line"/>
+		</contour>
+		<contour>
+			<point x="720" y="625" type="line"/>
+			<point x="722" y="772" type="line" smooth="yes"/>
+			<point x="722" y="788"/>
+			<point x="692" y="803"/>
+			<point x="658" y="809"/>
+			<point x="651" y="809" type="qcurve" smooth="yes"/>
+			<point x="638" y="809"/>
+			<point x="638" y="802" type="qcurve" smooth="yes"/>
+			<point x="638" y="798"/>
+			<point x="642" y="794" type="qcurve" smooth="yes"/>
+			<point x="653" y="781"/>
+			<point x="658" y="760"/>
+			<point x="658" y="751" type="qcurve" smooth="yes"/>
+			<point x="659" y="622" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+48 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 35 values pushed */
+63 1 1 7 68 1 0 4 79 1 12 0 80 1 2 12 72 1 11 10 47 1 5 8 22 1 3 5 7 76 95 93 2 6 74 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 37 values pushed */
+63 1 1 7 68 1 0 4 79 1 12 0 80 11 10 3 9 12 72 1 11 10 47 1 5 8 22 1 3 5 7 76 95 93 2 6 74 
+EIF[ ]	/* EndIf */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+39 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 75 values pushed */
+0 6 7 6 133 0 7 1 7 133 0 1 4 0 1 112 0 4 0 4 133 0 2 12 9 12 2 114 0 5 8 3 8 5 3 128 0 3 3 132 13 1 0 15 1 12 2 0 12 104 0 9 0 10 11 9 10 103 0 11 8 8 11 87 0 11 11 8 95 14 1 8 11 8 79 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+48 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 76 values pushed */
+0 6 7 6 133 0 7 1 7 133 0 1 4 0 1 112 0 4 0 4 133 0 2 12 9 12 2 9 128 0 5 8 3 8 5 3 128 0 3 3 132 13 1 0 15 1 12 2 0 12 104 0 9 0 10 11 9 10 103 0 11 8 8 11 87 0 11 11 8 95 14 1 8 11 8 79 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 68 values pushed */
+0 6 7 6 133 0 7 1 7 133 0 1 4 0 1 112 0 4 0 4 133 0 5 8 3 8 5 3 128 0 3 3 132 13 1 0 15 1 12 9 0 12 104 0 9 0 10 11 9 10 103 0 11 8 8 11 87 0 11 11 8 95 14 1 8 11 8 79 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 41 values pushed */
+87 87 40 40 1 0 87 100 87 100 86 85 84 83 82 81 40 78 40 78 66 64 62 60 45 43 36 35 20 19 11 10 5 3 0 39 1 39 16 6 22 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni6985" format="2">
+	<advance width="1000"/>
+	<unicode hex="6985"/>
+	<note>
+		uni6985
+	</note>
+	<outline>
+		<contour>
+			<point x="427" y="298"/>
+			<point x="444" y="269"/>
+			<point x="448" y="233" type="qcurve" smooth="yes"/>
+			<point x="464" y="0" type="line"/>
+			<point x="425" y="-1" type="line"/>
+			<point x="415" y="-1" type="line" smooth="yes"/>
+			<point x="390" y="-1"/>
+			<point x="368" y="7"/>
+			<point x="366" y="7" type="qcurve" smooth="yes"/>
+			<point x="359" y="7"/>
+			<point x="359" y="-16"/>
+			<point x="386" y="-45" type="qcurve" smooth="yes"/>
+			<point x="393" y="-52"/>
+			<point x="428" y="-52" type="qcurve" smooth="yes"/>
+			<point x="450" y="-52" type="line"/>
+			<point x="969" y="-39" type="line"/>
+			<point x="989" y="-37"/>
+			<point x="989" y="-26" type="qcurve" smooth="yes"/>
+			<point x="989" y="-12"/>
+			<point x="951" y="21"/>
+			<point x="937" y="21"/>
+			<point x="910" y="12"/>
+			<point x="889" y="12" type="qcurve" smooth="yes"/>
+			<point x="880" y="12" type="line"/>
+			<point x="901" y="260" type="line" smooth="yes"/>
+			<point x="902" y="265"/>
+			<point x="905" y="276"/>
+			<point x="905" y="295"/>
+			<point x="883" y="313"/>
+			<point x="865" y="313" type="qcurve" smooth="yes"/>
+			<point x="857" y="313" type="line"/>
+			<point x="507" y="295" type="line"/>
+			<point x="463" y="311"/>
+			<point x="427" y="311"/>
+		</contour>
+		<contour>
+			<point x="823" y="10" type="line"/>
+			<point x="754" y="8" type="line"/>
+			<point x="759" y="256" type="line"/>
+			<point x="839" y="260" type="line"/>
+		</contour>
+		<contour>
+			<point x="701" y="7" type="line"/>
+			<point x="640" y="5" type="line"/>
+			<point x="634" y="249" type="line"/>
+			<point x="706" y="253" type="line"/>
+		</contour>
+		<contour>
+			<point x="587" y="3" type="line"/>
+			<point x="522" y="1" type="line"/>
+			<point x="508" y="243" type="line"/>
+			<point x="581" y="247" type="line"/>
+		</contour>
+		<contour>
+			<point x="847" y="671" type="line" smooth="yes"/>
+			<point x="848" y="676"/>
+			<point x="855" y="687"/>
+			<point x="855" y="705"/>
+			<point x="824" y="729"/>
+			<point x="809" y="729" type="qcurve" smooth="yes"/>
+			<point x="803" y="729" type="line"/>
+			<point x="542" y="713" type="line"/>
+			<point x="486" y="734"/>
+			<point x="460" y="734"/>
+			<point x="460" y="722"/>
+			<point x="481" y="690"/>
+			<point x="484" y="651" type="qcurve" smooth="yes"/>
+			<point x="499" y="434" type="line" smooth="yes"/>
+			<point x="500" y="427"/>
+			<point x="500" y="421" type="qcurve" smooth="yes"/>
+			<point x="500" y="398" type="line" smooth="yes"/>
+			<point x="500" y="393"/>
+			<point x="499" y="387" type="qcurve" smooth="yes"/>
+			<point x="499" y="382" type="line" smooth="yes"/>
+			<point x="499" y="371"/>
+			<point x="511" y="359"/>
+			<point x="538" y="347"/>
+			<point x="545" y="347" type="qcurve" smooth="yes"/>
+			<point x="559" y="347"/>
+			<point x="559" y="366" type="qcurve" smooth="yes"/>
+			<point x="559" y="370" type="line"/>
+			<point x="558" y="385" type="line"/>
+			<point x="823" y="399" type="line" smooth="yes"/>
+			<point x="834" y="400"/>
+			<point x="851" y="404"/>
+			<point x="851" y="422"/>
+			<point x="824" y="450" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="781" y="593" type="line"/>
+			<point x="545" y="579" type="line"/>
+			<point x="540" y="661" type="line"/>
+			<point x="789" y="677" type="line"/>
+		</contour>
+		<contour>
+			<point x="768" y="446" type="line"/>
+			<point x="555" y="435" type="line"/>
+			<point x="549" y="529" type="line"/>
+			<point x="777" y="542" type="line"/>
+		</contour>
+		<contour>
+			<point x="72" y="537" type="line"/>
+			<point x="64" y="537"/>
+			<point x="64" y="530" type="qcurve" smooth="yes"/>
+			<point x="64" y="526"/>
+			<point x="66" y="522"/>
+			<point x="76" y="499"/>
+			<point x="98" y="478"/>
+			<point x="128" y="478"/>
+			<point x="144" y="480" type="qcurve" smooth="yes"/>
+			<point x="225" y="488" type="line"/>
+			<point x="189" y="382"/>
+			<point x="98" y="203"/>
+			<point x="40" y="112"/>
+			<point x="40" y="90"/>
+			<point x="54" y="90"/>
+			<point x="115" y="154"/>
+			<point x="222" y="323"/>
+			<point x="237" y="380" type="qcurve"/>
+			<point x="236" y="367" type="line" smooth="yes"/>
+			<point x="233" y="328"/>
+			<point x="233" y="135"/>
+			<point x="230" y="51" type="qcurve" smooth="yes"/>
+			<point x="230" y="23" type="line" smooth="yes"/>
+			<point x="230" y="-6"/>
+			<point x="221" y="-43"/>
+			<point x="221" y="-46" type="qcurve" smooth="yes"/>
+			<point x="221" y="-58" type="line" smooth="yes"/>
+			<point x="221" y="-66"/>
+			<point x="243" y="-85"/>
+			<point x="267" y="-93"/>
+			<point x="270" y="-93" type="qcurve" smooth="yes"/>
+			<point x="288" y="-93"/>
+			<point x="288" y="-69" type="qcurve" smooth="yes"/>
+			<point x="293" y="377" type="line"/>
+			<point x="333" y="339"/>
+			<point x="360" y="297" type="qcurve" smooth="yes"/>
+			<point x="373" y="278"/>
+			<point x="394" y="278"/>
+			<point x="422" y="304"/>
+			<point x="422" y="328"/>
+			<point x="320" y="426"/>
+			<point x="306" y="426" type="qcurve" smooth="yes"/>
+			<point x="299" y="426"/>
+			<point x="293" y="420" type="qcurve"/>
+			<point x="294" y="493" type="line"/>
+			<point x="403" y="504" type="line" smooth="yes"/>
+			<point x="424" y="506"/>
+			<point x="424" y="519" type="qcurve" smooth="yes"/>
+			<point x="424" y="524"/>
+			<point x="409" y="544"/>
+			<point x="387" y="561"/>
+			<point x="374" y="561"/>
+			<point x="356" y="554"/>
+			<point x="333" y="552" type="qcurve" smooth="yes"/>
+			<point x="295" y="548" type="line"/>
+			<point x="297" y="753" type="line" smooth="yes"/>
+			<point x="297" y="765"/>
+			<point x="286" y="777"/>
+			<point x="245" y="793"/>
+			<point x="219" y="793"/>
+			<point x="219" y="782"/>
+			<point x="237" y="755"/>
+			<point x="237" y="735" type="qcurve" smooth="yes"/>
+			<point x="235" y="543" type="line"/>
+			<point x="107" y="533" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 42 values pushed */
+66 1 18 17 151 97 88 3 19 22 149 142 107 3 27 19 65 1 23 20 108 63 2 13 23 134 118 59 3 14 13 31 1 26 11 7 76 126 1 4 1 75 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+9 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 151 values pushed */
+0 21 15 21 133 0 15 16 15 133 0 22 18 19 18 22 19 128 0 27 19 20 19 27 20 128 0 23 20 13 20 23 13 128 0 14 13 0 13 14 114 0 0 1 13 0 1 126 0 24 1 7 1 24 7 128 0 9 7 11 7 9 114 0 11 26 7 11 112 0 26 3 7 26 3 126 0 3 2 6 3 112 0 2 5 6 2 112 10 8 2 5 6 6 5 112 0 25 4 25 134 0 16 0 17 18 16 17 103 0 18 0 19 27 18 19 103 0 20 0 13 14 20 13 103 0 1 0 7 9 1 7 103 12 1 6 4 4 6 89 12 1 6 6 4 96 0 4 6 4 80 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+10 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 155 values pushed */
+0 21 15 21 133 0 15 16 15 133 0 22 18 19 18 22 19 128 0 27 19 20 19 27 20 128 0 23 20 13 20 23 13 128 0 14 13 0 13 14 114 0 0 1 13 0 1 126 0 24 1 7 1 24 7 128 0 9 7 11 7 9 114 0 11 26 7 11 112 0 26 3 7 26 3 126 0 3 2 6 3 112 0 2 5 6 2 112 10 8 2 5 12 6 5 112 0 12 6 6 12 112 0 25 4 25 134 0 16 0 17 18 16 17 103 0 18 0 19 27 18 19 103 0 20 0 13 14 20 13 103 0 1 0 7 9 1 7 103 0 6 4 4 6 89 0 6 6 4 96 0 4 6 4 80 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+28 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 151 values pushed */
+0 21 15 21 133 0 15 16 15 133 0 22 18 19 18 22 19 128 0 27 19 20 19 27 20 128 0 23 20 13 20 23 13 128 0 14 13 0 13 14 114 0 0 1 13 0 1 126 0 24 1 7 1 24 7 128 0 9 7 11 7 9 114 0 11 26 7 11 112 0 26 3 7 26 3 126 0 3 2 6 3 112 0 2 5 6 2 112 10 8 2 5 6 6 5 112 0 25 4 25 134 0 16 0 17 18 16 17 103 0 18 0 19 27 18 19 103 0 20 0 13 14 20 13 103 0 1 0 7 9 1 7 103 12 1 6 4 4 6 89 12 1 6 6 4 96 0 4 6 4 80 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 152 values pushed */
+0 21 15 21 133 0 15 16 15 133 0 22 18 19 18 22 19 128 0 27 19 20 19 27 20 128 0 23 20 13 20 23 13 128 0 14 13 0 13 14 0 128 0 0 1 13 0 1 126 0 24 1 7 1 24 7 128 0 9 7 11 7 9 114 0 11 26 7 11 112 0 26 3 7 26 3 126 0 3 2 6 3 112 0 2 5 6 2 112 10 8 2 5 6 6 5 112 0 25 4 25 134 0 16 0 17 18 16 17 103 0 18 0 19 27 18 19 103 0 20 0 13 14 20 13 103 0 1 0 7 9 1 7 103 12 1 6 4 4 6 89 12 1 6 6 4 96 0 4 6 4 80 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 50 values pushed */
+145 144 138 137 121 120 115 114 111 109 101 100 93 92 86 85 84 83 82 81 80 79 74 71 70 69 55 54 51 50 45 44 43 42 41 40 39 38 17 20 49 35 52 17 37 49 16 28 6 31 
+CALL[ ]	/* CallFunction */</string>
+		</dict>
+	</lib>
+</glyph>

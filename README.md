@@ -143,18 +143,12 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ## 其它项目
 
-### 日系字体中文化
-
-- [霞鹜传承晰黑 / Lxgw Trad Clear Gothic](https://github.com/lxgw/LxgwClearGothic)
+- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
 - [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
 - [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
-### 975 系列
-
-- [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
-- [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
 
 ## 打赏支持
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)

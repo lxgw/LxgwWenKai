@@ -104,7 +104,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 3. 由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，而 Bold 字重需要在粗体模式下才能调用，特制作以 Bold 字重为基础的 [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)，加粗后的「霞鹜文楷」与 Windows 默认英文字体 Segoe UI Regular 粗细相当，PC 和 Android 手机屏幕阅读更加舒适，无需特别切换到粗体模式。此外，屏幕阅读版也将作为本项目的先行测试版。
 4. 另有更粗且经过手工调整的 [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)，加粗的同时减少笔画黏连。目前正处于测试阶段，最终将做完 GB 2312 及《通用规范汉字表》。
 5. 为便于开发者将字体嵌入软件中，按照 [v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)。与 v1.100 版本的霞鹜文楷相比，剔除 v1.100 版本增补的一些较不常用的汉字，回到过往版本的体积。若完整版有字形优化或特性更新，精简版也将会跟进（大量增字除外）。精简版不包含谚文。
-6. 对于搭配的西文字体，推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体，推荐选用 Ysabeau Office 字体。另有采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将 Ysabeau 与霞鹜文楷轻便版合并而成的 [LXGW Bright](https://github.com/lxgw/LxgwBright) 字体，提供 TTF 和 OTF 两种格式。
+6. 对于搭配的西文字体，推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将 Ysabeau Office 与霞鹜文楷轻便版合并而成的 [LXGW Bright](https://github.com/lxgw/LxgwBright) 字体，提供 TTF 和 OTF 两种格式。
 7. **若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)。**
 8. 另，本字体也有供繁体中文用户和旧字形爱好者使用的 [繁体中文版](https://github.com/lxgw/LxgwWenkaiTC)，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改，处于半弃更状态。目前已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的「国字标准字形」，有台标字形需求的可使用「芫荽」字体。下一个版本会从「芫荽」字体中选出改得比本字体更好的字形替换本字体原有的字形。
 

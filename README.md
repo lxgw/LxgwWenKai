@@ -89,6 +89,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字 *（深度学习生成，字形较粗糙）* ；
 - [x] 补全常用谚文（韩语/朝鲜语）音节 2367 个。
 
+[点击此处查看加字及调整计划。](https://github.com/lxgw/LxgwWenKai/projects)
+
 ## 下载字体
 
 1. 进入 [Release](https://github.com/lxgw/LxgwWenKai/releases) 界面下载对应版本的 TTF 格式文件。以后 TTF 文件仅在 Release 页面更新。

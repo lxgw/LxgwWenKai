@@ -1,3 +1,33 @@
+
+
+### v1.111 21/12/17
+- 调整汉字字形
+  - 拥佣痈㶲 *（「用」字宽度问题）*
+  - 纣纹纺绒 *（「纟」旁高度问题）*
+  - 摱 *（字符宽度问题）*
+  - 鐋 *（偏旁比例问题）*
+  - 夠 *（大小问题）*
+- 调整谚文
+  - U+CDC4 췄 *（上一版显示为"췠"）*
+  - U+C633 옳 *（上一版显示为"옯"）*
+- 新增汉字
+  - U+2DD0A 𭴊 *（⿰火无）*
+  - U+3DFB 㷻
+  - U+2C386 𬎆 *（⿰王莹）*
+  - U+3F06 㼆
+  - U+2C081 𬂁 *（⿰月君）*
+  - U+2BA98 𫪘 *（⿰口欧）*
+  - U+210BF 𡂿 *（⿰口歐）*
+  - U+2BA81 𫪁 *（⿰口来）*
+  - 
+### v1.110 21.10.14
+- 按照 [Jua](https://github.com/google/fonts/tree/main/ofl/jua) 字库增补常用谚文音节 2367 个，以实现对韩语/朝鲜语的支持。  
+![](https://s3.bmp.ovh/imgs/2021/10/2c824b2ee76b6171.png)
+- 依照 GB/T 15834-2011 规格，竖向排版时，问号、叹号、分号与冒号靠右。  
+![](https://s3.bmp.ovh/imgs/2021/10/09f2772282b3186c.png)
+- 将注音符号替换为 [澳声通注音文楷](https://github.com/jeffreyxuan/toneoz-font-zhuyin-wenkai) 效果。  
+![](https://s3.bmp.ovh/imgs/2021/10/342b7b804f687aa0.png)  
+
 ### Ver 1.101 2021.10.10
 - 应用户反馈及《纯纯写作》用户投票，本版本起恢复非全宽的蝌蚪引号。[详情点此](https://weibo.com/6624339726/KC5EPErjl)
 - 此外，为便于开发者将字体嵌入软件中，按照 [v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite/releases)，剔除 v1.100 版本增补的一些较不常用的汉字，字体文件回到过往版本的体积。若完整版有字形优化或特性更新，精简版也将会跟进（大量增字除外）。

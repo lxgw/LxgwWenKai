@@ -82,8 +82,10 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - 补完常用粤语、闽南语、客家语用字。*（基于 [「常用香港外字表」](https://github.com/ichitenfont/suppchara)）*
   - [x] 常用香港外字表 A-C 级
   - [x] 常用香港外字表 1-2 级
-  - [x] 常用香港外字表 3 级
+  - [x] 常用香港外字表 3-4 级
+  - [ ] 常用香港外字表 5 级
   - [x] 台湾闽客汉字（外字表ㄅ级）
+- [ ] 补完 IICore。
 
 ### 其他
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字 *（深度学习生成，字形较粗糙）* ；

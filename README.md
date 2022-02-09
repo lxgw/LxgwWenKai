@@ -88,6 +88,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
   - [x] 台湾闽客汉字（外字表ㄅ级）
 - [ ] 补完 IICore。
 
+*（以上字形补完后，将覆盖完整版 zi2zi 生成的字形，Lite 版也会加入这些字。）*
+
 ### 其他
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字 *（深度学习生成，字形较粗糙）* ；
 - [x] 补全常用谚文（韩语/朝鲜语）音节 2367 个。

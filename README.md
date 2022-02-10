@@ -113,7 +113,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 5. 为便于开发者将字体嵌入软件中，按照 [v1.008](https://github.com/lxgw/LxgwWenKai/releases/v1.008) 的字库大小提供 [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)。与 v1.100 版本的霞鹜文楷相比，剔除 v1.100 版本增补的一些较不常用的汉字，回到过往版本的体积。若完整版有字形优化或特性更新，精简版也将会跟进。精简版不包含谚文。
 6. **若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)。**
 7. 对于搭配的西文字体，推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有 Ysabeau Office 与霞鹜文楷轻便版的合并字体 [LXGW Bright](https://github.com/lxgw/LxgwBright)，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将两款字体合并而成，提供 TTF 和 OTF 两种格式。
-8. ~~另，本字体也有供繁体中文用户和旧字形爱好者使用的 [繁体中文版](https://github.com/lxgw/LxgwWenkaiTC)，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改，处于半弃更状态。~~ 目前已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的「国字标准字形」，有繁体需求的可使用「芫荽」字体。下一个版本会从「芫荽」字体中选出改得比本字体更好的字形替换本字体原有的字形。
+8. ~~另，本字体也有供繁体中文用户和旧字形爱好者使用的 [繁体中文版](https://github.com/lxgw/LxgwWenkaiTC)，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改，处于半弃更状态。~~ 目前已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的「国字标准字形」，有繁体需求的可使用「芫荽」字体。自 v1.200 版本起，会从「芫荽」字体中选出改得比本字体更好的字形替换本字体原有的字形。
 
 ## 协助完善
 

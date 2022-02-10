@@ -92,7 +92,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ### 其他
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字 *（深度学习生成，字形较粗糙）* ；
-- [x] 补全常用谚文（韩语/朝鲜语）音节 2367 个。
+- [x] 补全常用谚文（韩语/朝鲜语）音节 2367 个。 *（Lite 版不加入韩语谚文）*
 
 [点击此处查看后续加字及调整计划。](https://github.com/lxgw/LxgwWenKai/projects)
 

@@ -83,8 +83,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
   - [x] 常用香港外字表 5 级
   - [x] 台湾闽客汉字（外字表ㄅ级）
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 方正、汉仪简繁字库所含汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) （简繁）IICore 范围内 9810 个汉字；
-- [ ] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) （简繁）[eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) IICore 范围内 9810 个汉字；
+- [ ] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
   - [ ] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
   - [ ] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
   - [ ] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；

@@ -76,7 +76,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区「常用国字标准字体表」4808 个繁体常用汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) BIG5 一级（常用）汉字 5401 个；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 「通用规范汉字表」内汉字对应的繁体字或港台异体字；
-- ![](https://img.shields.io/badge/-%E7%B9%81-orange) 常用粤语、闽南语、客家语用字；*（基于 [「常用香港外字表」](https://github.com/ichitenfont/suppchara)）*
+- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 常用粤语、闽南语、客家语用字；*（基于 [「常用香港外字表」](https://github.com/ichitenfont/suppchara)）*
   - [x] 常用香港外字表 A-C 级
   - [x] 常用香港外字表 1-2 级
   - [x] 常用香港外字表 3-4 级

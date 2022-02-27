@@ -88,7 +88,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
   - [ ] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
   - [ ] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
   - [ ] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
-  - [ ] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；
+  - [ ] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
 *（以上字形补完后，将覆盖完整版中机器生成的字形，Lite 版也会加入这些字。）*
 
 ### 其他部分

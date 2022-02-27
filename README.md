@@ -68,23 +68,23 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ### 主要汉字部分
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 原字库所含繁体字对应的简化字（仅限 GBK 范围内）；
-- [x] （简）「现代汉语常用字表」（老 3500 字）与「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），共计 3603 个简体常用汉字;
-- [x] （简）「信息交换用汉字编码字符集（GB/T 2312-80）」 6763 个汉字；
-- [x] （简）「通用规范汉字表」8105 个汉字；
-- [x] （简）小鹤音形输入法表外字；
-- [x] （繁）「GB/T 12345-90」6866 个汉字；
-- [x] （繁）台湾地区「常用国字标准字体表」4808 个繁体常用汉字；
-- [x] （繁）BIG5 一级（常用）汉字 5401 个；
-- [x] （繁）「通用规范汉字表」内汉字对应的繁体字或港台异体字；
-- （繁）常用粤语、闽南语、客家语用字；*（基于 [「常用香港外字表」](https://github.com/ichitenfont/suppchara)）*
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「现代汉语常用字表」（老 3500 字）与「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），共计 3603 个简体常用汉字;
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「信息交换用汉字编码字符集（GB/T 2312-80）」 6763 个汉字；
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「通用规范汉字表」8105 个汉字；
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  小鹤音形输入法表外字；
+- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 「GB/T 12345-90」6866 个汉字；
+- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区「常用国字标准字体表」4808 个繁体常用汉字；
+- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) BIG5 一级（常用）汉字 5401 个；
+- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 「通用规范汉字表」内汉字对应的繁体字或港台异体字；
+- ![](https://img.shields.io/badge/-%E7%B9%81-orange) 常用粤语、闽南语、客家语用字；*（基于 [「常用香港外字表」](https://github.com/ichitenfont/suppchara)）*
   - [x] 常用香港外字表 A-C 级
   - [x] 常用香港外字表 1-2 级
   - [x] 常用香港外字表 3-4 级
   - [x] 常用香港外字表 5 级
   - [x] 台湾闽客汉字（外字表ㄅ级）
-- [x] （简繁）方正、汉仪简繁字库所含汉字；
-- [x] （简繁）IICore 范围内 9810 个汉字；
-- [ ] （简繁）[eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 方正、汉仪简繁字库所含汉字；
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) （简繁）IICore 范围内 9810 个汉字；
+- [ ] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) （简繁）[eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
   - [ ] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
   - [ ] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
   - [ ] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；

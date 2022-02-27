@@ -84,9 +84,10 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
   - [x] 常用香港外字表 3-4 级
   - [x] 常用香港外字表 5 级
   - [x] 台湾闽客汉字（外字表ㄅ级）
-- [x] 补完 eisoch/irg#84、eisoch/irg#85、eisoch/irg#86、eisoch/irg#105 所收录的方言、科技、文学用汉字；
 - [x] 补完 IICore 范围内 9810 个简繁汉字。
+- [ ] 补完 eisoch/irg#84、eisoch/irg#85、eisoch/irg#86、eisoch/irg#105 所收录的方言、科技、文学用汉字；
 *（以上字形补完后，将覆盖完整版中机器生成的字形，Lite 版也会加入这些字。）*
+
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字 *（深度学习生成，字形较粗糙）* ；
 - [x] 补全常用谚文（韩语/朝鲜语）音节 2367 个。 *（Lite 版不加入韩语谚文）*
 

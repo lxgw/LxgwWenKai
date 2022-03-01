@@ -71,6 +71,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「现代汉语常用字表」（老 3500 字）与「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），共计 3603 个简体常用汉字;
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「信息交换用汉字编码字符集（GB/T 2312-80）」 6763 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「通用规范汉字表」8105 个汉字；
+- [ ] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  中国大陆 [「标准电码本」](https://zi.tools/?secondary=character_set&set=GT) 收录汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  小鹤音形输入法表外字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 「GB/T 12345-90」6866 个汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区「常用国字标准字体表」4808 个繁体常用汉字；

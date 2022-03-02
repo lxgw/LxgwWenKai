@@ -84,13 +84,12 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
   - [x] 台湾闽客汉字（外字表ㄅ级）
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 方正、汉仪简繁字库所含汉字；
 - [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) IICore 范围内 9810 个汉字；
-- [ ] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
-  - [ ] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
-  - [ ] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
-  - [ ] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
-  - [ ] [#96](https://github.com/eisoch/irg/issues/86) 现代汉语中较常用的韩国吏读字和越南喃字；
-  - [ ] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
-*（以上字形补完后，将覆盖完整版中机器生成的字形，Lite 版也会加入这些字。）*
+- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
+  - [x] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
+  - [x] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
+  - [x] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
+  - [x] [#96](https://github.com/eisoch/irg/issues/86) 现代汉语中较常用的韩国吏读字和越南喃字；
+  - [x] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
 
 ### 其他部分
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字（简繁） *（深度学习生成，字形较粗糙）* ；

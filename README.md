@@ -73,29 +73,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 ## 补字计划
 
 ### 主要汉字部分
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 原字库所含繁体字对应的简化字（仅限 GBK 范围内）；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「现代汉语常用字表」（老 3500 字）与「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），共计 3603 个简体常用汉字;
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「信息交换用汉字编码字符集（GB/T 2312-80）」 6763 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen) 「通用规范汉字表」8105 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80-brightgreen)  小鹤音形输入法表外字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 「GB/T 12345-90」6866 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 台湾地区「常用国字标准字体表」4808 个繁体常用汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) BIG5 一级（常用）汉字 5401 个；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 「通用规范汉字表」内汉字对应的繁体字或港台异体字；
-- [x] ![](https://img.shields.io/badge/-%E7%B9%81-orange) 常用粤语、闽南语、客家语用字；*（基于 [「常用香港外字表」](https://github.com/ichitenfont/suppchara)）*
-  - [x] 常用香港外字表 A-C 级
-  - [x] 常用香港外字表 1-2 级
-  - [x] 常用香港外字表 3-4 级
-  - [x] 常用香港外字表 5 级
-  - [x] 台湾闽客汉字（外字表ㄅ级）
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) 方正、汉仪简繁字库所含汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) IICore 范围内 9810 个汉字；
-- [x] ![](https://img.shields.io/badge/-%E7%AE%80%E7%B9%81-blue) [eisoch/irg](https://github.com/eisoch/irg/) 中列出的方言、人名、地名、科技用生僻字； 
-  - [x] [#84](https://github.com/eisoch/irg/issues/84) 方言用字；
-  - [x] [#85](https://github.com/eisoch/irg/issues/85) 人名用字；
-  - [x] [#86](https://github.com/eisoch/irg/issues/86) 科技、学术用字；
-  - [x] [#96](https://github.com/eisoch/irg/issues/96) 现代汉语中较常用的韩国吏读字和越南喃字；
-  - [x] [#105](https://github.com/eisoch/irg/issues/105) 地名用字；  
+请参阅 [霞鹜文楷 Lite 加字计划](https://github.com/lxgw/LxgwWenKai-Lite#%E5%8A%A0%E5%AD%97%E8%AE%A1%E5%88%92)。
 
 ### 其他部分
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字（简繁） *（深度学习生成，字形较粗糙）* ；

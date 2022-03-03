@@ -73,7 +73,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 ## 补字计划
 
 ### 主要汉字部分
-请参阅 [霞鹜文楷 Lite 加字计划](https://github.com/lxgw/LxgwWenKai-Lite#%E5%8A%A0%E5%AD%97%E8%AE%A1%E5%88%92)。
+请参阅[「霞鹜文楷 Lite」加字计划](https://github.com/lxgw/LxgwWenKai-Lite#%E5%8A%A0%E5%AD%97%E8%AE%A1%E5%88%92)。
 
 ### 其他部分
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字（简繁） *（深度学习生成，字形较粗糙）* ；

@@ -47,7 +47,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 <details>
   <summary>简要更新记录</summary>
-- **2021.01.20** 着手为 Klee 增补简体字。
+<p><b>2021.01.20</b> 着手为 Klee 增补简体字。</p>
 - **2021.02.03** 完成原有字形繁转简工作。
 - **2021.02.05** 增补完 3603 简中常用字。
 - **2021.02.07** 增补完 4808 繁中常用字。

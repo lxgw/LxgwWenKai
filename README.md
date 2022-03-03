@@ -63,6 +63,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 	<li><b>2021.10.13</b> 完整版（本项目）增补 2367 个常用谚文音节，实现对韩语/朝鲜语的支持，版本号 1.110。</li>
 	<li><b>2022.02.15</b> 1.200 版本发布。</li>
 	<li><b>2022.02.16</b> 1.210 版本发布，修改等宽字符。</li>
+	<li><b>2022.03.02</b> 1.220 版本发布，继续增补汉字。</li>
   </ul>
 </details>
 

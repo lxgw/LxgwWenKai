@@ -87,8 +87,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 1. 进入 [Release](https://github.com/lxgw/LxgwWenKai/releases) 界面下载对应版本的 TTF 格式文件。以后 TTF 文件仅在 Release 页面更新。
 2. 进入 [猫啃网](https://www.maoken.com/freefonts/9704.html) 进行下载。GitHub 项目更新后，会联系猫啃网站长进行同步更新。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
 3. [永硕个人网盘](http://lxgw.ys168.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会进行同步更新。
-4. 本仓库 **FCP** 文件夹内为早期增补字的 Font Creator 工程文件，包含部分笔画分离的字形，可用 Font Creator 打开查看； **MonoLatin** 文件夹用于存放「霞鹜文楷等宽」的西文字体，字体名称为 LXGW WenKai Mono Latin； **Hangul** 文件夹存放笔画分离的谚文字体 LXGW MunHae。
-5. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-wenkai` 来安装本字体。
+4. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-wenkai` 来安装本字体。
+5. 本仓库 **FCP** 文件夹内为早期增补字的 Font Creator 工程文件，包含部分笔画分离的字形，可用 Font Creator 打开查看； **MonoLatin** 文件夹用于存放「霞鹜文楷等宽」的西文字体，字体名称为 LXGW WenKai Mono Latin； **Hangul** 文件夹存放笔画分离的谚文字体 LXGW MunHae。
 
 ## 注意事项
 

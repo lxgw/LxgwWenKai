@@ -1,9 +1,9 @@
 > **注意事项**
 > - 添字请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 反馈，字形调整请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 反馈，不要另开议题。
 > - 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)。
-> - 更多版本：
+> - 更多版本 *（可能会随时进行调整）* ：
 >   - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：适用于 PC 和 Android 手机屏幕显示且无需特别切换到粗体模式。
->   - [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)：更粗且经过手工调整减少笔画黏连，目前正在制作中，最终将做完 GB 2312 及《通用规范汉字表》。
+>   - [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)：更粗且经过手工调整减少笔画黏连，目前正在制作中，最终将做完 GB/T 2312 及《通用规范汉字表》。
 >   - [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：与完整版的霞鹜文楷相比，剔除一些较不常用的汉字，且不包含谚文，便于开发者将字体嵌入软件中。
 >   - [霞鶩文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC/)：繁體中文舊字形版正在製作中，目前正在參考 [傳承字形檢校表](https://github.com/ichitenfont/inheritedglyphs) 進行字形調整。
 >   - [LXGW Bright](https://github.com/lxgw/LxgwBright)：与 Ysabeau Office 的中英文合并字体。
@@ -45,8 +45,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-9.png)
 
-## 简要更新记录
-
+<details>
+  <summary>简要更新记录</summary>
 - **2021.01.20** 着手为 Klee 增补简体字。
 - **2021.02.03** 完成原有字形繁转简工作。
 - **2021.02.05** 增补完 3603 简中常用字。
@@ -62,6 +62,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 - **2021.10.13** 完整版（本项目）增补 2367 个常用谚文音节，实现对韩语/朝鲜语的支持，版本号 1.110。
 - **2022.02.15** 1.200 版本发布。
 - **2022.02.16** 1.210 版本发布，修改等宽字符。
+</details>
 
 [查看详细更新记录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
 
@@ -114,7 +115,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTW
 2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在 Bold 字重中部分字的轮廓曲线会有毛刺；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。**如有字形优化建议，请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 提出，不要另开 Issue。**  *（以上两个 issue 均已加上 long term 标签，且均已在 Issues 页面置顶。）*
 3. **若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)。**
 4. 对于搭配的西文字体，推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有 Ysabeau Office 与霞鹜文楷轻便版的合并字体 [LXGW Bright](https://github.com/lxgw/LxgwBright)，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将两款字体合并而成，提供 TTF 和 OTF 两种格式。
-5. 该字体的更多版本 *（可能会随时调整）*
+5. 该字体的更多版本 *（可能会随时进行调整）*
    1. [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen) 由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，而 Bold 字重需要在粗体模式下才能调用，特制作以 Bold 字重为基础的，加粗后的「霞鹜文楷」与 Windows 默认英文字体 Segoe UI Regular 粗细相当，PC 和 Android 手机屏幕阅读更加舒适，无需特别切换到粗体模式。
    2. [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)：更粗且经过手工调整，加粗的同时减少笔画黏连。目前正处于测试阶段，最终将做完 GB 2312 及《通用规范汉字表》。
    3. [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：剔除 v1.100 版本增补的一些较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。精简版不包含谚文。

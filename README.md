@@ -64,6 +64,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 	<li><b>2022.02.15</b> 1.200 版本发布。</li>
 	<li><b>2022.02.16</b> 1.210 版本发布，修改等宽字符。</li>
 	<li><b>2022.03.02</b> 1.220 版本发布，继续增补汉字。</li>
+	<li><b>2022.04.20</b> 1.234 版本发布，GB/T 2312、GB/T 8565.2、通用规范汉字表范围内字形修改完成。</li>
   </ul>
 </details>
 

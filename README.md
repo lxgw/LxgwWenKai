@@ -1,7 +1,7 @@
 > **注意事项**
 > - 添字请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 反馈，字形调整请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 反馈，不要另开议题。
 > - 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)。
-> - 有关字体模块的问题，请不要在本项目的 Issue 里反馈。
+> - 有关 Magisk 字体模块的问题，请不要在本项目的 Issue 里反馈。
 > - 更多版本 *（可能会随时变动）* ：
 >   - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：适用于 PC 和 Android 手机屏幕显示且无需特别切换到粗体。
 >   - [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)：更粗且经过手工调整减少笔画黏连，目前正在制作中。

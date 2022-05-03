@@ -136,6 +136,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
 - [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 为字形设计提供指导；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
+- [Iosevka](https://github.com/be5invis/Iosevka) / [更纱黑体](https://github.com/be5invis/Sarasa-Gothic) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供 Powerline 符号。 
 - [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)
 
 ## 由本字体衍生的字体

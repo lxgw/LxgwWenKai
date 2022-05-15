@@ -110,7 +110,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 霞鹜文楷仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。
 
-- **Telegram：** @lxgwtg
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)

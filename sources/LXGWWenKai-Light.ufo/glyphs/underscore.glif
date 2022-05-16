@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="0332"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="500" y="-109" type="line"/>
+      <point x="515" y="-109"/>
+      <point x="515" y="-160"/>
+      <point x="500" y="-160" type="qcurve"/>
+      <point x="0" y="-160" type="line"/>
+      <point x="-7" y="-160"/>
+      <point x="-15" y="-144"/>
+      <point x="-15" y="-125"/>
+      <point x="-7" y="-109"/>
+      <point x="0" y="-109" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l500-109o515-109o515-160q500-160l0-160o-7-160o-15-144o-15-125o-7-109q0-109|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0409" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="0409"/>
+  <outline>
+    <contour>
+      <point x="297" y="47" type="line"/>
+      <point x="353" y="47"/>
+      <point x="386" y="104" type="qcurve"/>
+      <point x="412" y="150"/>
+      <point x="412" y="219" type="qcurve"/>
+      <point x="412" y="312"/>
+      <point x="374" y="343" type="qcurve"/>
+      <point x="362" y="353"/>
+      <point x="350" y="353" type="qcurve"/>
+      <point x="319" y="353"/>
+      <point x="297" y="344" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="56" y="-19" type="qcurve"/>
+      <point x="40" y="-19"/>
+      <point x="13" y="13"/>
+      <point x="13" y="24" type="qcurve"/>
+      <point x="13" y="34"/>
+      <point x="19" y="42" type="qcurve"/>
+      <point x="60" y="94"/>
+      <point x="86" y="252"/>
+      <point x="86" y="353" type="qcurve"/>
+      <point x="86" y="638"/>
+      <point x="84" y="688" type="qcurve"/>
+      <point x="84" y="708"/>
+      <point x="106" y="708" type="qcurve"/>
+      <point x="124" y="708"/>
+      <point x="143" y="695" type="qcurve"/>
+      <point x="223" y="709"/>
+      <point x="248" y="719"/>
+      <point x="262" y="719" type="qcurve"/>
+      <point x="277" y="719"/>
+      <point x="293" y="695"/>
+      <point x="303" y="672"/>
+      <point x="303" y="658"/>
+      <point x="297" y="630"/>
+      <point x="297" y="421" type="qcurve"/>
+      <point x="313" y="427"/>
+      <point x="344" y="427" type="qcurve"/>
+      <point x="416" y="427"/>
+      <point x="482" y="308"/>
+      <point x="482" y="222" type="qcurve"/>
+      <point x="482" y="112"/>
+      <point x="429" y="41" type="qcurve"/>
+      <point x="385" y="-18"/>
+      <point x="309" y="-18" type="qcurve"/>
+      <point x="222" y="-18"/>
+      <point x="202" y="11" type="qcurve"/>
+      <point x="197" y="18"/>
+      <point x="197" y="23" type="qcurve"/>
+      <point x="197" y="44"/>
+      <point x="224" y="44" type="qcurve"/>
+      <point x="224" y="633" type="line"/>
+      <point x="158" y="623" type="line"/>
+      <point x="158" y="355" type="line"/>
+      <point x="158" y="105"/>
+      <point x="77" y="-10" type="qcurve"/>
+      <point x="71" y="-19"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>bf3d226e54ff9861fcb3b3c3a2176c931239b6dbb175500c7936544d2733a6313fb3add0e7e251a11f4421890d7665ae7b211fdad1f18c66ae07f56e79cf9b70</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

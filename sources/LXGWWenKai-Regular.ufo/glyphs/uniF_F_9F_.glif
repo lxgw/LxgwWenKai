@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF9F" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="FF9F"/>
+  <outline>
+    <contour>
+      <point x="112" y="683"/>
+      <point x="145" y="648"/>
+      <point x="192" y="648"/>
+      <point x="225" y="683"/>
+      <point x="225" y="728"/>
+      <point x="192" y="762"/>
+      <point x="145" y="762"/>
+      <point x="112" y="728"/>
+    </contour>
+    <contour>
+      <point x="210" y="805"/>
+      <point x="269" y="747"/>
+      <point x="269" y="664"/>
+      <point x="210" y="605"/>
+      <point x="127" y="605"/>
+      <point x="69" y="664"/>
+      <point x="69" y="747"/>
+      <point x="127" y="805"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>c48eab2cf057153d858a8f4e96bb45be6fa3447a9772a4ab049571be5d894f0eea61fc0be3ba9b04007783050e9eda01b25cd6334c909524ef89ab356b64de53</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <real>880.0</real>
+    </dict>
+  </lib>
+</glyph>

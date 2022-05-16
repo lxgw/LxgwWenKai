@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos" format="2">
+  <advance height="1000" width="424"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="213" y="750" type="line"/>
+      <point x="215" y="759"/>
+      <point x="245" y="759"/>
+      <point x="274" y="742"/>
+      <point x="274" y="732" type="qcurve"/>
+      <point x="274" y="730"/>
+      <point x="273" y="729" type="qcurve"/>
+      <point x="211" y="578" type="line"/>
+      <point x="209" y="572"/>
+      <point x="187" y="572"/>
+      <point x="162" y="586"/>
+      <point x="162" y="590" type="qcurve"/>
+      <point x="162" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="620"/>
+      <point x="377" y="597"/>
+      <point x="339" y="597"/>
+      <point x="308" y="635"/>
+      <point x="308" y="673"/>
+      <point x="329" y="696"/>
+      <point x="367" y="696"/>
+      <point x="399" y="660"/>
+    </contour>
+    <contour>
+      <point x="116" y="620"/>
+      <point x="94" y="597"/>
+      <point x="56" y="597"/>
+      <point x="25" y="635"/>
+      <point x="25" y="673"/>
+      <point x="46" y="696"/>
+      <point x="84" y="696"/>
+      <point x="116" y="660"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>4a2607f2375dcf562465641e3cec1ed5b59ad81fa490f880ea56601d4aebc9482b6f678f230c078ec3801673668700da1189e5a69b8b8b79088d0ce0434fd63b</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

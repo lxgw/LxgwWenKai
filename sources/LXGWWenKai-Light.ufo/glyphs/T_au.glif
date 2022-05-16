@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tau" format="2">
+  <advance height="1000" width="564"/>
+  <unicode hex="03A4"/>
+  <outline>
+    <contour>
+      <point x="249" y="18" type="qcurve"/>
+      <point x="251" y="107" type="line"/>
+      <point x="251" y="640" type="line"/>
+      <point x="124" y="633" type="line"/>
+      <point x="99" y="632"/>
+      <point x="52" y="625"/>
+      <point x="41" y="624" type="qcurve"/>
+      <point x="40" y="624" type="line"/>
+      <point x="27" y="624"/>
+      <point x="9" y="655"/>
+      <point x="9" y="683"/>
+      <point x="20" y="683" type="qcurve"/>
+      <point x="91" y="681" type="line"/>
+      <point x="435" y="700" type="line"/>
+      <point x="458" y="702"/>
+      <point x="506" y="706"/>
+      <point x="518" y="708" type="qcurve"/>
+      <point x="521" y="708" type="line"/>
+      <point x="533" y="708"/>
+      <point x="550" y="678"/>
+      <point x="550" y="649"/>
+      <point x="539" y="649" type="qcurve"/>
+      <point x="459" y="652" type="line"/>
+      <point x="309" y="644" type="line"/>
+      <point x="309" y="106" type="line"/>
+      <point x="312" y="0" type="line"/>
+      <point x="312" y="-10"/>
+      <point x="281" y="-10"/>
+      <point x="249" y="5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>4382b922138396e3b7fe4f718e73802801af77f734507400fe22e7fc91218c800bcc88c98fbc229e78810a9cbfe262f8e4ab7e45c1794359d692cea0662488a4</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

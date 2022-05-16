@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0407" format="2">
+  <advance height="1000" width="304"/>
+  <unicode hex="0407"/>
+  <outline>
+    <contour>
+      <point x="294" y="785"/>
+      <point x="269" y="759"/>
+      <point x="227" y="759"/>
+      <point x="193" y="800"/>
+      <point x="193" y="842"/>
+      <point x="217" y="868"/>
+      <point x="259" y="868"/>
+      <point x="294" y="829"/>
+    </contour>
+    <contour>
+      <point x="111" y="785"/>
+      <point x="86" y="759"/>
+      <point x="44" y="759"/>
+      <point x="10" y="800"/>
+      <point x="10" y="842"/>
+      <point x="34" y="868"/>
+      <point x="76" y="868"/>
+      <point x="111" y="829"/>
+    </contour>
+    <contour>
+      <point x="113" y="18" type="qcurve"/>
+      <point x="115" y="107" type="line"/>
+      <point x="115" y="589" type="line"/>
+      <point x="112" y="695" type="line"/>
+      <point x="112" y="705"/>
+      <point x="151" y="705"/>
+      <point x="191" y="690"/>
+      <point x="191" y="677" type="qcurve"/>
+      <point x="189" y="588" type="line"/>
+      <point x="189" y="106" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="-10"/>
+      <point x="153" y="-10"/>
+      <point x="113" y="5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>28284a420e4dcc77e8ee151c835c09975bf9cc201bff7f5d02945816829131389fe48010b863f240b9066e4db03fa4e336fdba3035238fd2f0000db5792e9beb</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA4FD" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="A4FD"/>
+  <outline>
+    <contour>
+      <point x="307" y="122"/>
+      <point x="280" y="94"/>
+      <point x="226" y="94"/>
+      <point x="191" y="140"/>
+      <point x="191" y="188"/>
+      <point x="224" y="214"/>
+      <point x="270" y="214"/>
+      <point x="307" y="168"/>
+    </contour>
+    <contour>
+      <point x="307" y="493"/>
+      <point x="280" y="465"/>
+      <point x="226" y="465"/>
+      <point x="191" y="511"/>
+      <point x="191" y="559"/>
+      <point x="224" y="585"/>
+      <point x="270" y="585"/>
+      <point x="307" y="539"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>8c180ea94d74cbef0bdb304508e747f86ae458d3db16adb8c960f7e033d6ceae4c523604ba4d0b55964d8b5cddfd4cc24f7f8651ef3ab5aaab67e7c210267f00</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

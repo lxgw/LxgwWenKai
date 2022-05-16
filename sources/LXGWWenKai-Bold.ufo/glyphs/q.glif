@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q" format="2">
+  <advance height="1000" width="576"/>
+  <unicode hex="0071"/>
+  <outline>
+    <contour>
+      <point x="213" y="48" type="qcurve"/>
+      <point x="282" y="48"/>
+      <point x="410" y="186"/>
+      <point x="410" y="276" type="qcurve"/>
+      <point x="410" y="367" type="line"/>
+      <point x="411" y="369" type="line"/>
+      <point x="411" y="371"/>
+      <point x="407" y="371" type="qcurve"/>
+      <point x="398" y="371"/>
+      <point x="392" y="378" type="qcurve"/>
+      <point x="361" y="422"/>
+      <point x="300" y="422" type="qcurve"/>
+      <point x="270" y="422"/>
+      <point x="206" y="383"/>
+      <point x="182" y="349" type="qcurve"/>
+      <point x="129" y="274"/>
+      <point x="129" y="118"/>
+      <point x="179" y="48"/>
+    </contour>
+    <contour>
+      <point x="469" y="-182" type="qcurve"/>
+      <point x="450" y="-182"/>
+      <point x="408" y="-165"/>
+      <point x="408" y="-148" type="qcurve"/>
+      <point x="412" y="-59"/>
+      <point x="413" y="89" type="qcurve"/>
+      <point x="351" y="-24"/>
+      <point x="212" y="-24" type="qcurve"/>
+      <point x="143" y="-24"/>
+      <point x="49" y="86"/>
+      <point x="49" y="186" type="qcurve"/>
+      <point x="49" y="306"/>
+      <point x="204" y="492"/>
+      <point x="304" y="492" type="qcurve"/>
+      <point x="343" y="492"/>
+      <point x="406" y="462"/>
+      <point x="410" y="456" type="qcurve"/>
+      <point x="408" y="475" type="line"/>
+      <point x="408" y="491"/>
+      <point x="432" y="491" type="qcurve"/>
+      <point x="451" y="491"/>
+      <point x="492" y="474"/>
+      <point x="492" y="457" type="qcurve"/>
+      <point x="490" y="368" type="line"/>
+      <point x="490" y="-60"/>
+      <point x="493" y="-166" type="qcurve"/>
+      <point x="493" y="-182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>12743dc3bdca0343036dfbc578f1d5f29a17c2fc31bf77f66a20c75a000ecd87f05096939b82553bcbb39f8fd387b6a91fb74e16934a984d87977d6bb0c7cb5b</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

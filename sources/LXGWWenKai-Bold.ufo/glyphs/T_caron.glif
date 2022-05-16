@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance height="1000" width="577"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="280" y="811" type="qcurve"/>
+      <point x="312" y="832"/>
+      <point x="379" y="875"/>
+      <point x="411" y="902"/>
+      <point x="421" y="902" type="qcurve"/>
+      <point x="445" y="902"/>
+      <point x="445" y="860"/>
+      <point x="357" y="775" type="qcurve"/>
+      <point x="337" y="756"/>
+      <point x="311" y="730"/>
+      <point x="248" y="730"/>
+      <point x="235" y="740" type="qcurve"/>
+      <point x="165" y="807"/>
+      <point x="114" y="873"/>
+      <point x="114" y="880" type="qcurve"/>
+      <point x="114" y="902"/>
+      <point x="138" y="902" type="qcurve"/>
+      <point x="148" y="902"/>
+      <point x="180" y="875"/>
+      <point x="248" y="832"/>
+    </contour>
+    <contour>
+      <point x="243" y="18" type="qcurve"/>
+      <point x="245" y="107" type="line"/>
+      <point x="246" y="626" type="line"/>
+      <point x="126" y="619" type="line"/>
+      <point x="102" y="618"/>
+      <point x="55" y="611"/>
+      <point x="43" y="610" type="qcurve"/>
+      <point x="42" y="610" type="line"/>
+      <point x="25" y="610"/>
+      <point x="3" y="650"/>
+      <point x="3" y="691"/>
+      <point x="22" y="691" type="qcurve"/>
+      <point x="93" y="689" type="line"/>
+      <point x="447" y="708" type="line"/>
+      <point x="469" y="710"/>
+      <point x="517" y="714"/>
+      <point x="530" y="716" type="qcurve"/>
+      <point x="533" y="716" type="line"/>
+      <point x="549" y="716"/>
+      <point x="569" y="675"/>
+      <point x="569" y="635"/>
+      <point x="551" y="635" type="qcurve"/>
+      <point x="471" y="638" type="line"/>
+      <point x="328" y="630" type="line"/>
+      <point x="329" y="106" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="332" y="-17"/>
+      <point x="286" y="-17"/>
+      <point x="243" y="1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>54dbc21686df6e27ad9c2963db23a959adb38b302e7492df950d035f5bbfc3115e342425d79fad78429df93424511427ebe688b395d6ca9707a825c22b851dc8</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

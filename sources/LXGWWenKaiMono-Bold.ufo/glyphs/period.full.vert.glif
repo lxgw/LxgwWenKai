@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.full.vert" format="2">
+  <advance height="1000" width="1000"/>
+  <outline>
+    <contour>
+      <point x="832" y="681" type="qcurve"/>
+      <point x="807" y="681"/>
+      <point x="769" y="729"/>
+      <point x="769" y="755" type="qcurve"/>
+      <point x="769" y="782"/>
+      <point x="806" y="817"/>
+      <point x="830" y="817" type="qcurve"/>
+      <point x="855" y="817"/>
+      <point x="896" y="770"/>
+      <point x="896" y="744" type="qcurve"/>
+      <point x="896" y="717"/>
+      <point x="855" y="681"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000q832+681o807+681o769+729q769+755o769+782o806+817q830+817o855+817o896+770q896+744o896+717o855+681|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

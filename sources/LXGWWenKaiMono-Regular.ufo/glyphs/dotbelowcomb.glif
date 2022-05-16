@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <advance height="1000"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="-119" y="-181"/>
+      <point x="-153" y="-141"/>
+      <point x="-153" y="-120" type="qcurve"/>
+      <point x="-153" y="-98"/>
+      <point x="-129" y="-72"/>
+      <point x="-107" y="-72" type="qcurve"/>
+      <point x="-87" y="-72"/>
+      <point x="-52" y="-112"/>
+      <point x="-52" y="-134" type="qcurve"/>
+      <point x="-52" y="-155"/>
+      <point x="-77" y="-181"/>
+      <point x="-97" y="-181" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w0o-119-181o-153-141q-153-120o-153-98o-129-72q-107-72o-87-72o-52-112q-52-134o-52-155o-77-181q-97-181|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

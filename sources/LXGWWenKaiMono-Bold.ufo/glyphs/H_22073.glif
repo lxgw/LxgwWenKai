@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H22073" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="25A1"/>
+  <outline>
+    <contour>
+      <point x="886" y="-18" type="line"/>
+      <point x="886" y="754" type="line"/>
+      <point x="114" y="754" type="line"/>
+      <point x="114" y="-18" type="line"/>
+    </contour>
+    <contour>
+      <point x="948" y="-80" type="line"/>
+      <point x="52" y="-80" type="line"/>
+      <point x="52" y="816" type="line"/>
+      <point x="948" y="816" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l886-18l886+754l114+754l114-18|l948-80l52-80l52+816l948+816|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni044C" format="2">
+  <advance height="1000" width="523"/>
+  <unicode hex="044C"/>
+  <outline>
+    <contour>
+      <point x="197" y="-16" type="qcurve"/>
+      <point x="147" y="-15" type="line"/>
+      <point x="85" y="-11"/>
+      <point x="45" y="2"/>
+      <point x="45" y="12" type="qcurve"/>
+      <point x="45" y="19"/>
+      <point x="58" y="29"/>
+      <point x="69" y="29" type="qcurve"/>
+      <point x="78" y="29" type="line"/>
+      <point x="78" y="375" type="line"/>
+      <point x="75" y="472" type="line"/>
+      <point x="75" y="482"/>
+      <point x="111" y="482"/>
+      <point x="147" y="467"/>
+      <point x="147" y="454" type="qcurve"/>
+      <point x="145" y="375" type="line"/>
+      <point x="145" y="307" type="line"/>
+      <point x="209" y="311"/>
+      <point x="368" y="311"/>
+      <point x="467" y="227"/>
+      <point x="467" y="163" type="qcurve"/>
+      <point x="467" y="119"/>
+      <point x="426" y="46"/>
+      <point x="355" y="-2"/>
+      <point x="322" y="-8" type="qcurve"/>
+      <point x="270" y="-16"/>
+    </contour>
+    <contour>
+      <point x="398" y="158" type="qcurve"/>
+      <point x="398" y="229"/>
+      <point x="330" y="248" type="qcurve"/>
+      <point x="302" y="256"/>
+      <point x="198" y="256"/>
+      <point x="145" y="251" type="qcurve"/>
+      <point x="145" y="35" type="line"/>
+      <point x="171" y="34" type="line"/>
+      <point x="264" y="34"/>
+      <point x="355" y="67"/>
+      <point x="398" y="118"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>2a5c8499e6170555716892d851ea2e4ba580c2555d2c63a4d70b3bb6902d54aaf6c51146974ab8803c514e70973812881c4c614bfb84bb7ad047eb3594e874f4</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

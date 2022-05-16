@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ECA" format="2">
+  <advance height="1000" width="304"/>
+  <unicode hex="1ECA"/>
+  <outline>
+    <contour>
+      <point x="173" y="-16" type="qcurve"/>
+      <point x="152" y="-16"/>
+      <point x="107" y="1"/>
+      <point x="107" y="18" type="qcurve"/>
+      <point x="109" y="107" type="line"/>
+      <point x="109" y="589"/>
+      <point x="106" y="695" type="qcurve"/>
+      <point x="106" y="711"/>
+      <point x="132" y="711" type="qcurve"/>
+      <point x="152" y="711"/>
+      <point x="197" y="694"/>
+      <point x="197" y="677" type="qcurve"/>
+      <point x="195" y="588" type="line"/>
+      <point x="195" y="106"/>
+      <point x="198" y="0" type="qcurve"/>
+      <point x="198" y="-16"/>
+    </contour>
+    <contour>
+      <point x="180" y="-187"/>
+      <point x="132" y="-187"/>
+      <point x="95" y="-143"/>
+      <point x="95" y="-119" type="qcurve"/>
+      <point x="95" y="-96"/>
+      <point x="122" y="-66"/>
+      <point x="170" y="-66"/>
+      <point x="208" y="-110"/>
+      <point x="208" y="-133" type="qcurve"/>
+      <point x="208" y="-157"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>872ec925982c34d40cb245332ca0139eff5a0d32c1910782699b9fb58e9cc905f217830ded15bfef72ac3f99c899ca7fcef001eddd1143b2ee57613629dd9483</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

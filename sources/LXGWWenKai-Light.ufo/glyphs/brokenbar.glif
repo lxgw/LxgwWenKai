@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance height="1000" width="350"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="146" y="434" type="line"/>
+      <point x="146" y="717" type="line"/>
+      <point x="203" y="717" type="line"/>
+      <point x="203" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="-16" type="line"/>
+      <point x="146" y="267" type="line"/>
+      <point x="203" y="267" type="line"/>
+      <point x="203" y="-16" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w350l146+434l146+717l203+717l203+434|l146-16l146+267l203+267l203-16|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

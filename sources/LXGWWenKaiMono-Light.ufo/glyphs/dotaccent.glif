@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="205" y="631"/>
+      <point x="205" y="668"/>
+      <point x="227" y="693"/>
+      <point x="266" y="693"/>
+      <point x="294" y="656"/>
+      <point x="294" y="619"/>
+      <point x="271" y="595"/>
+      <point x="252" y="595" type="qcurve"/>
+      <point x="233" y="595"/>
+      <point x="219" y="613" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500o205+631o205+668o227+693o266+693o294+656o294+619o271+595q252+595o233+595q219+613|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

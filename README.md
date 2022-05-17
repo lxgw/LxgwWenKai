@@ -85,14 +85,15 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 [点击此处查看后续加字及调整计划。](https://github.com/lxgw/LxgwWenKai/projects)
 
-## 下载字体
-
+## 获取字体
+### ⅰ. 下载
 1. 进入 [Release](https://github.com/lxgw/LxgwWenKai/releases) 界面下载对应版本的 TTF 格式文件。以后 TTF 文件仅在 Release 页面更新。
 2. 进入 [猫啃网](https://www.maoken.com/freefonts/9704.html)、[Zfont.cn](https://zfont.cn/cn/font_286.html)、[自由字体](https://ziyouziti.com/mianfeiziti-302.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。 
 3. [永硕Ｅ盘](http://lxgw.ysepan.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会在 GitHub 项目更新后 24 小时之内更新。
 4. 如果您使用 macOS，已经安装过 [Homebrew](https://brew.sh/)，可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-wenkai` 来安装本字体。
 5. 如果您使用 Windows，已经安装过 [Scoop](https://scoop.sh/)，可以在终端输入命令：`scoop bucket add nerd-fonts && scoop install LXGWWenKai` 或者 `scoop bucket add nerd-fonts && scoop install LXGWWenKaiMono` 来安装本字体。
-6. 本仓库 **FCP** 文件夹内为早期增补字的 Font Creator 工程文件，包含部分笔画分离的字形，可用 Font Creator 打开查看； **MonoLatin** 文件夹用于存放「霞鹜文楷等宽」的西文字体，字体名称为 LXGW WenKai Mono Latin； **Hangul** 文件夹存放笔画分离的谚文字体 LXGW MunHae。
+### ⅱ. 生成
+请运行 `/sources/build.bat`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake`。
 
 ## 注意事项
 
@@ -132,10 +133,6 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」，基于本字体二次衍生的字体，名称不可出现「霞鹜」或「LXGW」字样。
 - 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
-
-## 制作字体
-
-请运行 `/sources/build.bat`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake`。
 
 ## 鸣谢
 

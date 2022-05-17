@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance height="1000" width="304"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="114" y="14" type="qcurve"/>
+      <point x="113" y="16"/>
+      <point x="113" y="18" type="qcurve"/>
+      <point x="115" y="107" type="line"/>
+      <point x="115" y="589" type="line"/>
+      <point x="112" y="695" type="line"/>
+      <point x="112" y="705"/>
+      <point x="151" y="705"/>
+      <point x="191" y="690"/>
+      <point x="191" y="677" type="qcurve"/>
+      <point x="189" y="588" type="line"/>
+      <point x="189" y="106" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="-10"/>
+      <point x="173" y="-10" type="qcurve"/>
+      <point x="165" y="-10" type="line"/>
+      <point x="136" y="-48"/>
+      <point x="136" y="-92" type="qcurve"/>
+      <point x="136" y="-125"/>
+      <point x="218" y="-125"/>
+      <point x="251" y="-96" type="qcurve"/>
+      <point x="262" y="-85"/>
+      <point x="283" y="-85"/>
+      <point x="283" y="-108"/>
+      <point x="250" y="-148"/>
+      <point x="197" y="-180"/>
+      <point x="117" y="-180"/>
+      <point x="68" y="-133"/>
+      <point x="68" y="-61"/>
+      <point x="82" y="-32" type="qcurve"/>
+      <point x="95" y="-3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>c20c2fa29d1987d947b51209dbd47f74557d45d9f0bd79335c82fa838601219a8892893bf39d9919f73371fd830bd5e818c22146f822c21b1d26be273aaf6529</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

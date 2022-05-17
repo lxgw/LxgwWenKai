@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE3C" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FE3C"/>
+  <outline>
+    <contour>
+      <point x="57" y="589" type="line"/>
+      <point x="57" y="829" type="line"/>
+      <point x="150" y="730"/>
+      <point x="348" y="690" type="qcurve"/>
+      <point x="443" y="671"/>
+      <point x="653" y="671"/>
+      <point x="795" y="709"/>
+      <point x="898" y="780"/>
+      <point x="944" y="829" type="qcurve"/>
+      <point x="944" y="589" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l57+589l57+829o150+730q348+690o443+671o653+671o795+709o898+780q944+829l944+589|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

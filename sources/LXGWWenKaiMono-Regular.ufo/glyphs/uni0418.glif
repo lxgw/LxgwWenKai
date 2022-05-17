@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0418" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="0418"/>
+  <outline>
+    <contour>
+      <point x="60" y="589" type="line"/>
+      <point x="60" y="631"/>
+      <point x="58" y="659" type="qcurve"/>
+      <point x="57" y="695" type="line"/>
+      <point x="57" y="699"/>
+      <point x="70" y="706"/>
+      <point x="78" y="706" type="qcurve"/>
+      <point x="93" y="706"/>
+      <point x="125" y="689"/>
+      <point x="125" y="665"/>
+      <point x="124" y="640" type="qcurve"/>
+      <point x="124" y="126" type="line"/>
+      <point x="196" y="282" type="line"/>
+      <point x="272" y="451"/>
+      <point x="363" y="681" type="qcurve"/>
+      <point x="371" y="704"/>
+      <point x="390" y="708" type="qcurve"/>
+      <point x="408" y="708"/>
+      <point x="446" y="691"/>
+      <point x="450" y="680" type="qcurve"/>
+      <point x="450" y="669"/>
+      <point x="444" y="650"/>
+      <point x="444" y="641" type="qcurve"/>
+      <point x="444" y="105" type="line"/>
+      <point x="444" y="74"/>
+      <point x="447" y="16"/>
+      <point x="447" y="-1" type="qcurve"/>
+      <point x="447" y="-5"/>
+      <point x="435" y="-12"/>
+      <point x="426" y="-12" type="qcurve"/>
+      <point x="411" y="-12"/>
+      <point x="379" y="5"/>
+      <point x="379" y="29"/>
+      <point x="380" y="55" type="qcurve"/>
+      <point x="380" y="67"/>
+      <point x="381" y="188" type="qcurve"/>
+      <point x="381" y="552" type="line"/>
+      <point x="280" y="301"/>
+      <point x="155" y="37" type="qcurve"/>
+      <point x="133" y="-11"/>
+      <point x="116" y="-11" type="qcurve"/>
+      <point x="96" y="-11"/>
+      <point x="56" y="19"/>
+      <point x="56" y="33" type="qcurve"/>
+      <point x="58" y="61" type="line"/>
+      <point x="60" y="79"/>
+      <point x="60" y="88" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>e8f56703502b81dc7840ea17825ab10d5367694a00efc244b8cef2b7e335bdb77f368a64bcab464f6f296dc2dbb586a53ca4eb4d739908f80b6d0598ba78e2a9</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

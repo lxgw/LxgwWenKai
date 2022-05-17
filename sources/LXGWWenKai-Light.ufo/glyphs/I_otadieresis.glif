@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadieresis" format="2">
+  <advance height="1000" width="304"/>
+  <unicode hex="03AA"/>
+  <outline>
+    <contour>
+      <point x="283" y="787"/>
+      <point x="261" y="764"/>
+      <point x="223" y="764"/>
+      <point x="192" y="802"/>
+      <point x="192" y="840"/>
+      <point x="213" y="863"/>
+      <point x="251" y="863"/>
+      <point x="283" y="827"/>
+    </contour>
+    <contour>
+      <point x="100" y="787"/>
+      <point x="78" y="764"/>
+      <point x="40" y="764"/>
+      <point x="9" y="802"/>
+      <point x="9" y="840"/>
+      <point x="30" y="863"/>
+      <point x="68" y="863"/>
+      <point x="100" y="827"/>
+    </contour>
+    <contour>
+      <point x="118" y="18" type="qcurve"/>
+      <point x="120" y="107" type="line"/>
+      <point x="120" y="589" type="line"/>
+      <point x="117" y="695" type="line"/>
+      <point x="117" y="700"/>
+      <point x="150" y="700"/>
+      <point x="186" y="687"/>
+      <point x="186" y="677" type="qcurve"/>
+      <point x="184" y="588" type="line"/>
+      <point x="184" y="106" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="-5"/>
+      <point x="154" y="-5"/>
+      <point x="118" y="8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f12d0f8d2ac7df75afd2b18258216086477eb34b525d55d62e25ce03bdd698ece72d184f3583dcd001083ac619cc1f589a15c5ab578052bcb8c0cbe1b7be4a8c</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

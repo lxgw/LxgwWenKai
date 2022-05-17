@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4F2B" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="4F2B"/>
+  <outline>
+    <contour>
+      <point x="597" y="769" type="qcurve"/>
+      <point x="668" y="769"/>
+      <point x="668" y="735" type="qcurve"/>
+      <point x="666" y="603" type="line"/>
+      <point x="890" y="617" type="line"/>
+      <point x="898" y="617" type="line"/>
+      <point x="913" y="617"/>
+      <point x="944" y="596"/>
+      <point x="944" y="568"/>
+      <point x="864" y="461" type="qcurve"/>
+      <point x="847" y="438"/>
+      <point x="824" y="411"/>
+      <point x="815" y="411" type="qcurve"/>
+      <point x="809" y="411"/>
+      <point x="809" y="428"/>
+      <point x="848" y="515"/>
+      <point x="861" y="559" type="qcurve"/>
+      <point x="453" y="535" type="line"/>
+      <point x="437" y="483"/>
+      <point x="403" y="408" type="qcurve"/>
+      <point x="399" y="398"/>
+      <point x="376" y="398"/>
+      <point x="346" y="419"/>
+      <point x="346" y="437"/>
+      <point x="372" y="485"/>
+      <point x="411" y="590"/>
+      <point x="420" y="633" type="qcurve"/>
+      <point x="424" y="650"/>
+      <point x="451" y="650"/>
+      <point x="476" y="640"/>
+      <point x="476" y="627"/>
+      <point x="469" y="591" type="qcurve"/>
+      <point x="600" y="599" type="line"/>
+      <point x="600" y="712" type="line"/>
+      <point x="600" y="738"/>
+      <point x="586" y="758"/>
+      <point x="586" y="761" type="qcurve"/>
+      <point x="586" y="769"/>
+    </contour>
+    <contour>
+      <point x="265" y="684" type="qcurve"/>
+      <point x="292" y="748"/>
+      <point x="292" y="774"/>
+      <point x="290" y="783" type="qcurve"/>
+      <point x="290" y="787" type="line"/>
+      <point x="290" y="797"/>
+      <point x="313" y="797"/>
+      <point x="328" y="790" type="qcurve"/>
+      <point x="367" y="772"/>
+      <point x="367" y="754" type="qcurve"/>
+      <point x="367" y="744"/>
+      <point x="296" y="590"/>
+      <point x="263" y="533" type="qcurve"/>
+      <point x="263" y="-52" type="line"/>
+      <point x="263" y="-73"/>
+      <point x="244" y="-73" type="qcurve"/>
+      <point x="242" y="-73"/>
+      <point x="217" y="-65"/>
+      <point x="193" y="-46"/>
+      <point x="193" y="-24"/>
+      <point x="200" y="10"/>
+      <point x="200" y="38" type="qcurve"/>
+      <point x="204" y="445" type="line"/>
+      <point x="129" y="341"/>
+      <point x="68" y="292" type="qcurve"/>
+      <point x="43" y="271"/>
+      <point x="28" y="271"/>
+      <point x="28" y="287"/>
+      <point x="41" y="304" type="qcurve"/>
+      <point x="194" y="518"/>
+    </contour>
+    <contour>
+      <point x="428" y="9" type="line"/>
+      <point x="409" y="9" type="line"/>
+      <point x="376" y="9"/>
+      <point x="364" y="18" type="qcurve"/>
+      <point x="343" y="38"/>
+      <point x="338" y="63" type="qcurve"/>
+      <point x="338" y="67" type="line"/>
+      <point x="338" y="72"/>
+      <point x="346" y="72"/>
+      <point x="370" y="65"/>
+      <point x="392" y="65" type="qcurve"/>
+      <point x="401" y="65" type="line"/>
+      <point x="839" y="88" type="line"/>
+      <point x="873" y="91"/>
+      <point x="886" y="96"/>
+      <point x="894" y="96"/>
+      <point x="907" y="88" type="qcurve"/>
+      <point x="942" y="67"/>
+      <point x="942" y="47" type="qcurve"/>
+      <point x="942" y="36"/>
+      <point x="918" y="34" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>e01805231bb5554696e7008939ecf3e7de912506d85b9bb2c32e5786283be3c526202d715bd07c2fa6b6d769cca7c9229b4287337c71d6a40f69a55fa18b5176</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

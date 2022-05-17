@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph323" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="E0BE"/>
+  <outline>
+    <contour>
+      <point x="500" y="-283" type="line"/>
+      <point x="0" y="967" type="line"/>
+      <point x="508" y="967" type="line"/>
+      <point x="508" y="-283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l500-283l0+967l508+967l508-283|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

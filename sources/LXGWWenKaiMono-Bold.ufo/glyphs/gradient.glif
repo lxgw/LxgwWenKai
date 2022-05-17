@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gradient" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2207"/>
+  <outline>
+    <contour>
+      <point x="518" y="149" type="line"/>
+      <point x="745" y="636" type="line"/>
+      <point x="297" y="636" type="line"/>
+    </contour>
+    <contour>
+      <point x="517" y="15"/>
+      <point x="483" y="15"/>
+      <point x="476" y="33" type="qcurve"/>
+      <point x="187" y="668"/>
+      <point x="187" y="677" type="qcurve"/>
+      <point x="187" y="708"/>
+      <point x="224" y="708" type="qcurve"/>
+      <point x="784" y="708" type="line"/>
+      <point x="821" y="708"/>
+      <point x="821" y="677" type="qcurve"/>
+      <point x="821" y="667"/>
+      <point x="525" y="33" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l518+149l745+636l297+636|o517+15o483+15q476+33o187+668q187+677o187+708q224+708l784+708o821+708q821+677o821+667q525+33|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

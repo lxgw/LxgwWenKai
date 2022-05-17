@@ -29,23 +29,23 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ## 字体预览
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-1.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-1.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-2.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-2.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-3.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-3.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-4.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-4.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-5.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-5.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-6.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-6.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-7.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-7.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-8.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-8.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/image/wenkai-9.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-9.png)
 
 <details>
   <summary>简要更新记录</summary>
@@ -132,6 +132,10 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」，基于本字体二次衍生的字体，名称不可出现「霞鹜」或「LXGW」字样。
 - 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+
+## 制作字体
+
+请运行 `/sources/build.bat`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake`。
 
 ## 鸣谢
 

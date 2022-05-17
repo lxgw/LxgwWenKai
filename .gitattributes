@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+#surpress crlf warning on windows
+*.glif text eol=lf
+*.plist text eol=lf

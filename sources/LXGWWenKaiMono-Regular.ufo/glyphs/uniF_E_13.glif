@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE13" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FE13"/>
+  <outline>
+    <contour>
+      <point x="718" y="228"/>
+      <point x="751" y="187"/>
+      <point x="751" y="146"/>
+      <point x="726" y="120"/>
+      <point x="678" y="120"/>
+      <point x="646" y="161"/>
+      <point x="646" y="204"/>
+      <point x="676" y="228"/>
+    </contour>
+    <contour>
+      <point x="718" y="599"/>
+      <point x="751" y="558"/>
+      <point x="751" y="517"/>
+      <point x="726" y="491"/>
+      <point x="678" y="491"/>
+      <point x="646" y="532"/>
+      <point x="646" y="575"/>
+      <point x="676" y="599"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>a8c89a9d76fff1b7ff9fccb6caeddf52154999a3c123aeb51fc64f54e8d935ae7e5ccfb3de6e2e45f8abc7c723fc448c5710882e661dda41b8b808fc7164cfbf</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <real>880.0</real>
+    </dict>
+  </lib>
+</glyph>

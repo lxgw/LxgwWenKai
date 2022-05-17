@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SF010000" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="250C"/>
+  <outline>
+    <contour>
+      <point x="1000" y="360" type="line"/>
+      <point x="520" y="360" type="line"/>
+      <point x="520" y="-120" type="line"/>
+      <point x="480" y="-120" type="line"/>
+      <point x="480" y="400" type="line"/>
+      <point x="1000" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l1000+360l520+360l520-120l480-120l480+400l1000+400|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

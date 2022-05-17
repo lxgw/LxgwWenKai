@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni23A0" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="23A0"/>
+  <outline>
+    <contour>
+      <point x="544" y="880" type="line"/>
+      <point x="544" y="572"/>
+      <point x="400" y="299" type="qcurve"/>
+      <point x="332" y="170"/>
+      <point x="150" y="-39"/>
+      <point x="45" y="-111" type="qcurve"/>
+      <point x="33" y="-119"/>
+      <point x="22" y="-119" type="qcurve"/>
+      <point x="3" y="-119"/>
+      <point x="3" y="-101" type="qcurve"/>
+      <point x="3" y="-88"/>
+      <point x="17" y="-77" type="qcurve"/>
+      <point x="211" y="84"/>
+      <point x="460" y="594"/>
+      <point x="460" y="880" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l544+880o544+572q400+299o332+170o150-39q45-111o33-119q22-119o3-119q3-101o3-88q17-77o211+84o460+594q460+880|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF8E" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="FF8E"/>
+  <outline>
+    <contour>
+      <point x="116" y="195"/>
+      <point x="85" y="132"/>
+      <point x="57" y="92"/>
+      <point x="40" y="92"/>
+      <point x="22" y="112"/>
+      <point x="22" y="131"/>
+      <point x="42" y="156"/>
+      <point x="61" y="192" type="qcurve"/>
+      <point x="105" y="271"/>
+      <point x="128" y="348" type="qcurve"/>
+      <point x="132" y="357"/>
+      <point x="150" y="357"/>
+      <point x="167" y="345"/>
+      <point x="167" y="340" type="qcurve"/>
+      <point x="167" y="321"/>
+    </contour>
+    <contour>
+      <point x="473" y="161" type="qcurve"/>
+      <point x="476" y="146"/>
+      <point x="476" y="131"/>
+      <point x="455" y="114"/>
+      <point x="436" y="114"/>
+      <point x="433" y="122" type="qcurve"/>
+      <point x="382" y="251"/>
+      <point x="329" y="343" type="qcurve"/>
+      <point x="325" y="349"/>
+      <point x="325" y="362"/>
+      <point x="345" y="375"/>
+      <point x="350" y="375" type="qcurve"/>
+      <point x="359" y="375" type="line"/>
+      <point x="366" y="363"/>
+      <point x="470" y="176"/>
+    </contour>
+    <contour>
+      <point x="279" y="532" type="line"/>
+      <point x="417" y="555"/>
+      <point x="418" y="555" type="qcurve"/>
+      <point x="421" y="555" type="line"/>
+      <point x="428" y="554"/>
+      <point x="441" y="547" type="qcurve"/>
+      <point x="453" y="539"/>
+      <point x="453" y="521"/>
+      <point x="439" y="504"/>
+      <point x="430" y="504" type="qcurve"/>
+      <point x="363" y="502"/>
+      <point x="284" y="488" type="qcurve"/>
+      <point x="280" y="487" type="line"/>
+      <point x="280" y="483" type="line"/>
+      <point x="282" y="420"/>
+      <point x="284" y="283"/>
+      <point x="288" y="112"/>
+      <point x="288" y="32" type="qcurve"/>
+      <point x="288" y="14"/>
+      <point x="264" y="-3" type="qcurve"/>
+      <point x="255" y="-9"/>
+      <point x="244" y="-9"/>
+      <point x="231" y="1" type="qcurve"/>
+      <point x="198" y="37"/>
+      <point x="136" y="89" type="qcurve"/>
+      <point x="130" y="94"/>
+      <point x="130" y="100" type="qcurve"/>
+      <point x="130" y="106"/>
+      <point x="142" y="106"/>
+      <point x="157" y="98"/>
+      <point x="173" y="90" type="qcurve"/>
+      <point x="235" y="62" type="line"/>
+      <point x="235" y="96" type="line"/>
+      <point x="235" y="301"/>
+      <point x="230" y="471" type="qcurve"/>
+      <point x="230" y="477" type="line"/>
+      <point x="224" y="476" type="line"/>
+      <point x="103" y="451"/>
+      <point x="79" y="441"/>
+      <point x="64" y="441"/>
+      <point x="43" y="468"/>
+      <point x="43" y="495"/>
+      <point x="50" y="495" type="qcurve"/>
+      <point x="52" y="495"/>
+      <point x="61" y="490"/>
+      <point x="70" y="490" type="qcurve"/>
+      <point x="71" y="490" type="line"/>
+      <point x="225" y="522" type="line"/>
+      <point x="229" y="523" type="line"/>
+      <point x="229" y="527" type="line"/>
+      <point x="225" y="687" type="line"/>
+      <point x="224" y="706"/>
+      <point x="214" y="715"/>
+      <point x="214" y="718" type="qcurve"/>
+      <point x="214" y="723" type="line"/>
+      <point x="215" y="723" type="line"/>
+      <point x="218" y="726"/>
+      <point x="232" y="726" type="qcurve"/>
+      <point x="278" y="726"/>
+      <point x="278" y="702" type="qcurve"/>
+      <point x="276" y="680" type="line"/>
+      <point x="279" y="602"/>
+      <point x="279" y="538" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>469bc30584859a261fcbf3bde0633c6427e06cb16e7c66dffcc20612c24d6c5f6593d1ac173d5e3c7e58e3740fb53b1a43376401addbbeb494e0b67ab1000689</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

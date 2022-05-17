@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance height="1000" width="304"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="206" y="815"/>
+      <point x="178" y="785"/>
+      <point x="130" y="785"/>
+      <point x="93" y="830"/>
+      <point x="93" y="876"/>
+      <point x="120" y="906"/>
+      <point x="168" y="906"/>
+      <point x="206" y="863"/>
+    </contour>
+    <contour>
+      <point x="107" y="18" type="qcurve"/>
+      <point x="109" y="107" type="line"/>
+      <point x="109" y="589" type="line"/>
+      <point x="106" y="695" type="line"/>
+      <point x="106" y="711"/>
+      <point x="152" y="711"/>
+      <point x="197" y="694"/>
+      <point x="197" y="677" type="qcurve"/>
+      <point x="195" y="588" type="line"/>
+      <point x="195" y="106" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="198" y="-16"/>
+      <point x="152" y="-16"/>
+      <point x="107" y="1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>23b7b61f92c72db5facce79974a7388e2d5bca74eb2cb94e8a092db719562f77e88a171e250f3e6c95f0f05bd8d24eb4724bf2d23020f3a07f8d34fc4dd2eb5b</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

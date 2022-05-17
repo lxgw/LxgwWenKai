@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Igrave" format="2">
+  <advance height="1000" width="304"/>
+  <unicode hex="00CC"/>
+  <outline>
+    <contour>
+      <point x="113" y="18" type="qcurve"/>
+      <point x="115" y="107" type="line"/>
+      <point x="115" y="589" type="line"/>
+      <point x="112" y="695" type="line"/>
+      <point x="112" y="705"/>
+      <point x="151" y="705"/>
+      <point x="191" y="690"/>
+      <point x="191" y="677" type="qcurve"/>
+      <point x="189" y="588" type="line"/>
+      <point x="189" y="106" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="-10"/>
+      <point x="153" y="-10"/>
+      <point x="113" y="5"/>
+    </contour>
+    <contour>
+      <point x="257" y="758" type="qcurve"/>
+      <point x="257" y="741"/>
+      <point x="240" y="741" type="qcurve"/>
+      <point x="235" y="741"/>
+      <point x="195" y="764"/>
+      <point x="99" y="798"/>
+      <point x="49" y="816" type="qcurve"/>
+      <point x="42" y="819"/>
+      <point x="42" y="836"/>
+      <point x="64" y="861"/>
+      <point x="92" y="880"/>
+      <point x="105" y="880"/>
+      <point x="107" y="879" type="qcurve"/>
+      <point x="219" y="804"/>
+      <point x="257" y="764"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>ff275f4f3fbe200d420637a3c55f0acc3a8363f4fe6350bf4f35f2c60e81eab778c9e8fc4dde000e166389a1460c19f99edffc16c8aaa2481bb7af5abd91cca9</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

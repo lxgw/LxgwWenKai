@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA4F8" format="2">
+  <advance height="1000" width="373"/>
+  <unicode hex="A4F8"/>
+  <outline>
+    <contour>
+      <point x="164" y="117"/>
+      <point x="213" y="117"/>
+      <point x="256" y="69"/>
+      <point x="256" y="15"/>
+      <point x="214" y="-21"/>
+      <point x="167" y="-21"/>
+      <point x="128" y="28"/>
+      <point x="128" y="82"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w373o164+117o213+117o256+69o256+15o214-21o167-21o128+28o128+82|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

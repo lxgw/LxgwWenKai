@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3022" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="3022"/>
+  <outline>
+    <contour>
+      <point x="632" y="-51" type="qcurve"/>
+      <point x="633" y="-42" type="line"/>
+      <point x="640" y="-9"/>
+      <point x="640" y="19" type="qcurve"/>
+      <point x="640" y="734" type="line"/>
+      <point x="640" y="760"/>
+      <point x="621" y="781" type="qcurve"/>
+      <point x="618" y="786"/>
+      <point x="617" y="788" type="qcurve"/>
+      <point x="617" y="791"/>
+      <point x="643" y="791"/>
+      <point x="687" y="776"/>
+      <point x="698" y="765"/>
+      <point x="698" y="754" type="qcurve"/>
+      <point x="699" y="-74" type="line"/>
+      <point x="699" y="-96"/>
+      <point x="685" y="-96" type="qcurve"/>
+      <point x="677" y="-96"/>
+      <point x="649" y="-79"/>
+      <point x="632" y="-63"/>
+    </contour>
+    <contour>
+      <point x="621" y="781" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="99" type="qcurve"/>
+      <point x="333" y="108" type="line"/>
+      <point x="340" y="141"/>
+      <point x="340" y="169" type="qcurve"/>
+      <point x="340" y="584" type="line"/>
+      <point x="340" y="610"/>
+      <point x="321" y="631" type="qcurve"/>
+      <point x="318" y="636"/>
+      <point x="317" y="638" type="qcurve"/>
+      <point x="317" y="641"/>
+      <point x="343" y="641"/>
+      <point x="387" y="626"/>
+      <point x="398" y="615"/>
+      <point x="398" y="604" type="qcurve"/>
+      <point x="399" y="76" type="line"/>
+      <point x="399" y="54"/>
+      <point x="385" y="54" type="qcurve"/>
+      <point x="377" y="54"/>
+      <point x="349" y="71"/>
+      <point x="332" y="87"/>
+    </contour>
+    <contour>
+      <point x="321" y="631" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>dda34e1e90440bbaf0ae76d619969e22c59b8977db1de0c165e27f8d330cbafc9bba1ae038338d71404172205ff787798f3c3e4ba3609bcc546fa473197f9c73</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

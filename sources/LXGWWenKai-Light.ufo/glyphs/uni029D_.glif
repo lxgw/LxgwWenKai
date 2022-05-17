@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni029D" format="2">
+  <advance height="1000" width="301"/>
+  <unicode hex="029D"/>
+  <outline>
+    <contour>
+      <point x="148" y="-146" type="qcurve"/>
+      <point x="101" y="-191"/>
+      <point x="13" y="-191"/>
+      <point x="-42" y="-138"/>
+      <point x="-42" y="-55"/>
+      <point x="13" y="-5"/>
+      <point x="102" y="-5"/>
+      <point x="133" y="-39" type="qcurve"/>
+      <point x="141" y="-48" type="line"/>
+      <point x="142" y="-36" type="line"/>
+      <point x="145" y="29"/>
+      <point x="145" y="92" type="qcurve"/>
+      <point x="144" y="364" type="line"/>
+      <point x="141" y="475" type="line"/>
+      <point x="141" y="480"/>
+      <point x="171" y="480"/>
+      <point x="204" y="467"/>
+      <point x="204" y="457" type="qcurve"/>
+      <point x="202" y="364" type="line"/>
+      <point x="202" y="12" type="line"/>
+      <point x="202" y="-15"/>
+      <point x="198" y="-82"/>
+      <point x="181" y="-106" type="qcurve"/>
+      <point x="185" y="-116"/>
+      <point x="208" y="-165"/>
+      <point x="208" y="-191"/>
+      <point x="176" y="-191" type="qcurve"/>
+      <point x="163" y="-191"/>
+      <point x="156" y="-166"/>
+    </contour>
+    <contour>
+      <point x="218" y="619"/>
+      <point x="195" y="595"/>
+      <point x="157" y="595"/>
+      <point x="129" y="631"/>
+      <point x="129" y="668"/>
+      <point x="151" y="693"/>
+      <point x="190" y="693"/>
+      <point x="218" y="656"/>
+    </contour>
+    <contour>
+      <point x="120" y="-95" type="qcurve"/>
+      <point x="90" y="-54"/>
+      <point x="57" y="-54" type="qcurve"/>
+      <point x="16" y="-54"/>
+      <point x="16" y="-98" type="qcurve"/>
+      <point x="16" y="-115"/>
+      <point x="39" y="-138"/>
+      <point x="74" y="-138"/>
+      <point x="111" y="-112"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>5e4f3a1682eabbe31a111c1317c4e27d81ba41f61ebbebb481e2e917f69832259786bc806a53f6c9fc6acb59f171259040783dfd796fda2900ca9d2352ddf969</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

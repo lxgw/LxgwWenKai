@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni30A3" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="30A3"/>
+  <outline>
+    <contour>
+      <point x="559" y="-12" type="line"/>
+      <point x="559" y="-56"/>
+      <point x="529" y="-56" type="qcurve"/>
+      <point x="509" y="-56"/>
+      <point x="497" y="-19"/>
+      <point x="493" y="-3" type="qcurve"/>
+      <point x="493" y="1" type="line"/>
+      <point x="498" y="26" type="line"/>
+      <point x="500" y="252" type="line"/>
+      <point x="500" y="290" type="line"/>
+      <point x="500" y="293"/>
+      <point x="499" y="295" type="qcurve"/>
+      <point x="421" y="241"/>
+      <point x="239" y="151"/>
+      <point x="213" y="151" type="qcurve"/>
+      <point x="206" y="151"/>
+      <point x="200" y="158"/>
+      <point x="200" y="161" type="qcurve"/>
+      <point x="200" y="174"/>
+      <point x="224" y="186" type="qcurve"/>
+      <point x="385" y="269"/>
+      <point x="629" y="466"/>
+      <point x="638" y="522" type="qcurve"/>
+      <point x="636" y="538" type="line"/>
+      <point x="636" y="549"/>
+      <point x="652" y="549"/>
+      <point x="685" y="535"/>
+      <point x="714" y="514"/>
+      <point x="714" y="496"/>
+      <point x="693" y="469" type="qcurve"/>
+      <point x="640" y="401"/>
+      <point x="545" y="328" type="qcurve"/>
+      <point x="561" y="320"/>
+      <point x="561" y="308" type="qcurve"/>
+      <point x="561" y="264" type="line"/>
+      <point x="559" y="26" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f00c04442ec277db2f893aa28a94d1a1d7b7ed81e7e017a3793400003f6a84554de2a86dfb304e24acf323d773a23cb2779a852ad4755edae4dc64271958a66e</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

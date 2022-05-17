@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <advance height="1000"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="169" y="568" type="qcurve"/>
+      <point x="161" y="568"/>
+      <point x="147" y="582"/>
+      <point x="147" y="591" type="qcurve"/>
+      <point x="147" y="599"/>
+      <point x="187" y="642"/>
+      <point x="300" y="717" type="qcurve"/>
+      <point x="304" y="719"/>
+      <point x="312" y="719" type="qcurve"/>
+      <point x="321" y="719"/>
+      <point x="335" y="709" type="qcurve"/>
+      <point x="374" y="682"/>
+      <point x="374" y="659" type="qcurve"/>
+      <point x="374" y="648"/>
+      <point x="363" y="643" type="qcurve"/>
+      <point x="314" y="625"/>
+      <point x="218" y="592"/>
+      <point x="177" y="568"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>30b49df0a7948d72ed3c6c663273b1a75056b508c50a4368db95a4b9c32beefe3f16b4058d0d0077ed5abfc40bf8aadd8437a0d87722b46c5cbf16f7fb2e53dc</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3011" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="3011"/>
+  <outline>
+    <contour>
+      <point x="285" y="-81" type="line"/>
+      <point x="24" y="-81" type="line"/>
+      <point x="133" y="19"/>
+      <point x="172" y="217" type="qcurve"/>
+      <point x="191" y="312"/>
+      <point x="191" y="520"/>
+      <point x="153" y="660"/>
+      <point x="84" y="762"/>
+      <point x="24" y="818" type="qcurve"/>
+      <point x="285" y="818" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l285-81l24-81o133+19q172+217o191+312o191+520o153+660o84+762q24+818l285+818|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

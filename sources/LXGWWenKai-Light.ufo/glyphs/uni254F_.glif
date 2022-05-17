@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni254F" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="254F"/>
+  <outline>
+    <contour>
+      <point x="440" y="505" type="line"/>
+      <point x="440" y="755" type="line"/>
+      <point x="560" y="755" type="line"/>
+      <point x="560" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="5" type="line"/>
+      <point x="440" y="255" type="line"/>
+      <point x="560" y="255" type="line"/>
+      <point x="560" y="5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l440+505l440+755l560+755l560+505|l440+5l440+255l560+255l560+5|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

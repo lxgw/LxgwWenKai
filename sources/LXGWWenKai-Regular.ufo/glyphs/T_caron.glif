@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance height="1000" width="577"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="249" y="18" type="qcurve"/>
+      <point x="251" y="107" type="line"/>
+      <point x="252" y="632" type="line"/>
+      <point x="126" y="625" type="line"/>
+      <point x="101" y="624"/>
+      <point x="54" y="617"/>
+      <point x="43" y="616" type="qcurve"/>
+      <point x="42" y="616" type="line"/>
+      <point x="29" y="616"/>
+      <point x="9" y="652"/>
+      <point x="9" y="685"/>
+      <point x="22" y="685" type="qcurve"/>
+      <point x="93" y="683" type="line"/>
+      <point x="447" y="702" type="line"/>
+      <point x="470" y="704"/>
+      <point x="518" y="708"/>
+      <point x="530" y="710" type="qcurve"/>
+      <point x="533" y="710" type="line"/>
+      <point x="545" y="710"/>
+      <point x="563" y="674"/>
+      <point x="563" y="641"/>
+      <point x="551" y="641" type="qcurve"/>
+      <point x="471" y="644" type="line"/>
+      <point x="322" y="636" type="line"/>
+      <point x="323" y="106" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="326" y="-11"/>
+      <point x="287" y="-11"/>
+      <point x="249" y="5"/>
+    </contour>
+    <contour>
+      <point x="280" y="804" type="qcurve"/>
+      <point x="315" y="827"/>
+      <point x="383" y="870"/>
+      <point x="413" y="896"/>
+      <point x="421" y="896" type="qcurve"/>
+      <point x="439" y="896"/>
+      <point x="439" y="863"/>
+      <point x="353" y="779" type="qcurve"/>
+      <point x="333" y="760"/>
+      <point x="309" y="736"/>
+      <point x="250" y="736"/>
+      <point x="239" y="745" type="qcurve"/>
+      <point x="169" y="811"/>
+      <point x="120" y="875"/>
+      <point x="120" y="880" type="qcurve"/>
+      <point x="120" y="896"/>
+      <point x="138" y="896" type="qcurve"/>
+      <point x="146" y="896"/>
+      <point x="176" y="870"/>
+      <point x="245" y="827"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f19408693643d5e799c9a993216a9d295e2a80ad1a6ae2eed89060b190b4fb2f62d5fa7fad2129f7b283175a69859c2b15853ecbe94ea3353a1b88db6421960b</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

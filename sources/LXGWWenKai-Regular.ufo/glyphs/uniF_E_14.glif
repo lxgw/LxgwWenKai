@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE14" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FE14"/>
+  <outline>
+    <contour>
+      <point x="642" y="29" type="qcurve"/>
+      <point x="628" y="29"/>
+      <point x="628" y="43" type="qcurve"/>
+      <point x="628" y="51"/>
+      <point x="634" y="55" type="qcurve"/>
+      <point x="653" y="68"/>
+      <point x="687" y="108"/>
+      <point x="691" y="126" type="qcurve"/>
+      <point x="672" y="126"/>
+      <point x="644" y="161"/>
+      <point x="644" y="202"/>
+      <point x="676" y="226"/>
+      <point x="717" y="226"/>
+      <point x="745" y="189"/>
+      <point x="749" y="157" type="qcurve"/>
+      <point x="749" y="123"/>
+      <point x="691" y="49"/>
+      <point x="650" y="31" type="qcurve"/>
+      <point x="646" y="29"/>
+    </contour>
+    <contour>
+      <point x="719" y="601"/>
+      <point x="752" y="560"/>
+      <point x="752" y="519"/>
+      <point x="727" y="493"/>
+      <point x="679" y="493"/>
+      <point x="647" y="534"/>
+      <point x="647" y="577"/>
+      <point x="677" y="601"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>d70b4bd192c61876ac4ac3fc7a6e95dc941b4daa0ee60313056dff6388d8c312f32cafea9b95d66106b964d754fc42ac30a1a81a182db1a23d6142c1f366cb9c</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <real>880.0</real>
+    </dict>
+  </lib>
+</glyph>

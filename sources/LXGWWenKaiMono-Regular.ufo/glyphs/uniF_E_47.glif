@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE47" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="FE47"/>
+  <outline>
+    <contour>
+      <point x="906" y="151" type="line"/>
+      <point x="933" y="151"/>
+      <point x="933" y="114" type="qcurve"/>
+      <point x="933" y="72" type="line"/>
+      <point x="935" y="-40" type="line"/>
+      <point x="935" y="-41" type="line"/>
+      <point x="935" y="-54"/>
+      <point x="909" y="-69"/>
+      <point x="876" y="-69"/>
+      <point x="876" y="-55" type="qcurve"/>
+      <point x="879" y="32" type="line"/>
+      <point x="879" y="83" type="line"/>
+      <point x="121" y="83" type="line"/>
+      <point x="124" y="-38" type="line"/>
+      <point x="124" y="-51"/>
+      <point x="97" y="-67"/>
+      <point x="65" y="-67"/>
+      <point x="65" y="-53" type="qcurve"/>
+      <point x="67" y="30" type="line"/>
+      <point x="67" y="56" type="line"/>
+      <point x="67" y="95"/>
+      <point x="64" y="110" type="qcurve"/>
+      <point x="64" y="114" type="line"/>
+      <point x="64" y="128"/>
+      <point x="89" y="149"/>
+      <point x="100" y="149" type="qcurve"/>
+      <point x="163" y="146" type="line"/>
+      <point x="847" y="146" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>40ba6d1d6e4df96cf8e9fe5017ea58a3e87497b4bc26bf7cc923db07729a5aceb2030baf78cf01a4a0046324bd3b0b73fb3aec54bbafed7f33e71713bca8602d</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

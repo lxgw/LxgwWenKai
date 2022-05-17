@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pi" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="114" y="-17" type="qcurve"/>
+      <point x="97" y="-17"/>
+      <point x="57" y="1"/>
+      <point x="57" y="17" type="qcurve"/>
+      <point x="57" y="29"/>
+      <point x="59" y="81"/>
+      <point x="59" y="351" type="qcurve"/>
+      <point x="59" y="547"/>
+      <point x="58" y="610" type="qcurve"/>
+      <point x="44" y="610"/>
+      <point x="24" y="652"/>
+      <point x="24" y="667" type="qcurve"/>
+      <point x="24" y="691"/>
+      <point x="45" y="691" type="qcurve"/>
+      <point x="52" y="691"/>
+      <point x="89" y="689"/>
+      <point x="109" y="689" type="qcurve"/>
+      <point x="123" y="689"/>
+      <point x="365" y="706" type="qcurve"/>
+      <point x="403" y="709"/>
+      <point x="443" y="714" type="qcurve"/>
+      <point x="461" y="714"/>
+      <point x="479" y="672"/>
+      <point x="479" y="657" type="qcurve"/>
+      <point x="479" y="633"/>
+      <point x="459" y="633" type="qcurve"/>
+      <point x="447" y="634" type="line"/>
+      <point x="446" y="613"/>
+      <point x="446" y="106" type="qcurve"/>
+      <point x="446" y="75"/>
+      <point x="448" y="17"/>
+      <point x="448" y="0" type="qcurve"/>
+      <point x="448" y="-16"/>
+      <point x="421" y="-16" type="qcurve"/>
+      <point x="405" y="-16"/>
+      <point x="364" y="2"/>
+      <point x="364" y="18" type="qcurve"/>
+      <point x="364" y="30"/>
+      <point x="366" y="82"/>
+      <point x="366" y="352" type="qcurve"/>
+      <point x="366" y="592"/>
+      <point x="365" y="635" type="qcurve"/>
+      <point x="211" y="624"/>
+      <point x="139" y="618" type="qcurve"/>
+      <point x="138" y="566"/>
+      <point x="138" y="344" type="qcurve"/>
+      <point x="138" y="74"/>
+      <point x="141" y="16"/>
+      <point x="141" y="-1" type="qcurve"/>
+      <point x="141" y="-17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>370c7f89ace323ddc7ad6fea4cec901a39f140c11031481e1a0284830d0f4cb742a3dd45655d731b27e40176eda60e37685e6f478352aac38a536fa44d84cddb</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

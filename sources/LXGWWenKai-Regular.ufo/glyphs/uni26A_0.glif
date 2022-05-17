@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni26A0" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="26A0"/>
+  <outline>
+    <contour>
+      <point x="539" y="72" type="qcurve"/>
+      <point x="539" y="37"/>
+      <point x="498" y="37" type="qcurve"/>
+      <point x="482" y="37"/>
+      <point x="457" y="67"/>
+      <point x="457" y="100"/>
+      <point x="477" y="122"/>
+      <point x="512" y="122"/>
+      <point x="539" y="91"/>
+    </contour>
+    <contour>
+      <point x="468" y="574" type="line"/>
+      <point x="468" y="587"/>
+      <point x="503" y="587"/>
+      <point x="534" y="572"/>
+      <point x="534" y="563" type="qcurve"/>
+      <point x="534" y="562" type="line"/>
+      <point x="533" y="550"/>
+      <point x="530" y="524"/>
+      <point x="529" y="507" type="qcurve"/>
+      <point x="520" y="214" type="line"/>
+      <point x="520" y="175" type="line"/>
+      <point x="520" y="169"/>
+      <point x="497" y="169"/>
+      <point x="475" y="178"/>
+      <point x="475" y="185" type="qcurve"/>
+      <point x="475" y="186" type="line"/>
+      <point x="476" y="217" type="line"/>
+      <point x="471" y="510" type="line"/>
+      <point x="468" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="702" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="904" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="-44" type="line"/>
+      <point x="499" y="788" type="line"/>
+      <point x="978" y="-44" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>2398cf9bce49039072aae8f670536b0d5991d4d0d9485e05beb59dcd2d9cabe981d243b10f8dce5add166c4403db02dde5ac3b4212a89aaa02a8b201f91e11b7</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

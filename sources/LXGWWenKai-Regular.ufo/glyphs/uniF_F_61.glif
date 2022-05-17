@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF61" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="FF61"/>
+  <outline>
+    <contour>
+      <point x="249" y="-33"/>
+      <point x="297" y="15"/>
+      <point x="297" y="84"/>
+      <point x="249" y="132"/>
+      <point x="180" y="132"/>
+      <point x="131" y="84"/>
+      <point x="131" y="15"/>
+      <point x="180" y="-33"/>
+    </contour>
+    <contour>
+      <point x="315" y="149"/>
+      <point x="351" y="87"/>
+      <point x="351" y="12"/>
+      <point x="314" y="-50"/>
+      <point x="252" y="-87"/>
+      <point x="177" y="-87"/>
+      <point x="114" y="-50"/>
+      <point x="77" y="12"/>
+      <point x="77" y="87"/>
+      <point x="115" y="149"/>
+      <point x="179" y="186"/>
+      <point x="254" y="186"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>2fe1b02ac16ea61ee414dc78365e846732c4683d0308860fb0577adb357e87326d5533dcee70404b077cabd64808905b5a55a6bb860a799ae1cec9b301f6049f</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

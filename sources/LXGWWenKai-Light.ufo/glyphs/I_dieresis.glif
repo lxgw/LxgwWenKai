@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis" format="2">
+  <advance height="1000" width="304"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="195" y="823" type="qcurve"/>
+      <point x="195" y="864"/>
+      <point x="234" y="864" type="qcurve"/>
+      <point x="251" y="864"/>
+      <point x="282" y="829"/>
+      <point x="282" y="791"/>
+      <point x="261" y="769"/>
+      <point x="225" y="769"/>
+      <point x="195" y="805"/>
+    </contour>
+    <contour>
+      <point x="22" y="823" type="qcurve"/>
+      <point x="22" y="864"/>
+      <point x="61" y="864" type="qcurve"/>
+      <point x="78" y="864"/>
+      <point x="109" y="829"/>
+      <point x="109" y="791"/>
+      <point x="88" y="769"/>
+      <point x="52" y="769"/>
+      <point x="22" y="805"/>
+    </contour>
+    <contour>
+      <point x="118" y="18" type="qcurve"/>
+      <point x="120" y="107" type="line"/>
+      <point x="120" y="589" type="line"/>
+      <point x="117" y="695" type="line"/>
+      <point x="117" y="705"/>
+      <point x="149" y="705"/>
+      <point x="182" y="690"/>
+      <point x="182" y="677" type="qcurve"/>
+      <point x="180" y="588" type="line"/>
+      <point x="180" y="106" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="-10"/>
+      <point x="151" y="-10"/>
+      <point x="118" y="5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>801e1af4c98d878636de5af5e48af7b78ace337a734c5cc79f2fa96261eb5f915448f8469eb8f6768454b8f867768949ccf299f6b2fc3d7693a6457397ef2587</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

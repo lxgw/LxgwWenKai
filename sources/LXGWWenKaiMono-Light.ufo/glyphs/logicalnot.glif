@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance height="1000" width="500"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="411" y="182" type="qcurve"/>
+      <point x="400" y="182"/>
+      <point x="384" y="192"/>
+      <point x="384" y="199" type="qcurve"/>
+      <point x="384" y="393" type="line"/>
+      <point x="64" y="393" type="line"/>
+      <point x="46" y="393"/>
+      <point x="46" y="419" type="qcurve"/>
+      <point x="46" y="445"/>
+      <point x="64" y="445" type="qcurve"/>
+      <point x="394" y="445" type="line"/>
+      <point x="434" y="445"/>
+      <point x="437" y="400" type="qcurve"/>
+      <point x="437" y="199" type="line"/>
+      <point x="437" y="192"/>
+      <point x="421" y="182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>c274a51fe238658cc641809de83d2e60b43aaecd20b61302aea354acc8012618e47e91105be55d79e6d0f2768e892696e32e918e0b38d6b8eb3af34d1f33c5e9</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

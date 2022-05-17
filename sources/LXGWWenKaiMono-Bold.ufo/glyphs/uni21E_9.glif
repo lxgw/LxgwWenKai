@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni21E9" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="21E9"/>
+  <outline>
+    <contour>
+      <point x="499" y="2" type="line"/>
+      <point x="698" y="238" type="line"/>
+      <point x="578" y="238" type="line"/>
+      <point x="578" y="722" type="line"/>
+      <point x="419" y="722" type="line"/>
+      <point x="419" y="238" type="line"/>
+      <point x="300" y="238" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="-84" type="line"/>
+      <point x="177" y="295" type="line"/>
+      <point x="362" y="295" type="line"/>
+      <point x="362" y="779" type="line"/>
+      <point x="635" y="779" type="line"/>
+      <point x="635" y="295" type="line"/>
+      <point x="820" y="295" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l499+2l698+238l578+238l578+722l419+722l419+238l300+238|l499-84l177+295l362+295l362+779l635+779l635+295l820+295|</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

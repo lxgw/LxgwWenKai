@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reflexsuperset" format="2">
+  <advance height="1000" width="1000"/>
+  <unicode hex="2287"/>
+  <outline>
+    <contour>
+      <point x="809" y="13" type="qcurve"/>
+      <point x="175" y="13" type="line"/>
+      <point x="149" y="13"/>
+      <point x="149" y="51" type="qcurve"/>
+      <point x="149" y="87"/>
+      <point x="175" y="87" type="qcurve"/>
+      <point x="809" y="87" type="line"/>
+      <point x="835" y="87"/>
+      <point x="835" y="13"/>
+    </contour>
+    <contour>
+      <point x="611" y="209" type="qcurve"/>
+      <point x="177" y="209" type="line"/>
+      <point x="151" y="209"/>
+      <point x="151" y="247" type="qcurve"/>
+      <point x="151" y="283"/>
+      <point x="177" y="283" type="qcurve"/>
+      <point x="609" y="283" type="line"/>
+      <point x="653" y="283"/>
+      <point x="692" y="302" type="qcurve"/>
+      <point x="782" y="346"/>
+      <point x="782" y="461" type="qcurve"/>
+      <point x="782" y="575"/>
+      <point x="693" y="622" type="qcurve"/>
+      <point x="654" y="643"/>
+      <point x="609" y="643" type="qcurve"/>
+      <point x="177" y="643" type="line"/>
+      <point x="151" y="643"/>
+      <point x="151" y="681" type="qcurve"/>
+      <point x="151" y="717"/>
+      <point x="177" y="717" type="qcurve"/>
+      <point x="611" y="717" type="line"/>
+      <point x="673" y="717"/>
+      <point x="787" y="658"/>
+      <point x="860" y="545"/>
+      <point x="860" y="379"/>
+      <point x="789" y="266"/>
+      <point x="675" y="209"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>74ddff3349992358932d4af69fcfc33e7189b19daa71e3b5a5e443c9b1f305145f448de757bb7dd60decc689766be5d6d0160601a91283bf96aa6b654fa434ad</string>
+      </dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

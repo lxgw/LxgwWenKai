@@ -14,3 +14,8 @@ For /D %%D in (.\*.ufo) do (
     echo === END ===
     echo
 )
+
+echo === Modifying MONO average width... ===
+py fix_mono.py %folder_path%
+echo === END ===
+echo

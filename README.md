@@ -7,7 +7,7 @@
 >   - ~~[霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)：更粗且经过手工调整减少笔画黏连，目前正在制作中。~~
 >   - [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：与完整版相比剔除一些较不常用的字符，便于开发者将字体嵌入软件中。
 >   - [霞鶩文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC/)：旧字形版参考「一点字坊」的「传承字形标准化文件」对部件进行修改，适用于繁体中文用户及旧字形爱好者。
->   - [LXGW Bright](https://github.com/lxgw/LxgwBright)：与 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 搭配的中英文合并字体。包括旧字形字体 LXGW Bright Classic。
+>   - [LXGW Bright](https://github.com/lxgw/LxgwBright)：与 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 搭配的中英文合并字体。
 
 
 # LXGW WenKai / 霞鹜文楷

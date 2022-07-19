@@ -115,7 +115,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
    2. ~~[霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)：更粗且经过手工调整，加粗的同时减少笔画黏连。目前正处于测试阶段，最终将做完 GB 2312 及《通用规范汉字表》。~~
    3. [霞鹜文楷轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：剔除 v1.100 版本增补的一些较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。精简版不包含谚文。
    4. [霞鶩文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC/)：供繁体中文用户和旧字形爱好者使用，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改 （大部分部件参考[一点字坊「传承字形标准化文件」](https://github.com/ichitenfont/inheritedglyphs)，借助[「汉文博士」](https://www.cnblogs.com/hanbox/)[「国学迷」](http://www.guoxuemi.com/zidian/bujian/)[「字统网」](http://zi.tools) 等工具按部件查字，对字形进行修改）。此外已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的教育标准字形，有台标字形需求的可使用「芫荽」字体。
-6. **有关 Magisk 字体模块的问题，请不要在本项目的 Issue 里反馈。**
+6. **有关 Magisk 字体模块的问题，请不要在本项目的 Issues 里反馈，请移步[模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)的 Issues 里反馈。**
 
 ## 协助完善
 

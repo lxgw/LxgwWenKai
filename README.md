@@ -1,4 +1,5 @@
 > **注意事项**
+> 
 > - 添字请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 反馈，字形调整请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 反馈，不要另开议题。
 > - 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)。
 > - **有关 Magisk 字体模块等手机字体替换有关的问题，请不要在本项目的 Issue 里反馈。**
@@ -9,8 +10,8 @@
 >   - [霞鶩文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC/)：旧字形版参考「一点字坊」的「传承字形标准化文件」对部件进行修改，适用于繁体中文用户及旧字形爱好者。
 >   - [LXGW Bright](https://github.com/lxgw/LxgwBright)：与 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 搭配的中英文合并字体。
 
-
 # LXGW WenKai / 霞鹜文楷
+
 An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 
 [![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai?style=flat-square)](https://github.com/lxgw/LxgwWenKai)
@@ -50,24 +51,24 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 <details>
   <summary>简要更新记录</summary>
   <ul>
-	<li><b>2021.01.20</b> 着手为 Klee 增补简体字。</li>
-	<li><b>2021.02.03</b> 完成原有字形繁转简工作。</li>
-	<li><b>2021.02.05</b> 增补完 3603 简中常用字。</li>
-	<li><b>2021.02.07</b> 增补完 4808 繁中常用字。</li>
-	<li><b>2021.02.14</b> 增补完 GB2312 共 6763 个字，版本号 0.2。</li>
-	<li><b>2021.02.21</b> 增补完通用规范汉字表二表汉字。</li>
-	<li><b>2021.04.25</b> 增补完通用规范汉字表 8105 个字、GB/T 12345-90 包含的繁体字、BIG5 常用字表。</li>
-	<li><b>2021.05.05</b> 增补通用规范汉字表内汉字对应的繁体字或港台异体字，以及部分香港粤字，版本号 0.3。</li>
-	<li><b>2021.05.08</b> 开始大范围调整字形。</li>
-	<li><b>2021.06.29</b> 增补部分粤字、闽南语字、客家语字。</li>
-	<li><b>2021.07.13</b> 1.0 版发布，此后继续调整字形，但更新速度有所放缓。</li>
-	<li><b>2021.10.01</b> 增补完 CJK 统一汉字基本区共 20992 个字，版本号 1.100。此后分为完整版（本项目）和 <a href="https://github.com/lxgw/LxgwWenKai-Lite">轻便版</a>（适用于开发者嵌入 APP），新增 <a href="https://github.com/lxgw/LxgwWenKai-Screen">屏幕阅读版</a>（适用于 PC 与 Android 设备屏幕阅读）。
-	<li><b>2021.10.13</b> 完整版（本项目）增补 2367 个常用谚文音节，实现对韩语/朝鲜语的支持，版本号 1.110。</li>
-	<li><b>2022.02.15</b> 1.200 版本发布。</li>
-	<li><b>2022.02.16</b> 1.210 版本发布，修改等宽字符。</li>
-	<li><b>2022.03.02</b> 1.220 版本发布，继续增补汉字。</li>
-	<li><b>2022.04.20</b> 1.234 版本发布，GB/T 2312、GB/T 8565.2、通用规范汉字表范围内字形修改完成。</li>
-	<li><b>2022.06.14</b> 传承字形版 0.9 版本发布，适合繁体中文用户及旧字形爱好者。</li>
+    <li><b>2021.01.20</b> 着手为 Klee 增补简体字。</li>
+    <li><b>2021.02.03</b> 完成原有字形繁转简工作。</li>
+    <li><b>2021.02.05</b> 增补完 3603 简中常用字。</li>
+    <li><b>2021.02.07</b> 增补完 4808 繁中常用字。</li>
+    <li><b>2021.02.14</b> 增补完 GB2312 共 6763 个字，版本号 0.2。</li>
+    <li><b>2021.02.21</b> 增补完通用规范汉字表二表汉字。</li>
+    <li><b>2021.04.25</b> 增补完通用规范汉字表 8105 个字、GB/T 12345-90 包含的繁体字、BIG5 常用字表。</li>
+    <li><b>2021.05.05</b> 增补通用规范汉字表内汉字对应的繁体字或港台异体字，以及部分香港粤字，版本号 0.3。</li>
+    <li><b>2021.05.08</b> 开始大范围调整字形。</li>
+    <li><b>2021.06.29</b> 增补部分粤字、闽南语字、客家语字。</li>
+    <li><b>2021.07.13</b> 1.0 版发布，此后继续调整字形，但更新速度有所放缓。</li>
+    <li><b>2021.10.01</b> 增补完 CJK 统一汉字基本区共 20992 个字，版本号 1.100。此后分为完整版（本项目）和 <a href="https://github.com/lxgw/LxgwWenKai-Lite">轻便版</a>（适用于开发者嵌入 APP），新增 <a href="https://github.com/lxgw/LxgwWenKai-Screen">屏幕阅读版</a>（适用于 PC 与 Android 设备屏幕阅读）。
+    <li><b>2021.10.13</b> 完整版（本项目）增补 2367 个常用谚文音节，实现对韩语/朝鲜语的支持，版本号 1.110。</li>
+    <li><b>2022.02.15</b> 1.200 版本发布。</li>
+    <li><b>2022.02.16</b> 1.210 版本发布，修改等宽字符。</li>
+    <li><b>2022.03.02</b> 1.220 版本发布，继续增补汉字。</li>
+    <li><b>2022.04.20</b> 1.234 版本发布，GB/T 2312、GB/T 8565.2、通用规范汉字表范围内字形修改完成。</li>
+    <li><b>2022.06.14</b> 传承字形版 0.9 版本发布，适合繁体中文用户及旧字形爱好者。</li>
   </ul>
 </details>
 
@@ -78,24 +79,35 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 ## 补字计划
 
 ### 主要汉字部分
+
 请参阅[「霞鹜文楷 Lite」加字计划](https://github.com/lxgw/LxgwWenKai-Lite#%E5%8A%A0%E5%AD%97%E8%AE%A1%E5%88%92)。
 
 ### 其他部分
+
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字（简繁） *（目前完整版有 6857 个字形由 zi2zi 深度学习生成，字形较粗糙。）* ；
 - [x] 补全常用谚文（韩语/朝鲜语）音节 2367 个。 *（做得比较拙劣。Lite 版不包含。）*
 
 [点击此处查看后续加字及调整计划。](https://github.com/lxgw/LxgwWenKai/projects)
 
 ## 获取字体
+
 ### ⅰ. 直接下载
+
 1. 进入 [Release](https://github.com/lxgw/LxgwWenKai/releases) 界面下载对应版本的 TTF 格式文件，或在本仓库 `fonts/TTF` 文件夹中下载。
+
 2. 在 [Gitee 官方镜像仓库](https://gitee.com/mirrors/lxgw-wenkai) `fonts/TTF` 文件夹中下载。
+
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/9704.html)、[Zfont.cn](https://zfont.cn/cn/font_286.html)、[自由字体](https://ziyouziti.com/mianfeiziti-302.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。 
+
 4. [永硕Ｅ盘](http://lxgw.ysepan.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会在 GitHub 项目更新后 24 小时之内更新。
+
 5. 如果您使用 macOS，已经安装过 [Homebrew](https://brew.sh/)，可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-wenkai` 来安装本字体。
+
 6. 如果您使用 Windows，已经安装过 [Scoop](https://scoop.sh/)，可以在终端输入命令：`scoop bucket add nerd-fonts && scoop install LXGWWenKai` 或者 `scoop bucket add nerd-fonts && scoop install LXGWWenKaiMono` 来安装本字体。
-### ⅱ. 从源代码生成
-请运行 `./sources/build.bat`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
+   
+   ### ⅱ. 从源代码生成
+   
+   请运行 `./sources/build.bat`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
 
 ## 注意事项
 
@@ -133,8 +145,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 ### 限制
 
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」，基于本字体二次衍生的字体，名称不可出现「霞鹜」或「LXGW」字样。
-- 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
 - 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 该字体不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授权许可下发行。
 
 ## 鸣谢
 
@@ -156,6 +168,6 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
-
 ## 打赏支持
+
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)

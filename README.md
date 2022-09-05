@@ -5,7 +5,7 @@
 > - **有关 Magisk 字体模块等手机字体替换有关的问题，请不要在本项目的 Issue 里反馈。**
 > - 更多版本 *（可能会随时变动）* ：
 >   - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：适用于 PC 和 Android 手机屏幕显示且无需特别切换到粗体。
->   - [霞鹜文楷 核心 / LXGW WenKai Core](https://github.com/lxgw/LxgwWenKai-Lite)：与完整版相比剔除一些较不常用的字符，便于开发者将字体嵌入软件中。
+>   - [霞鹜文楷 核心版 / LXGW WenKai Core](https://github.com/lxgw/LxgwWenKai-Core)：与完整版相比剔除一些较不常用的字符，便于开发者将字体嵌入软件中。
 >   - **[霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) <sup>NEW</sup>**：进一步调整字形和笔形，符合 G 源字形规范。包含《通用规范汉字表》8105 个汉字。
 >   - [霞鶩文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：旧字形版参考「一点字坊」的「传承字形标准化文件」对部件进行修改，适用于繁体中文用户及旧字形爱好者。
 >   - [LXGW Bright](https://github.com/lxgw/LxgwBright)：与 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 搭配的中英文合并字体。
@@ -80,7 +80,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ### 主要汉字部分
 
-请参阅[「霞鹜文楷 Lite」加字计划](https://github.com/lxgw/LxgwWenKai-Lite#%E5%8A%A0%E5%AD%97%E8%AE%A1%E5%88%92)。
+请参阅[「霞鹜文楷 核心版」加字计划](https://github.com/lxgw/LxgwWenKai-Core#%E5%8A%A0%E5%AD%97%E8%AE%A1%E5%88%92)。
 
 ### 其他部分
 
@@ -99,9 +99,9 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 4. [永硕Ｅ盘](http://lxgw.ysepan.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会在 GitHub 项目更新后 24 小时之内更新。
 5. 如果您使用 macOS，已经安装过 [Homebrew](https://brew.sh/)，可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-wenkai` 来安装本字体。
 6. 如果您使用 Windows，已经安装过 [Scoop](https://scoop.sh/)，可以在终端输入命令：`scoop bucket add nerd-fonts && scoop install LXGWWenKai` 或者 `scoop bucket add nerd-fonts && scoop install LXGWWenKaiMono` 来安装本字体。
-   
+
 ### ⅱ. 从源代码生成
-   
+
 请运行 `./sources/build.bat`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
 
 ## 注意事项
@@ -112,9 +112,9 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 4. 对于搭配的西文字体，个人推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有 Ysabeau Office 与霞鹜文楷轻便版的合并字体 [LXGW Bright](https://github.com/lxgw/LxgwBright)，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将两款字体合并而成，提供 TTF 和 OTF 两种格式；此外还包括 Ysabeau 与 [霞鹜文楷 TC](https://github.com/lxgw/LxgwWenkaiTC/) 合并的旧字形字体 LXGW Bright Classic。
 5. 该字体的更多版本 *（可能会随时变动）*
    1. [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen) 由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，而 Bold 字重需要在粗体模式下才能调用，特制作以 Bold 字重为基础的，加粗后的「霞鹜文楷」与 Windows 默认英文字体 Segoe UI Regular 粗细相当，PC 和 Android 手机屏幕阅读更加舒适，无需特别切换到粗体模式。
-   2. [霞鹜文楷 核心 / LXGW WenKai Core](https://github.com/lxgw/LxgwWenKai-Lite)：剔除 v1.100 版本增补的一些较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。精简版不包含谚文。
+   2. [霞鹜文楷 核心版 / LXGW WenKai Core](https://github.com/lxgw/LxgwWenKai-Core)：剔除 v1.100 版本增补的一些较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。精简版不包含谚文。
    3. [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：在文楷基础上进一步调整字形和笔形，符合 G 源字形规范。包含《通用规范汉字表》8105 个汉字。
-   4. [霞鶩文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：供繁体中文用户和旧字形爱好者使用，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改 （大部分部件参考[一点字坊「传承字形标准化文件」](https://github.com/ichitenfont/inheritedglyphs)，借助[「汉文博士」](https://www.cnblogs.com/hanbox/)[「国学迷」](http://www.guoxuemi.com/zidian/bujian/)[「字统网」](http://zi.tools) 等工具按部件查字，对字形进行修改）。此外已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的教育标准字形，有台标字形需求的可使用「芫荽」字体。
+   4. [霞鶩文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：供繁体中文用户和旧字形爱好者使用，基于核心版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改 （大部分部件参考[一点字坊「传承字形标准化文件」](https://github.com/ichitenfont/inheritedglyphs)，借助[「汉文博士」](https://www.cnblogs.com/hanbox/)[「国学迷」](http://www.guoxuemi.com/zidian/bujian/)[「字统网」](http://zi.tools) 等工具按部件查字，对字形进行修改）。此外已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的教育标准字形，有台标字形需求的可使用「芫荽」字体。
 6. **有关 Magisk 字体模块的问题，请不要在本项目的 Issues 里反馈，请移步[模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)的 Issues 里反馈。**
 
 ## 协助完善
@@ -158,7 +158,6 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ## 其它项目
 
-- [霞鹜规楷 / LXGW GuiKai](https://github.com/lxgw/LxgwGuiKai)
 - [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
 - [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)

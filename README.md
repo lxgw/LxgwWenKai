@@ -6,7 +6,7 @@
 > - 更多版本 *（可能会随时变动）* ：
 >   - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：适用于 PC 和 Android 手机屏幕显示且无需特别切换到粗体。
 >   - [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：与完整版相比剔除一些较不常用的字符，便于开发者将字体嵌入软件中。
->   - **[霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) <sup>NEW</sup>**：进一步调整字形和笔形，符合 G 源字形规范。包含《通用规范汉字表》8105 个汉字。
+>   - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：进一步调整字形和笔形，符合 G 源字形规范。包含《通用规范汉字表》8105 个汉字。
 >   - [霞鶩文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：旧字形版参考「一点字坊」的「传承字形标准化文件」对部件进行修改，适用于繁体中文用户及旧字形爱好者。
 >   - [LXGW Bright](https://github.com/lxgw/LxgwBright)：与 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 搭配的中英文合并字体。
 

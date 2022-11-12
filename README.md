@@ -48,6 +48,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-9.png)
 
+<!--
 <details>
   <summary>简要更新记录</summary>
   <ul>
@@ -71,6 +72,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
     <li><b>2022.06.14</b> 传承字形版 0.9 版本发布，适合繁体中文用户及旧字形爱好者。</li>
   </ul>
 </details>
+-->
 
 [查看详细更新记录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
 

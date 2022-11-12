@@ -1,4 +1,4 @@
-> 　本文件不能保证实时更新，建议进入 [Releases](https://github.com/lxgw/LxgwWenKai/releases) 界面查看 v0.2 版本之后的更新历史。
+> ㊟ 本文件不能保证实时更新，建议进入 [Releases](https://github.com/lxgw/LxgwWenKai/releases) 界面查看 v0.2 版本之后的更新历史。
 
 ### v1.233.5 22/04/10
 - 修正非等宽版 `U+1ED3`「ồ」（玄声） 显示成「ố」（锐声）的问题，等宽版无变动。 #67 

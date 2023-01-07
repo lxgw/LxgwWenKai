@@ -143,7 +143,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 ### 限制
 
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」，基于本字体二次衍生的字体，名称不可出现「霞鹜」或「LXGW」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「霞鹜」「LXGW」。
-- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中 第一条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
 - 该字体不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授权许可下发行。
 
 ## 鸣谢

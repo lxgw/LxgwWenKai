@@ -101,6 +101,12 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 4. [永硕Ｅ盘](http://lxgw.ysepan.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会在 GitHub 项目更新后 24 小时之内更新。
 5. 如果您使用 macOS，已经安装过 [Homebrew](https://brew.sh/)，可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-wenkai` 来安装本字体。
 6. 如果您使用 Windows，已经安装过 [Scoop](https://scoop.sh/)，可以在终端输入命令：`scoop bucket add nerd-fonts && scoop install LXGWWenKai` 或者 `scoop bucket add nerd-fonts && scoop install LXGWWenKaiMono` 来安装本字体。
+7. 如果您使用 Arch Linux，可以从 [AUR](https://aur.archlinux.org) 获取并安装：
+      ```bash
+      yay -S ttf-smiley-sans  # 从源码编译安装发行版
+      yay -S ttf-smiley-sans-bin  # 从二进制发行版安装
+      yay -S ttf-smiley-sans-git  # 从源码编译安装开发版
+      ```
 
 ### ⅱ. 从源代码生成
 

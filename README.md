@@ -48,32 +48,6 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-9.png)
 
-<!--
-<details>
-  <summary>简要更新记录</summary>
-  <ul>
-    <li><b>2021.01.20</b> 着手为 Klee 增补简体字。</li>
-    <li><b>2021.02.03</b> 完成原有字形繁转简工作。</li>
-    <li><b>2021.02.05</b> 增补完 3603 简中常用字。</li>
-    <li><b>2021.02.07</b> 增补完 4808 繁中常用字。</li>
-    <li><b>2021.02.14</b> 增补完 GB2312 共 6763 个字，版本号 0.2。</li>
-    <li><b>2021.02.21</b> 增补完通用规范汉字表二表汉字。</li>
-    <li><b>2021.04.25</b> 增补完通用规范汉字表 8105 个字、GB/T 12345-90 包含的繁体字、BIG5 常用字表。</li>
-    <li><b>2021.05.05</b> 增补通用规范汉字表内汉字对应的繁体字或港台异体字，以及部分香港粤字，版本号 0.3。</li>
-    <li><b>2021.05.08</b> 开始大范围调整字形。</li>
-    <li><b>2021.06.29</b> 增补部分粤字、闽南语字、客家语字。</li>
-    <li><b>2021.07.13</b> 1.0 版发布，此后继续调整字形，但更新速度有所放缓。</li>
-    <li><b>2021.10.01</b> 增补完 CJK 统一汉字基本区共 20992 个字，版本号 1.100。此后分为完整版（本项目）和 <a href="https://github.com/lxgw/LxgwWenKai-Lite">轻便版</a>（适用于开发者嵌入 APP），新增 <a href="https://github.com/lxgw/LxgwWenKai-Screen">屏幕阅读版</a>（适用于 PC 与 Android 设备屏幕阅读）。
-    <li><b>2021.10.13</b> 完整版（本项目）增补 2367 个常用谚文音节，实现对韩语/朝鲜语的支持，版本号 1.110。</li>
-    <li><b>2022.02.15</b> 1.200 版本发布。</li>
-    <li><b>2022.02.16</b> 1.210 版本发布，修改等宽字符。</li>
-    <li><b>2022.03.02</b> 1.220 版本发布，继续增补汉字。</li>
-    <li><b>2022.04.20</b> 1.234 版本发布，GB/T 2312、GB/T 8565.2、通用规范汉字表范围内字形修改完成。</li>
-    <li><b>2022.06.14</b> 传承字形版 0.9 版本发布，适合繁体中文用户及旧字形爱好者。</li>
-  </ul>
-</details>
--->
-
 [查看详细更新记录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
 
 历史版本的 Release，请在 [Release](https://github.com/lxgw/LxgwWenKai/releases) 页面查看。
@@ -100,7 +74,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/9704.html)、[Zfont.cn](https://zfont.cn/cn/font_286.html)、[自由字体](https://ziyouziti.com/mianfeiziti-302.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。 
 4. [永硕Ｅ盘](http://lxgw.ysepan.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会在 GitHub 项目更新后 24 小时之内更新。
 5. 如果您使用 macOS，已经安装过 [Homebrew](https://brew.sh/)，可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-wenkai` 来安装本字体。
-6. 如果您使用 Windows，已经安装过 [Scoop](https://scoop.sh/)，可以在终端输入命令：`scoop bucket add nerd-fonts && scoop install LXGWWenKai` 或者 `scoop bucket add nerd-fonts && scoop install LXGWWenKaiMono` 来安装本字体。亦可查看官方教程 [Windows官方：如何在Windows中安装或删除字体](https://support.microsoft.com/zh-cn/windows/如何在-windows-中安装或删除字体-f12d0657-2fc8-7613-c76f-88d043b334b8) 
+6. 如果您使用 Windows，已经安装过 [Scoop](https://scoop.sh/)，可以在终端输入命令：`scoop bucket add nerd-fonts && scoop install LXGWWenKai` 或者 `scoop bucket add nerd-fonts && scoop install LXGWWenKaiMono` 来安装本字体。亦可查看微软官方教程：[如何在 Windows 中安装或删除字体](https://support.microsoft.com/zh-cn/windows/如何在-windows-中安装或删除字体-f12d0657-2fc8-7613-c76f-88d043b334b8)。
 
 ### ⅱ. 从源代码生成
 

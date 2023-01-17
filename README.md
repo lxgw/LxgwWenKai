@@ -78,7 +78,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ### ⅱ. 从源代码生成
 
-请运行 `./sources/build.bat`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
+请运行 `./sources/build.bat` 或 `./sources/build.sh`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
 
 ## 注意事项
 

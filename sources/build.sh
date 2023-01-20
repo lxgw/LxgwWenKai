@@ -6,7 +6,7 @@ export folder_path=../fonts/TTF
 
 for f in *.ufoz; do
     echo "=== Building font ${f} ==="
-    python extract_ufoz.py ${f}
+    python3 extract_ufoz.py ${f}
 
     fontmake "${f%.*}.ufo" --keep-overlaps --keep-direction --no-generate-GDEF --no-production-names -o ttf --output-dir "${folder_path}"
     rm -rf "${f%.*}.ufo"
@@ -14,5 +14,5 @@ for f in *.ufoz; do
 done;
 
 echo "=== Modifying MONO average width... ==="
-python fix_mono.py "${folder_path}"
+python3 fix_mono.py "${folder_path}"
 echo "=== END ==="

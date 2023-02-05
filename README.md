@@ -143,6 +143,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/lxgw/LxgwWenKai.svg)](https://starchart.cc/lxgw/LxgwWenKai)
+

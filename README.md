@@ -48,9 +48,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-9.png)
 
-[查看详细更新记录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md)
-
-历史版本的 Release，请在 [Release](https://github.com/lxgw/LxgwWenKai/releases) 页面查看。
+<!-- [查看详细更新记录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md) -->
+历史版本的 Release，请在 [Release](https://github.com/lxgw/LxgwWenKai/releases) 页面查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
 
 ## 补字计划
 

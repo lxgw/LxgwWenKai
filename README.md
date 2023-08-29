@@ -118,20 +118,22 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 ### 限制
 
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」，基于本字体二次衍生的字体，名称不可出现「霞鹜」或「LXGW」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「霞鹜」「LXGW」。
-- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中 第一条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
 - 该字体不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授权许可下发行。
 
 ## 鸣谢
 
-- [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
-- [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 为字形设计提供指导；
-- [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
+- [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
+- 原始字体的设计师 Francis Chow，以及 [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计提供指导；
+- [@夜煞之乐](https://github.com/NightFurySL2001) 等为本项目的运营提供帮助；
+- [@北辰極致卑微](https://weibo.com/u/5327681980?)、@Georgome、[@Magmeta](https://github.com/Des-Magmeta)、[@Steve-Yuu](https://github.com/Steve-Yuu) 等协助完善字体。
 - [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供 Powerline 符号。 
 - [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)
 
 ## 由本字体衍生的字体
 
 - [澳声通拼音文楷](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai) (需配合 [选音编辑器](http://toneoz.com/ime) 使用)
+- [计划楷 / PlanKai](https://github.com/Des-Magmeta/PlanKai)
 
 ## 其它项目
 

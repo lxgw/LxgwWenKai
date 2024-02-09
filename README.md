@@ -1,4 +1,4 @@
-> **注意事项**
+> [!IMPORTANT]
 > 
 > - 添字请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 反馈，字形调整请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 反馈，不要另开议题，以便于整理。
 > - 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)。
@@ -6,7 +6,7 @@
 > - 更多版本 *（可能会随时变动）* ：
 >   - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：适用于 PC 和 Android 手机屏幕显示且无需特别切换到粗体。
 >   - [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：与完整版相比剔除一些较不常用的字符，便于开发者将字体嵌入软件中。
->   - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：进一步调整字形和笔形，符合 G 源字形规范。包含《通用规范汉字表》8105 个汉字。
+>   - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：进一步调整字形和笔形，符合 G 源字形规范。[轻便版](https://github.com/lxgw/LxgwWenKaiGB-Lite)
 >   - [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：旧字形版参考「一点字坊」的「传承字形标准化文件」对部件进行修改，适用于繁体中文用户及旧字形爱好者。
 >   - [LXGW Bright](https://github.com/lxgw/LxgwBright)：与 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 搭配的中英文合并字体。
 
@@ -59,8 +59,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ### 其他部分
 
-- [x] 补完 CJK 统一汉字基本区 20992 个汉字（简繁） *（目前完整版有 6857 个字形由 zi2zi 深度学习生成，字形较粗糙。）* ；
-- [x] 补全常用谚文（韩语/朝鲜语）音节 2367 个。 *（做得比较拙劣。Lite 版不包含。）*
+- [x] 补完 CJK 统一汉字基本区 20992 个汉字、扩展 A 区 6592 个汉字（简繁） *（目前完整版有 1 万多个字形由 zi2zi 深度学习生成，字形较粗糙。）* ；
+- [x] 补全常用谚文（韩语/朝鲜语）音节 2376 个。 *（做得比较拙劣。Lite 版不包含。）*
 
 [点击此处查看后续加字及调整计划。](https://github.com/lxgw/LxgwWenKai/projects)
 
@@ -96,7 +96,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 霞鹜文楷仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。
 
-- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
 - **[即刻](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card)、[少数派](https://sspai.com/u/ng008g7q)、[小红书](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b)、[站酷](https://www.zcool.com.cn/u/26715019)、[~~酷安~~](https://www.coolapk.com/u/633884)：** @落霞孤鹜lxgw
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)

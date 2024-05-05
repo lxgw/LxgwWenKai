@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > 
-> - 添字请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 反馈，字形调整请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 反馈，不要另开议题，以便于整理。
+> - ~~添字请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 反馈~~，字形调整请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 反馈，不要另开议题，以便于整理。由于字体文件越发臃肿，v1.330 更新发布后，加字反馈通道暂时关闭，不会接受用户加字请求，敬请谅解。
 > - 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)。
 > - 有关 Magisk 字体模块等手机字体替换有关的问题，请移步[模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)的 Issues 里反馈，不要在本项目开议题。
 > - 更多版本 *（可能会随时变动）* ：

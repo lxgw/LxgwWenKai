@@ -59,7 +59,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ### 其他部分
 
-- [x] 补完 CJK 统一汉字基本区 20992 个汉字、扩展 A 区 6592 个汉字（简繁） *（目前完整版有 1 万多个字形由 zi2zi 深度学习生成，字形较粗糙。）* ；
+- [x] 补完 CJK 统一汉字基本区 20992 个汉字、扩展 A 区 6592 个汉字 *（目前完整版有 1 万多个字形由 zi2zi 深度学习生成，字形较粗糙。）* ；
 - [x] 补全常用谚文（韩语/朝鲜语）音节 2376 个。 *（做得比较拙劣。Lite 版不包含。）*
 
 [点击此处查看后续加字及调整计划。](https://github.com/lxgw/LxgwWenKai/projects)
@@ -88,7 +88,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 5. 该字体的更多版本 *（可能会随时变动）*
    1. [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen) 由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，而 Bold 字重需要在粗体模式下才能调用，特制作以 Bold 字重为基础的，加粗后的「霞鹜文楷」与 Windows 默认英文字体 Segoe UI Regular 粗细相当，PC 和 Android 手机屏幕阅读更加舒适，无需特别切换到粗体模式。
    2. [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：剔除 v1.100 版本增补的一些较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。精简版不包含谚文。
-   3. [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：在文楷基础上进一步调整字形和笔形，符合 G 源字形规范。包含《通用规范汉字表》8105 个汉字。另有与「芫荽」等同源字体合并的[「缝合楷」](https://github.com/lxgw/FusionKai)，及使用本项目字体补全的 [GB 融合版](https://github.com/lxgw/LxgwWenkaiGB-Fusion)。
+   3. [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：在文楷基础上进一步调整字形和笔形，符合 G 源字形规范。包含 GB 18030-2022 实现级别 2 范围内所有汉字。另有[文楷 GB 轻便版](https://github.com/lxgw/LxgwWenkaiGB-Lite)。
    4. [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：供繁体中文用户和旧字形爱好者使用，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改 （大部分部件参考[一点字坊「传承字形标准化文件」](https://github.com/ichitenfont/inheritedglyphs)，借助[「汉文博士」](https://www.cnblogs.com/hanbox/)[「国学迷」](http://www.guoxuemi.com/zidian/bujian/)[「字统网」](http://zi.tools) 等工具按部件查字，对字形进行修改）。此外已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的教育标准字形；另有采用香港地区字形标准的 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
 6. **本项目为字体项目，有关 Magisk 字体模块等手机字体替换有关的问题，请移步[模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)的 Issues 里反馈，不要在本项目开议题。**
 
@@ -128,7 +128,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - [@夜煞之乐](https://github.com/NightFurySL2001) 等为本项目的运营提供帮助；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?)、[@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta)、[@Steve-Yuu](https://github.com/Steve-Yuu) 等协助完善字体。
 - [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供 Powerline 符号。 
-- [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch)
+- [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch) 以及深度学习生成字形的源头字体 [思源宋体](https://github.com/adobe-fonts/source-han-serif)。
 
 ## 由本字体衍生的字体
 

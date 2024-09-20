@@ -137,7 +137,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ## 更多「霞鹜」系列字体
 ### 「霞鹜文楷」系列
-- 霞鹜文楷 / LXGW WenKai | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
+- **霞鹜文楷 / LXGW WenKai** | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
 - [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenKaiTC)
 ### 「晰致尚铭」系列

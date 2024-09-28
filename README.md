@@ -1,14 +1,14 @@
 > [!IMPORTANT]
-> 
+>
 > - ~~添字请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 反馈~~，字形调整请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 反馈，不要另开议题，以便于整理。**由于字体文件越发臃肿，v1.330 更新发布后，加字反馈通道暂时关闭，不会接受用户加字请求，敬请谅解。**
-> - 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)。
+> - 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)，或者在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜文楷」系列字体。
 > - 有关 Magisk 字体模块等手机字体替换有关的问题，请移步[模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)的 Issues 里反馈，不要在本项目开议题。
 > - 更多版本 *（可能会随时变动）* ：
->   - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：适用于 PC 和 Android 手机屏幕显示且无需特别切换到粗体。
+>   - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：适用于部分 Android 手机免 ROOT 更换第三方字体。
 >   - [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：与完整版相比剔除一些较不常用的字符，便于开发者将字体嵌入软件中。
 >   - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：进一步调整字形和笔形，符合 G 源字形规范。[轻便版](https://github.com/lxgw/LxgwWenKaiGB-Lite)
 >   - [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：旧字形版参考「一点字坊」的「传承字形标准化文件」对部件进行修改，适用于繁体中文用户及旧字形爱好者。
->   - [LXGW Bright](https://github.com/lxgw/LxgwBright)：与 [Ysabeau 系列字体](https://github.com/CatharsisFonts/Ysabeau) 搭配的中英文合并字体。
+>   - 与其他西文字体合并的字体：[LXGW Bright](https://github.com/lxgw/LxgwBright)（与 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 搭配）、[LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)（与 [Monaspace Argon](https://github.com/githubnext/monaspace) 搭配）。
 
 # LXGW WenKai / 霞鹜文楷
 
@@ -27,6 +27,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 鉴于此，也为了丰富开源中文字体中的楷体门类，2021 年 1 月 20 日起，本人开始了为 Klee One 这一高质量的日文开源字体补全简繁常用字的尝试。因该字体具有一定的「文艺气息」，命名 **「霞鹜文楷」***（其实当初是感觉这款字体适合正文阅读定名「文楷」，后来发现这款字体可能并不太适合大段正文排版，相比之下更加适合诗词之类的中等长度文本排版，或者注释排版）*。由于 Klee One 字体的 Regular 字重太细不太适合阅读，选取原字体 SemiBold 字重作为 Regular 字重。经过长时间的积累，目前已发展成简繁日韩均支持的 3 字重字体家族 ~~（虽然拙劣粗糙了点）~~ 。
 
 有关补字过程的更多信息，请参阅本人 GitHub.io 博客里的文章：[《为 Klee 试制简化字》](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)。
+
+「霞鹜文楷」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于蝌蚪引号`“‘’”`宽度的选择，[点击此处查看一览表](documentation/uvs.pdf)。
 
 ## 字体预览
 
@@ -51,7 +53,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 <!-- [查看详细更新记录。](https://github.com/lxgw/LxgwWenKai/blob/main/History.md) -->
 历史版本的 Release，请在 [Release](https://github.com/lxgw/LxgwWenKai/releases) 页面查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
 
-## 补字计划
+## 字汇
 
 ### 主要汉字部分
 
@@ -60,9 +62,9 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 ### 其他部分
 
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字、扩展 A 区 6592 个汉字 *（目前完整版有 1 万多个字形由 zi2zi 深度学习生成，字形较粗糙。）* ；
-- [x] 补全常用谚文（韩语/朝鲜语）音节 2376 个。 *（做得比较拙劣。Lite 版不包含。）*
+- [x] 补全常用谚文（韩语/朝鲜语）音节 2376 个。 *（做得比较拙劣。轻便版不包含。）*
 
-[点击此处查看后续加字及调整计划。](https://github.com/lxgw/LxgwWenKai/projects)
+<!-- [点击此处查看后续加字及调整计划。](https://github.com/lxgw/LxgwWenKai/projects) -->
 
 ## 获取字体
 
@@ -82,12 +84,12 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 ## 注意事项
 
 1. 截至目前，完整版本字体含有全部 CJK 基本区和扩展 A 区汉字，以及零星扩展 B~G 区汉字。 ~~**如有补字需求，请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 提出，不要另开 Issue**，以便于整理。~~ **由于字体文件越发臃肿，v1.330 更新发布后，加字反馈通道暂时关闭，不会接受用户加字请求，敬请谅解。**
-2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在 Bold 字重中部分字的轮廓曲线会有毛刺，Light 字重中部分字的轮廓会存在飞点；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。**如有字形优化建议，请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 提出，不要另开 Issue**，以便于整理。 *（以上两个 issue 均已加上 long term 标签，且均已在 Issues 页面置顶。）*
-3. **若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)。**
-4. 对于搭配的西文字体，个人推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有 Ysabeau Office 与霞鹜文楷轻便版的合并字体 [LXGW Bright](https://github.com/lxgw/LxgwBright)，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将两款字体合并而成，提供 TTF、~~OTF、~~ WOFF、WOFF2 四种格式。
+2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在 Medium 字重中部分字的轮廓曲线会有毛刺，Light 字重中部分字的轮廓会存在飞点；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。**如有字形优化建议，请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 提出，不要另开 Issue**，以便于整理。 *（以上两个 issue 均已加上 long term 标签，且均已在 Issues 页面置顶。）*
+3. **若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)，或者在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜文楷」系列字体。**
+4. 对于搭配的西文字体，个人推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有 Ysabeau Office 与霞鹜文楷轻便版的合并字体 [LXGW Bright](https://github.com/lxgw/LxgwBright)，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将两款字体合并而成。亦有中英文合并的等宽字体 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)，采用 [Monaspace Argon](https://github.com/githubnext/monaspace) 经缩窄调整后与霞鹜文楷轻便版合并而成。
 5. 该字体的更多版本 *（可能会随时变动）*
-   1. [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen) 由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，而 Bold 字重需要在粗体模式下才能调用，特制作以 Bold 字重为基础的，加粗后的「霞鹜文楷」与 Windows 默认英文字体 Segoe UI Regular 粗细相当，PC 和 Android 手机屏幕阅读更加舒适，无需特别切换到粗体模式。
-   2. [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：剔除 v1.100 版本增补的一些较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。精简版不包含谚文。
+   1. [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：以 Medium 字重为基准，调整度量数据与 Android 默认西文字体 Roboto 一致，适用于部分 Android 手机免 ROOT 更换第三方字体。
+   2. [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：剔除谚文及较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。
    3. [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：在文楷基础上进一步调整字形和笔形，符合 G 源字形规范。包含 GB 18030-2022 实现级别 2 范围内所有汉字。另有[文楷 GB 轻便版](https://github.com/lxgw/LxgwWenkaiGB-Lite)。
    4. [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：供繁体中文用户和旧字形爱好者使用，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改 （大部分部件参考[一点字坊「传承字形标准化文件」](https://github.com/ichitenfont/inheritedglyphs)，借助[「汉文博士」](https://www.cnblogs.com/hanbox/)[「国学迷」](http://www.guoxuemi.com/zidian/bujian/)[「字统网」](http://zi.tools) 等工具按部件查字，对字形进行修改）。此外已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的教育标准字形；另有采用香港地区字形标准的 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
 6. **本项目为字体项目，有关 Magisk 字体模块等手机字体替换有关的问题，请移步[模块模板](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)的 Issues 里反馈，不要在本项目开议题。**

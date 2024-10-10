@@ -10,5 +10,6 @@ for file in os.listdir(folder):
     font_path = os.path.join(folder, file)
     font = TTFont(font_path)
     font["OS/2"].xAvgCharWidth = 500
+    font["post"].isFixedPitch = 1
     font.save(font_path, reorderTables=False)
     

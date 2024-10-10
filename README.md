@@ -128,9 +128,12 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
 - 原始字体的设计师周建豪（Francis Chow）先生，以及 [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计提供指导；
 - [@夜煞之乐](https://github.com/NightFurySL2001) 等为本项目的运营提供帮助；
-- [@北辰極致卑微](https://weibo.com/u/5327681980?)、[@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta)、[@Steve-Yuu](https://github.com/Steve-Yuu) 等协助完善字体。
-- [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供 Powerline 符号。 
-- [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch) 以及深度学习生成字形的源头字体 [思源宋体](https://github.com/adobe-fonts/source-han-serif)。
+- [@北辰極致卑微](https://weibo.com/u/5327681980?)、[@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta)、[@Steve-Yuu](https://github.com/Steve-Yuu) 等协助完善字体；
+- [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供等宽字体所用的 Powerline 符号；
+- [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch) 以及深度学习生成字形的源头字体 [思源宋体](https://github.com/adobe-fonts/source-han-serif)；
+- 制表符、表意文字结构描述符（Ideographic Description Character, IDC）等字符借自 [思源黑体](https://github.com/adobe-fonts/source-han-sans)；
+- 吉祥图案、CC 许可图标等字符衍生自 [煮豆黑体](https://github.com/Buernia/Zhudou-Sans)；
+- 缺字标记 `.notdef` 的「🤔」外部轮廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)。
 
 ## 由本字体衍生的字体
 

@@ -139,6 +139,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 - [澳声通拼音文楷](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai) (需配合 [选音编辑器](http://toneoz.com/ime) 使用)
 - [计划楷 / PlanKai](https://github.com/Des-Magmeta/PlanKai)
+- [秋水书体 / Qiushui Shotai](https://github.com/NoHeartPen/QiushuiShotai)
 
 ## 更多「霞鹜」系列字体
 ### 「霞鹜文楷」系列
@@ -154,7 +155,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif) 停止维护
 ### 其他
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
-- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 停止维护
+- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
   

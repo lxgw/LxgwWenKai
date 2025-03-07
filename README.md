@@ -14,7 +14,7 @@
 >   - [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：旧字形版参考「一点字坊」的「传承字形标准化文件」对部件进行修改，适用于繁体中文用户及旧字形爱好者。
 >   - 与其他西文字体合并的字体：[LXGW Bright](https://github.com/lxgw/LxgwBright)（与 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 搭配）、[LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)（与 [Monaspace Argon](https://github.com/githubnext/monaspace) 搭配）。
 
-# LXGW WenKai / 霞鹜文楷
+# LXGW WenKai / 霞(xiá)鹜(wù)文楷
 
 An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 

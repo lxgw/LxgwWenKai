@@ -67,6 +67,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 - [x] 补完 CJK 统一汉字基本区 20992 个汉字、扩展 A 区 6592 个汉字 *（目前完整版有 1 万多个字形由 zi2zi 深度学习生成，字形较粗糙。）* ；
 - [x] 补全常用谚文（韩语/朝鲜语）音节 2376 个。 *（做得比较拙劣。轻便版不包含。）*
+- [ ] 补全 Unicode 迄今为止收录的所有谚文音节，共 11172 个。
 
 <!-- [点击此处查看后续加字及调整计划。](https://github.com/lxgw/LxgwWenKai/projects) -->
 
@@ -137,7 +138,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch) 以及深度学习生成字形的源头字体 [思源宋体](https://github.com/adobe-fonts/source-han-serif)；
 - 制表符、表意文字结构描述符（Ideographic Description Character, IDC）等字符借自 [思源黑体](https://github.com/adobe-fonts/source-han-sans)；
 - 吉祥图案、CC 许可图标等字符衍生自 [煮豆黑体](https://github.com/Buernia/Zhudou-Sans)；
-- 缺字标记 `.notdef` 的「🤔」外部轮廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)。
+- 缺字标记 `.notdef` 的「🤔」外部轮廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)；
+- [@派对大魔王](https://github.com/Partyb0ssishere) 的 [快去写作业](https://github.com/Partyb0ssishere/cef-fonts-cjk) 字体提供全谚文拼字模板。
 
 ## 由本字体衍生的字体
 

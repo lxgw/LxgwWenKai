@@ -4,3 +4,6 @@
 [submodule "sources/monolgc"]
 	path = sources/monolgc
 	url = https://github.com/lxgw/LxgwWenKai-MonoLGC.git
+[submodule "sources/lite"]
+	path = sources/lite
+	url = https://github.com/lxgw/LxgwWenKai-Lite.git

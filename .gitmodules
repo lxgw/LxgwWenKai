@@ -1,0 +1,6 @@
+[submodule "sources/fulldiff"]
+	path = sources/fulldiff
+	url = https://github.com/lxgw/LxgwWenKai-Diff.git
+[submodule "sources/monolgc"]
+	path = sources/monolgc
+	url = https://github.com/lxgw/LxgwWenKai-MonoLGC.git

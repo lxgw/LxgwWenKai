@@ -7,3 +7,6 @@
 [submodule "sources/lite"]
 	path = sources/lite
 	url = https://github.com/lxgw/LxgwWenKai-Lite.git
+[submodule "sources/shared"]
+	path = sources/shared
+	url = https://github.com/lxgw/LxgwWenKai-shared.git

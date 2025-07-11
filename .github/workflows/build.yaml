@@ -1,0 +1,78 @@
+name: Build font and specimen
+
+on: 
+  push:
+    # do not run when push tag
+    branches:
+        - '**'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "版本号，格式vX.XXX"
+        required: true
+        type: string
+      release_date:
+        description: "版本日期，格式MONTH dd, YYYY。若空置将默认使用 UTC+8/上海当前的日期。"
+        type: string
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      # 允许 git-auto-commit 的 GITHUB_TOKEN 写入仓库
+      contents: write
+    env: 
+      VERSION_TAG: ${{ inputs.version }}
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.10"
+    - name: Install sys tools/deps
+      run: |
+        sudo apt-get update
+        sudo apt-get install ttfautohint
+        sudo snap install yq
+    - uses: actions/cache@v4
+      with:
+        path: ./venv/
+        key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements*.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-venv-
+      
+    # Use version tag to auto-bump the source files if provided manually
+    - name: Bump release
+      id: bump_release
+      if: github.event_name == 'workflow_dispatch'
+      run: |
+        make venv
+        . venv/bin/activate
+        SRCS=$(ls -d sources/fontinfo/*.plist)
+        TAG_NAME=${{ env.VERSION_TAG }}
+        echo "Bumping $SRCS to $TAG_NAME"
+        for src in $SRCS
+        do
+          python3 sources/shared/scripts/bump_version.py "$src" -v "$TAG_NAME" -d "${{ inputs.release_date }}"
+        done
+    
+    - name: Build font
+      run: make build
+
+    # Recording files
+    - name: Archive built TTFs
+      uses: actions/upload-artifact@v4
+      with:
+        name: result_ttf
+        path: fonts/TTF/**
+    #- name: Archive built UFOs
+    #  uses: actions/upload-artifact@v4
+    #  with:
+    #    name: source_ufos
+    #    path: sources/build/**
+    - name: Commit fonts
+      if: github.event_name == 'workflow_dispatch'
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Bump version to ${{ env.VERSION_TAG }}
+        file_pattern: 'fonts/TTF/*.ttf sources/*.ufo/fontinfo.plist'

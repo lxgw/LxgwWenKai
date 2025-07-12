@@ -2,7 +2,7 @@ name: Bump fontinfo version
 
 on:
   repository_dispatch:
-    type: [bump_version]
+    types: [bump_version]
   workflow_dispatch:
     inputs:
       version:

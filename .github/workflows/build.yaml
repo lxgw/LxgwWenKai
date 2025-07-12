@@ -2,7 +2,7 @@ name: Build font files
 
 on: 
   repository_dispatch:
-    type: [build]
+    types: [build]
   workflow_dispatch:
     inputs:
       commit_build_result:

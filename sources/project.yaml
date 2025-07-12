@@ -11,6 +11,7 @@ buildOTF: False
 buildTTF: True
 buildWebfont: False
 autohintTTF: False
+autohintOTF: False
 
 outputDir: ../fonts
 ttDir: $outputDir/TTF

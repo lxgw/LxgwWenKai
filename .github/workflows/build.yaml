@@ -1,19 +1,17 @@
 name: Build font and specimen
 
 on: 
+  repository_dispatch:
+    type: [build]
+  workflow_dispatch:
+    inputs:
+      commitBuildResult:
+        description: '将构建结果提交到仓库'
+        type: boolean
   push:
     # do not run when push tag
     branches:
         - '**'
-  workflow_dispatch:
-    inputs:
-      version:
-        description: "版本号，格式vX.XXX"
-        required: true
-        type: string
-      release_date:
-        description: "版本日期，格式MONTH dd, YYYY。若空置将默认使用 UTC+8/上海当前的日期。"
-        type: string
 
 jobs:
   build:
@@ -21,8 +19,6 @@ jobs:
     permissions:
       # 允许 git-auto-commit 的 GITHUB_TOKEN 写入仓库
       contents: write
-    env: 
-      VERSION_TAG: ${{ inputs.version }}
     steps:
     - uses: actions/checkout@v4
       with:
@@ -43,21 +39,6 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-venv-
       
-    # Use version tag to auto-bump the source files if provided manually
-    - name: Bump release
-      id: bump_release
-      if: github.event_name == 'workflow_dispatch'
-      run: |
-        make venv
-        . venv/bin/activate
-        SRCS=$(ls -d sources/fontinfo/*.plist)
-        TAG_NAME=${{ env.VERSION_TAG }}
-        echo "Bumping $SRCS to $TAG_NAME"
-        for src in $SRCS
-        do
-          python3 sources/shared/scripts/bump_version.py "$src" -v "$TAG_NAME" -d "${{ inputs.release_date }}"
-        done
-    
     - name: Build font
       run: make build
 
@@ -73,8 +54,10 @@ jobs:
     #    name: source_ufos
     #    path: sources/build/**
     - name: Commit fonts
-      if: github.event_name == 'workflow_dispatch'
+      if: >
+        (github.event_name == 'workflow_dispatch' && inputs.commitBuildResult == true) ||
+        (github.event_name == 'repository_dispatch' && github.event.client_payload.commitBuildResult == true)
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: Bump version to ${{ env.VERSION_TAG }}
-        file_pattern: 'fonts/TTF/*.ttf sources/*.ufo/fontinfo.plist'
+        commit_message: Build fonts
+        file_pattern: 'fonts/TTF/*.ttf'

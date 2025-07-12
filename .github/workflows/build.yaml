@@ -1,11 +1,11 @@
-name: Build font and specimen
+name: Build font files
 
 on: 
   repository_dispatch:
     type: [build]
   workflow_dispatch:
     inputs:
-      commitBuildResult:
+      commit_build_result:
         description: '将构建结果提交到仓库'
         type: boolean
   push:
@@ -55,8 +55,8 @@ jobs:
     #    path: sources/build/**
     - name: Commit fonts
       if: >
-        (github.event_name == 'workflow_dispatch' && inputs.commitBuildResult == true) ||
-        (github.event_name == 'repository_dispatch' && github.event.client_payload.commitBuildResult == true)
+        (github.event_name == 'workflow_dispatch' && inputs.commit_build_result == true) ||
+        (github.event_name == 'repository_dispatch' && github.event.client_payload.commit_build_result == true)
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: Build fonts

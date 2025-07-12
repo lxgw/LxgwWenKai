@@ -1,4 +1,4 @@
-name: Build font and specimen
+name: Bump fontinfo version
 
 on:
   repository_dispatch:

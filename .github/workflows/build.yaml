@@ -9,9 +9,11 @@ on:
         description: '将构建结果提交到仓库'
         type: boolean
   push:
-    # do not run when push tag
+    # on run when a commit is pushed to any branch to the source folder
     branches:
-        - '**'
+      - '**'
+    paths:
+      - 'sources/**'
 
 jobs:
   build:

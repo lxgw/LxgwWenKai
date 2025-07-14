@@ -84,7 +84,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ### ⅱ. 从源代码生成
 
-请运行 `./sources/build.bat` 或 `./sources/build.sh`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
+可通过 `make` 运行完整的构建流程： `make build`。目前的源代码依赖子模块 [LxgwWenKai-shared]( https://github.com/lxgw/LxgwWenKai-Shared)，且只能在类 Unix 系统运行，需要安装 Python 3。 
 
 ## 注意事项
 
@@ -107,14 +107,14 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 - **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
-- **[小红书](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b)、[即刻](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card)、[少数派](https://sspai.com/u/ng008g7q)、[~~站酷~~](https://www.zcool.com.cn/u/26715019)、[酷安](https://www.coolapk.com/u/633884)：** @落霞孤鹜lxgw
+- **[小红书](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b)、[即刻](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card)、[少数派](https://sspai.com/u/ng008g7q)、[站酷](https://www.zcool.com.cn/u/26715019)、[酷安](https://www.coolapk.com/u/633884)：** @落霞孤鹜lxgw
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
 
 ## 授权信息
 
-本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。
+本字体在 Fontworks（今 Monotype KK）开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目基础上改造，采用 [SIL Open Font License 1.1](https://openfontlicense.org) 授权许可。Klee 是 Fontworks 的商标。
 
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
@@ -132,7 +132,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ## 鸣谢
 
-- [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
+- Fontworks Inc.（今 [Monotype KK](https://en.fontworks.co.jp/)）提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)https://github.com/fontworks-fonts/)
 - 原始字体的设计师周建豪（Francis Chow）先生，以及 [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计提供指导；
 - [@夜煞之乐](https://github.com/NightFurySL2001) 等为本项目的运营提供帮助；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?)、[@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta)、[@Steve-Yuu](https://github.com/Steve-Yuu) 等协助完善字体；

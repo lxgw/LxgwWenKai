@@ -1,0 +1,58 @@
+name: Bump fontinfo version
+
+on:
+  repository_dispatch:
+    types: [bump_version]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "版本号，格式vX.XXX"
+        required: true
+        type: string
+      release_date:
+        description: "版本日期，格式MONTH dd, YYYY。若空置将默认使用 UTC+8/上海当前的日期。"
+        type: string
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      # 允许 git-auto-commit 的 GITHUB_TOKEN 写入仓库
+      contents: write
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        submodules: recursive
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.10"
+
+    - name: Save manual triggered version and date to GitHub environment
+      if: github.event_name == 'workflow_dispatch'
+      run: |
+        echo "VERSION_TAG=${{ inputs.version }}" >> $GITHUB_ENV
+        echo "RELEASE_DATE=${{ inputs.release_date }}" >> $GITHUB_ENV
+    
+    - name: Save API triggered version and date to GitHub environment
+      if: github.event_name == 'repository_dispatch'
+      run: |
+        echo "VERSION_TAG=${{ github.event.client_payload.version }}" >> $GITHUB_ENV
+        echo "RELEASE_DATE=${{ github.event.client_payload.release_date }}" >> $GITHUB_ENV
+
+    - name: Bump release
+      id: bump_release
+      run: |
+        SRCS=$(ls -d sources/fontinfo/*.plist)
+        TAG_NAME=${{ env.VERSION_TAG }}
+        echo "Bumping $SRCS to $TAG_NAME"
+        for src in $SRCS
+        do
+          python3 sources/shared/scripts/bump_version.py "$src" -v "$TAG_NAME" -d "${{ env.RELEASE_DATE }}"
+        done
+    
+    - name: Commit version bump
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Bump version to ${{ env.VERSION_TAG }}
+        file_pattern: 'sources/fontinfo/*.plist'

@@ -1,0 +1,15 @@
+sources/temp
+sources/build
+
+build.ninja
+.ninja_log
+*.backup
+*.ttx
+
+# python specific
+.env
+.venv
+env
+venv
+*.pyc
+__pycache__

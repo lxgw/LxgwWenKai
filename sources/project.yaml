@@ -1,0 +1,18 @@
+sources:
+  - build/LXGWWenKai-Light.ufo
+  - build/LXGWWenKai-Regular.ufo
+  - build/LXGWWenKai-Medium.ufo
+  - build/LXGWWenKaiMono-Light.ufo
+  - build/LXGWWenKaiMono-Regular.ufo
+  - build/LXGWWenKaiMono-Medium.ufo
+reverseOutlineDirection: False
+removeOutlineOverlaps: False
+buildOTF: False
+buildTTF: True
+buildWebfont: False
+autohintTTF: False
+autohintOTF: False
+
+outputDir: ../fonts
+ttDir: $outputDir/TTF
+otDir: $outputDir/OTF

@@ -1,0 +1,65 @@
+name: Build font files
+
+on: 
+  repository_dispatch:
+    types: [build]
+  workflow_dispatch:
+    inputs:
+      commit_build_result:
+        description: '将构建结果提交到仓库'
+        type: boolean
+  push:
+    # on run when a commit is pushed to any branch to the source folder
+    branches:
+      - '**'
+    paths:
+      - 'sources/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      # 允许 git-auto-commit 的 GITHUB_TOKEN 写入仓库
+      contents: write
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        submodules: recursive
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.10"
+    - name: Install sys tools/deps
+      run: |
+        sudo apt-get update
+        sudo apt-get install ttfautohint
+        sudo snap install yq
+    - uses: actions/cache@v4
+      with:
+        path: ./venv/
+        key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements*.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-venv-
+      
+    - name: Build font
+      run: make build
+
+    # Recording files
+    - name: Archive built TTFs
+      uses: actions/upload-artifact@v4
+      with:
+        name: result_ttf
+        path: fonts/TTF/**
+    #- name: Archive built UFOs
+    #  uses: actions/upload-artifact@v4
+    #  with:
+    #    name: source_ufos
+    #    path: sources/build/**
+    - name: Commit fonts
+      if: >
+        (github.event_name == 'workflow_dispatch' && inputs.commit_build_result == true) ||
+        (github.event_name == 'repository_dispatch' && github.event.client_payload.commit_build_result == true)
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Build fonts
+        file_pattern: 'fonts/TTF/*.ttf'

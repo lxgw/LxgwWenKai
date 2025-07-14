@@ -32,7 +32,7 @@ jobs:
       if: github.event_name == 'workflow_dispatch'
       run: |
         echo "VERSION_TAG=${{ inputs.version }}" >> $GITHUB_ENV
-        echo "RELEASE_DATE=${{ inputs.release_date }}" >> $GITHUB_ENV   - name: Bump release
+        echo "RELEASE_DATE=${{ inputs.release_date }}" >> $GITHUB_ENV
     
     - name: Save API triggered version and date to GitHub environment
       if: github.event_name == 'repository_dispatch'

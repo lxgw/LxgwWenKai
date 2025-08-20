@@ -102,6 +102,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
    5. 이 글꼴의 한글 버전을 사용할 수 있습니다: [LXGW WenKai KR](https://github.com/lxgw/LxgwWenkaiKR).
    6. 日本語版が必要な場合は、オリジナルフォント[「クレー One」](https://github.com/fontworks-fonts/Klee)を直接使用してください。
 6. 为避免一些人误将本**字体**项目视作本字体的 **Magisk 模块**项目，且由于本人的字体模块可能存在兼容性问题而本人无力解决，即日起**不再提供** Magisk 字体模块。如需要 Magisk 字体模块，且本人此前分享的模块使用正常，请移步[模块模板项目](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)下载模板自行制作；若模块模板存在问题，则选用其他作者的字体模块，替换内部字体素材后刷入。
+7. 为了简化构建流程，减轻维护负担，本字体与[《霞鹜文楷 GB》](https://github.com/lxgw/LxgwWenkaiGB)共用一套完整版与轻便版的相差部分，因此本字体会混入大量 GB 写法的字形。
 
 ## 协助完善
 

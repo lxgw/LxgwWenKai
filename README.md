@@ -146,6 +146,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - 制表符、表意文字结构描述符（Ideographic Description Character, IDC）等字符借自 [思源黑体](https://github.com/adobe-fonts/source-han-sans)；
 - 吉祥图案、CC 许可图标等字符衍生自 [煮豆黑体](https://github.com/Buernia/Zhudou-Sans)；
 - 缺字标记 `.notdef` 的「🤔」外部轮廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)；
+- 带圈无衬线数字序号（➀`U+2780`～➓`U+2793`）内部数字字形借自 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 字体；
 - [@派对大魔王](https://github.com/Partyb0ssishere) 的 [快去写作业](https://github.com/Partyb0ssishere/cef-fonts-cjk) 字体提供全谚文拼字模板。
 
 ## 由本字体衍生的字体

@@ -322,9 +322,9 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
 	<key>openTypeVheaCaretSlopeRun</key>
 	<integer>1</integer>
 	<key>openTypeVheaVertTypoAscender</key>
-	<integer>2483</integer>
+	<integer>500</integer>
 	<key>openTypeVheaVertTypoDescender</key>
-	<integer>-1509</integer>
+	<integer>-500</integer>
 	<key>openTypeVheaVertTypoLineGap</key>
 	<integer>0</integer>
 	<key>postscriptIsFixedPitch</key>

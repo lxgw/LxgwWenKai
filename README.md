@@ -37,7 +37,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 有关补字过程的更多信息，请参阅本人 GitHub.io 博客里的文章：[《为 Klee 试制简化字》](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)。
 
-「霞鹜文楷」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于蝌蚪引号`“‘’”`宽度的选择，[点击此处查看一览表](documentation/uvs.pdf)。
+「霞鹜文楷」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于标点符号宽度和位置的选择，[点击此处查看一览表](documentation/uvs.pdf)。
 
 ## 字体预览
 

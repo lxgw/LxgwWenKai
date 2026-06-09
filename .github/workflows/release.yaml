@@ -12,7 +12,7 @@ jobs:
     env:
       FULL_ZIP_NAME: lxgw-wenkai-${{ github.event.release.tag_name }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       
       # zip license
       - run: cp OFL.txt fonts/TTF/OFL.txt

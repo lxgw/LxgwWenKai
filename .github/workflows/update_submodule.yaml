@@ -12,13 +12,13 @@ jobs:
       # 允许 git-auto-commit 的 GITHUB_TOKEN 写入仓库
       contents: write
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
       with:
         submodules: recursive
     - name: Update submodule
       run: git submodule update --remote --recursive
     - name: Commit submodule update
-      uses: stefanzweifel/git-auto-commit-action@v5
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Update source file pointer
         file_pattern: 'sources/shared'

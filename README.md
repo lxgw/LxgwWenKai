@@ -15,7 +15,7 @@
 >   - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：适用于部分 Android 手机免 ROOT 更换第三方字体。
 >   - [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：与完整版相比剔除一些较不常用的字符，便于开发者将字体嵌入软件中。
 >   - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：进一步调整字形和笔形，符合 G 源字形规范。[轻便版](https://github.com/lxgw/LxgwWenKaiGB-Lite)
->   - [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：旧字形版参考「一点字坊」的「传承字形标准化文件」对部件进行修改，适用于繁体中文用户及旧字形爱好者。
+>   - [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：旧字形版参考「一点字坊」的「传承字形标准化文件」对部件进行修改，适用于繁体中文用户及旧字形偏好者。
 >   - 한글판: [LXGW WenKai KR](https://github.com/lxgw/LxgwWenkaiKR).
 >   - 与其他西文字体合并的字体：[LXGW Bright](https://github.com/lxgw/LxgwBright)（与 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 搭配）、[LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)（与 [Monaspace Argon](https://github.com/githubnext/monaspace) 搭配）。
 

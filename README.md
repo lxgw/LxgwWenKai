@@ -137,7 +137,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ### 相关声明
 
-关于“霞鹜”“LXGW”保留名称的使用规则以及其他与授权许可有关的问题，本人已发布正式声明，详见：[微博 @孤鹜先森](https://weibo.com/6624339726/R5poUq43u) | [微信公众号：霞鹜](https://mp.weixin.qq.com/s/5BIIoRZGPchiBlmZNVd0Mg) | [哔哩哔哩 @霞鹜lxgw](https://www.bilibili.com/opus/1216899818532634627) | [小红书 @落霞孤鹜lxgw](https://www.xiaohongshu.com/explore/6a39704f000000000603559e?xsec_token=LBvtoxSAPxoKcDkaglzGkD8DGWXHFX8GC6r7QF6rZbtqo=))。
+关于“霞鹜”“LXGW”保留名称的使用规则以及其他与授权许可有关的问题，本人已发布正式声明，详见：[微博 @孤鹜先森](https://weibo.com/6624339726/R5poUq43u) | [微信公众号：霞鹜](https://mp.weixin.qq.com/s/5BIIoRZGPchiBlmZNVd0Mg) | [哔哩哔哩 @霞鹜lxgw](https://www.bilibili.com/opus/1216899818532634627) | [小红书 @落霞孤鹜lxgw](https://www.xiaohongshu.com/explore/6a39704f000000000603559e?xsec_token=LBvtoxSAPxoKcDkaglzGkD8DGWXHFX8GC6r7QF6rZbtqo=)。
 
 ## 鸣谢
 

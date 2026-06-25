@@ -85,7 +85,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 4. [永硕Ｅ盘](http://lxgw.ysepan.com/)、[蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) 会在 GitHub 项目更新后 72 小时之内更新。
 5. 如果您使用 macOS，已经安装过 [Homebrew](https://brew.sh/)，可以在终端输入命令：`brew install font-lxgw-wenkai` 来安装本字体。
 6. 如果您使用 Windows，已经安装过 [Scoop](https://scoop.sh/)，可以在终端输入命令：`scoop bucket add nerd-fonts && scoop install LXGWWenKai` 或者 `scoop bucket add nerd-fonts && scoop install LXGWWenKaiMono` 来安装本字体。亦可查看微软官方教程：[如何在 Windows 中安装或删除字体](https://support.microsoft.com/zh-cn/windows/如何在-windows-中安装或删除字体-f12d0657-2fc8-7613-c76f-88d043b334b8)。
-
+7. 国内用户可进入 [重庆大学开源软件镜像站](https://mirrors.cqu.edu.cn/github-release/lxgw/) 进行下载，或点击 [镜像站首页](https://mirrors.cqu.edu.cn/)-获取下载链接-常用字体 选择下载。
 ### ⅱ. 从源代码生成
 
 可通过 `make` 运行完整的构建流程： `make build`。目前的源代码依赖子模块 [LxgwWenKai-shared]( https://github.com/lxgw/LxgwWenKai-Shared)，且只能在类 Unix 系统运行，需要安装 Python 3。 

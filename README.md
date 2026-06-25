@@ -11,7 +11,7 @@
 > - 字形调整请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 反馈，不要另开议题，以便于整理。由于字体文件越发臃肿，[加字反馈通道](https://github.com/lxgw/LxgwWenKai/issues/33)已经关闭，不再接受用户加字请求，敬请谅解。
 > - 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)，或者在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜文楷」系列字体。
 > - 为避免一些人误将本**字体**项目视作本字体的 **Magisk 模块**项目，即日起不再提供 Magisk 字体模块。如需要 Magisk 字体模块，且本人此前分享的模块使用正常，请移步[模块模板项目](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)下载模板自行制作。
-> - 更多版本 *（可能会随时变动）* ：
+> - 更多版本 *（状态详见各仓库）* ：
 >   - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：适用于部分 Android 手机免 ROOT 更换第三方字体。
 >   - [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：与完整版相比剔除一些较不常用的字符，便于开发者将字体嵌入软件中。
 >   - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：进一步调整字形和笔形，符合 G 源字形规范。[轻便版](https://github.com/lxgw/LxgwWenKaiGB-Lite)
@@ -33,7 +33,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 这是一款有着日本教科书体风格的字体，兼有仿宋和楷体的特点。一些 DIY 字体爱好者曾先后用仿宋等字体补全这款字体，作为手机系统的美化字体移植在 iOS、Android 等手机系统中，受到很多玩机发烧友的欢迎。不过这样补全的字体有一些不足之处。 **第一**，原有字体和后补字体之间有着一定的差异，致使一些不同的文字（如 Klee 原有汉字与后补简体字）混排之后会有一定的违和感。 **第二**，由于补字所用的字体为商业版权字体，补全之后不可用于商业用途，还会有侵权的风险。此外，目前现有的开源中文字库里，楷体类寥寥无几，仿宋类则几乎没有。
 
-鉴于此，也为了丰富开源中文字体中的楷体门类，2021 年 1 月 20 日起，本人开始了为 Klee One 这一高质量的日文开源字体补全简繁常用字的尝试。因该字体具有一定的「文艺气息」，命名 **「霞鹜文楷」***（其实当初是感觉这款字体适合正文阅读定名「文楷」，后来发现这款字体可能并不太适合大段正文排版，相比之下更加适合诗词之类的中等长度文本排版，或者注释排版）*。由于 Klee One 字体的 Regular 字重太细不太适合阅读，选取原字体 SemiBold 字重作为 Regular 字重。经过长时间的积累，目前已发展成简繁日韩均支持的 3 字重字体家族 ~~（虽然拙劣粗糙了点）~~ 。
+鉴于此，也为了丰富开源中文字体中的楷体门类，2021 年 1 月 20 日起，本人开始了为 Klee One 这一高质量的日文开源字体补全简繁常用字的尝试。因该字体具有一定的「文艺气息」，命名 **「霞鹜文楷」**（其实当初是感觉这款字体适合正文阅读定名「文楷」，后来发现这款字体可能 *并不太适合* 大段正文排版，相比之下更加适合诗词之类的中等长度文本排版，或者注释排版）。由于 Klee One 字体的 Regular 字重太细不太适合阅读，选取原字体 SemiBold 字重作为 Regular 字重。经过长时间的积累，目前已发展成简繁日韩均支持的 3 字重字体家族 ~~（虽然拙劣粗糙了点）~~ 。
 
 有关补字过程的更多信息，请参阅本人 GitHub.io 博客里的文章：[《为 Klee 试制简化字》](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)。
 
@@ -96,7 +96,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在 Medium 字重中部分字的轮廓曲线会有毛刺，Light 字重中部分字的轮廓会存在飞点；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。如有字形优化建议，请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 提出，**不要另开 Issue**，以便于整理。
 3. 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)，或者在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜文楷」系列字体。
 4. 对于搭配的西文字体，个人推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有 Ysabeau Office 与霞鹜文楷轻便版的合并字体 [LXGW Bright](https://github.com/lxgw/LxgwBright)，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将两款字体合并而成。亦有中英文合并的等宽字体 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)，采用 [Monaspace Argon](https://github.com/githubnext/monaspace) 经缩窄调整后与霞鹜文楷轻便版合并而成。
-5. 该字体的更多版本 *（可能会随时变动）*
+5. 该字体的更多版本 *（状态详见各仓库）*
    1. [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：以 Medium 字重为基准，调整度量数据与 Android 默认西文字体 Roboto 一致，适用于部分 Android 手机免 ROOT 更换第三方字体。
    2. [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：剔除谚文及较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。
    3. [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：在文楷基础上进一步调整字形和笔形，符合 G 源字形规范。包含 GB 18030-2022 实现级别 2 范围内所有汉字。另有[文楷 GB 轻便版](https://github.com/lxgw/LxgwWenkaiGB-Lite)。

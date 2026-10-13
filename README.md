@@ -99,7 +99,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ## 注意事项
 
-1. 截至目前，完整版本字体含有全部 CJK 基本区和扩展 A 区汉字，以及零星扩展 B~I 区汉字。 ~~如有补字需求，请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 提出，不要另开 Issue，以便于整理。~~ 由于字体文件越发臃肿，加字反馈通道已经关闭，不会接受用户加字请求，敬请谅解。
+1. 截至目前，完整版本字体含有全部 CJK 基本区和扩展 A 区汉字，以及零星扩展 B~J 区汉字。 ~~如有补字需求，请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 提出，不要另开 Issue，以便于整理。~~ 由于字体文件越发臃肿，加字反馈通道已经关闭，不会接受用户加字请求，敬请谅解。
 2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在 Medium 字重中部分字的轮廓曲线会有毛刺，Light 字重中部分字的轮廓会存在飞点；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。如有字形优化建议，请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 提出，**不要另开 Issue**，以便于整理。
 3. 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)，或者在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜文楷」系列字体。
 4. 对于搭配的西文字体，个人推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有 Ysabeau Office 与霞鹜文楷轻便版的合并字体 [LXGW Bright](https://github.com/lxgw/LxgwBright)，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将两款字体合并而成。亦有中英文合并的等宽字体 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)，采用 [Monaspace Argon](https://github.com/githubnext/monaspace) 经缩窄调整后与霞鹜文楷轻便版合并而成。
@@ -142,9 +142,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - 根据 OFL 1.1「许可与条件」中第 3 条的规定，在制作衍生字体时，未经作者明确的书面授权，字体名称不可使用原有字体的「保留名称」。本字体保留名称为：**霞鹜**（霞鶩）、**落霞孤鹜**（落霞孤鶩）、**LXGW**。基于本字体衍生的字体，未经作者（@lxgw）明确书面授权，名称不可出现上述字样。而在没有对字体源代码进行修改的情况下，重新编译的字体，可作为特例继续使用本字体保留名称；仅为网页端渲染优化（Web Font）之目的而对本字体进行子集化（Subsetting）或格式转换（如 WOFF/WOFF2），且不将其作为可安装的桌面字体文件提供给公众下载的情况下，同样适用该特例〔如 [Google Fonts](https://fonts.google.com) 等主流网页字体托管平台，或者 [ZSFT](https://fonts.zeoseven.com/) 等由作者（@lxgw）认可的第三方公益平台；其他平台如需适用此特例，请联系作者（@lxgw）确认〕。同时，根据第 4 条，未经作者（@lxgw）明确书面授权，本字体的任何衍生字体不得以作者（@lxgw）的名义推广、背书或宣传。
 - 根据 OFL 1.1「许可与条件」中第 5 条的规定，该字体不可在 OFL 1.1 以外的授权许可下发行，亦不可将该字体与可能造成许可证冲突的其他协议字体（如 GNU GPL、IPA 等）混合至同一字体文件。
 
-### 相关声明
-
-关于“霞鹜”“LXGW”保留名称的使用规则以及其他与授权许可有关的问题，本人已发布正式声明，详见：[微博 @孤鹜先森](https://weibo.com/6624339726/R5poUq43u) | [微信公众号：霞鹜](https://mp.weixin.qq.com/s/5BIIoRZGPchiBlmZNVd0Mg) | [哔哩哔哩 @霞鹜lxgw](https://www.bilibili.com/opus/1216899818532634627) | [小红书 @落霞孤鹜lxgw](https://www.xiaohongshu.com/explore/6a39704f000000000603559e?xsec_token=LBvtoxSAPxoKcDkaglzGkD8DGWXHFX8GC6r7QF6rZbtqo=)。
+> [!NOTE]
+> 关于「霞鹜」「LXGW」保留名称的使用规则以及其他与授权许可有关的问题，本人已发布正式声明，详见：[微博 @孤鹜先森](https://weibo.com/6624339726/R5poUq43u) | [微信公众号：霞鹜](https://mp.weixin.qq.com/s/5BIIoRZGPchiBlmZNVd0Mg) | [哔哩哔哩 @霞鹜lxgw](https://www.bilibili.com/opus/1216899818532634627) | [小红书 @落霞孤鹜lxgw](https://www.xiaohongshu.com/explore/6a39704f000000000603559e?xsec_token=LBvtoxSAPxoKcDkaglzGkD8DGWXHFX8GC6r7QF6rZbtqo=)。
 
 ## 鸣谢
 

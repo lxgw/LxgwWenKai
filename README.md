@@ -66,14 +66,15 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ### 主要汉字部分
 
-请参阅[「霞鹜文楷 轻便版」加字计划](https://github.com/lxgw/LxgwWenKai-Lite#%E5%8A%A0%E5%AD%97%E8%AE%A1%E5%88%92)。
+请参阅[「霞鹜文楷 轻便版」字汇](https://github.com/lxgw/LxgwWenKai-Lite#%E5%AD%97%E6%B1%87)。
 
 ### 其他部分（轻便版不包含）
 
-- [x] 补完 CJK 统一汉字基本区 20992 个汉字、扩展 A 区 6592 个汉字 *（目前完整版有 1000 字形由 zi2zi 深度学习生成，字形较粗糙）* ；
+- [x] 补完 CJK 统一汉字基本区 20992 个汉字、扩展 A 区 6592 个汉字（与[《霞鹜文楷 GB》](https://github.com/lxgw/LxgwWenkaiGB)共用 GB 字形）；
 - [x] 补全 Unicode 迄今为止收录的所有谚文音节，共 11172 个。
-- JIS X 0213 剩余汉字、Adobe-Japan1-6 所收录的有 Unicode 映射的汉字；
-- 50 个小篆字符
+- GB/Z 40637-2021《古籍印刷通用字规范字形表》剩余汉字（保留字形表写法）；
+- JIS X 0213 剩余汉字、Adobe-Japan1-6 所收录的有 Unicode 映射的汉字（保留日式写法）；
+- 精选 Unicode 小篆字符（共 50 个）
   - 四季：𽌇—春 𽽵—夏 𾐪—秋 𿆤—冬
   - 五方：𾆄—东 𿊄—西 𾆤—南 𾞘—北 𽄙—中
   - 七曜：𿥹—金 𽾩—木 𾽞—水 𾳜—火 𿡙—土 𾋳—日 𾍾—月

@@ -66,7 +66,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 ### 主要汉字部分
 
-请参阅[「霞鹜文楷 轻便版」字汇](https://github.com/lxgw/LxgwWenKai-Lite#%E5%AD%97%E6%B1%87)。
+请参阅[「霞鹜文楷 轻便版」主要字汇](https://github.com/lxgw/LxgwWenKai-Lite/#%E4%B8%BB%E8%A6%81%E5%AD%97%E6%B1%87)。
 
 ### 其他部分（轻便版不包含）
 

@@ -103,15 +103,27 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在 Medium 字重中部分字的轮廓曲线会有毛刺，Light 字重中部分字的轮廓会存在飞点；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。如有字形优化建议，请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 提出，**不要另开 Issue**，以便于整理。
 3. 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)，或者在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜文楷」系列字体。
 4. 对于搭配的西文字体，个人推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有 Ysabeau Office 与霞鹜文楷轻便版的合并字体 [LXGW Bright](https://github.com/lxgw/LxgwBright)，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将两款字体合并而成。亦有中英文合并的等宽字体 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)，采用 [Monaspace Argon](https://github.com/githubnext/monaspace) 经缩窄调整后与霞鹜文楷轻便版合并而成。
-5. 该字体的更多版本 *（状态详见各仓库）*
-   1. [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：以 Medium 字重为基准，调整度量数据与 Android 默认西文字体 Roboto 一致，适用于部分 Android 手机免 ROOT 更换第三方字体。
-   2. [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：剔除谚文及较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。
-   3. [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：在文楷基础上进一步调整字形和笔形，符合 G 源字形规范。包含 GB 18030-2022 实现级别 2 范围内所有汉字。另有[文楷 GB 轻便版](https://github.com/lxgw/LxgwWenkaiGB-Lite)。
-   4. [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：供繁体中文用户和旧字形偏好者使用，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改 （大部分部件参考[一点字坊「传承字形标准化文件」](https://github.com/ichitenfont/inheritedglyphs)，借助[「汉文博士」](https://www.cnblogs.com/hanbox/)[「国学迷」](http://www.guoxuemi.com/zidian/bujian/)[「字统网」](http://zi.tools) 等工具按部件查字，对字形进行修改）。此外已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的教育标准字形；另有采用香港地区字形标准的 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
-   5. 本字体韩文版[「霞鹜文楷 KR」](https://github.com/lxgw/LxgwWenkaiKR)可用。 / 이 글꼴의 한글 버전을 사용할 수 있습니다: [LXGW WenKai KR](https://github.com/lxgw/LxgwWenkaiKR).
-   6. 日文用户请直接选用原始字体 [Klee One](https://github.com/fontworks-fonts/Klee)。 / 日本語版が必要な場合は、オリジナルフォント[「クレー One」](https://github.com/fontworks-fonts/Klee)を直接使用してください。
-6. 为避免一些人误将本**字体**项目视作本字体的 **Magisk 模块**项目，且由于本人的字体模块可能存在兼容性问题而本人无力解决，即日起**不再提供** Magisk 字体模块。如需要 Magisk 字体模块，且本人此前分享的模块使用正常，请移步[模块模板项目](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)下载模板自行制作；若模块模板存在问题，则选用其他作者的字体模块，替换内部字体素材后刷入。
-7. 为了简化构建流程，减轻维护负担，本字体与[《霞鹜文楷 GB》](https://github.com/lxgw/LxgwWenkaiGB)共用一套完整版与轻便版的相差部分，因此本字体会混入大量 GB 写法的字形。
+5. 为避免一些人误将本**字体**项目视作本字体的 **Magisk 模块**项目，且由于本人的字体模块可能存在兼容性问题而本人无力解决，即日起**不再提供** Magisk 字体模块。如需要 Magisk 字体模块，且本人此前分享的模块使用正常，请移步[模块模板项目](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)下载模板自行制作；若模块模板存在问题，则选用其他作者的字体模块，替换内部字体素材后刷入。
+6. 为了简化构建流程，减轻维护负担，本字体与[《霞鹜文楷 GB》](https://github.com/lxgw/LxgwWenkaiGB)共用一套完整版与轻便版的相差部分，因此本字体会混入大量 GB 写法的字形。
+
+### 更多版本选择（包含原始字体和其他作者的同源衍生字体）
+
+- [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：以 Medium 字重为基准，调整度量数据与 Android 默认西文字体 Roboto 一致，适用于部分 Android 手机免 ROOT 更换第三方字体。
+- [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：剔除谚文及较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。
+- [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：在文楷基础上进一步调整字形和笔形，符合 G 源字形规范。包含 GB 18030-2022 实现级别 2 范围内所有汉字。另有[文楷 GB 轻便版](https://github.com/lxgw/LxgwWenkaiGB-Lite)。
+- [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：供繁体中文用户和旧字形偏好者使用，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改（大部分部件参考[一点字坊「传承字形标准化文件」](https://github.com/ichitenfont/inheritedglyphs)，借助[「汉文博士」](https://www.cnblogs.com/hanbox/)、[「国学迷」](http://www.guoxuemi.com/zidian/bujian/)、[「字统网」](http://zi.tools)等工具按部件查字，对字形进行修改）。此外已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的教育标准字形；另有采用香港地区字形标准的 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
+- 韩文版 [霞鹜文楷 KR / LXGW WenKai KR](https://github.com/lxgw/LxgwWenkaiKR) 已可用。 / 이 글꼴의 한글 버전을 사용할 수 있습니다: [LXGW WenKai KR](https://github.com/lxgw/LxgwWenkaiKR).
+- 日文用户请直接选用**原始字体 [Klee One](https://github.com/fontworks-fonts/Klee)**。 / 日本語ユーザーの方は、**オリジナルフォント[「クレー One」](https://github.com/fontworks-fonts/Klee)** をそのままご利用ください。
+
+### 不计划支持的功能
+
+以下功能请求经评估后，均不在可预见的开发计划内，恕不逐一回复相关 Issue 或 PR。
+#### 可变字重
+可变字重需要解决轮廓兼容性、节点插值、字重轴设计等一系列复杂问题，工程量极大。加之本人缺乏制作可变字体的经验，因此无法将其纳入开发计划。如需可变版本，可关注社区其他作者基于本字体衍生的相关项目。
+#### Mark-to-base / mark-to-mark 复杂排版特性
+`mark` 与 `mkmk` 特性主要用于组合标记的定位（如拉丁字母附加符号、印度文连写等）。本字体为中文正文楷体，汉字没有此类组合标记的排版需求，实现该特性需要编写极其复杂的 OpenType 脚本，会显著增加字体复杂度与渲染风险。因此不计划支持。
+#### Nerd 图标
+Nerd Fonts 图标集主要面向等宽编程字体，用于在终端或代码编辑器中显示文件类型、版本控制等图标。本字体定位为正文楷体，虽有等宽版，但仅支持 PowerLine 符号。如果加入大量风格不一的 Nerd 图标，会使字体文件更加臃肿，并带来巨大的维护成本。因此不计划提供 Nerd 图标版本。如需在终端中使用图标字体，建议选用专门的等宽 Nerd Fonts 项目，或者移步 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)（可能随时取消，也可能直接取代此前不带 NF 图标的版本）。
 
 ## 协助完善
 

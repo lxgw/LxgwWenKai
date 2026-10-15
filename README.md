@@ -106,7 +106,9 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 5. 为避免一些人误将本**字体**项目视作本字体的 **Magisk 模块**项目，且由于本人的字体模块可能存在兼容性问题而本人无力解决，即日起**不再提供** Magisk 字体模块。如需要 Magisk 字体模块，且本人此前分享的模块使用正常，请移步[模块模板项目](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)下载模板自行制作；若模块模板存在问题，则选用其他作者的字体模块，替换内部字体素材后刷入。
 6. 为了简化构建流程，减轻维护负担，本字体与[《霞鹜文楷 GB》](https://github.com/lxgw/LxgwWenkaiGB)共用一套完整版与轻便版的相差部分，因此本字体会混入大量 GB 写法的字形。
 
-### 更多版本选择（包含原始字体和其他作者的同源衍生字体）
+### 更多版本选择
+
+以下列表可能会包含原始字体以及其他作者的同源衍生字体。
 
 - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：以 Medium 字重为基准，调整度量数据与 Android 默认西文字体 Roboto 一致，适用于部分 Android 手机免 ROOT 更换第三方字体。
 - [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：剔除谚文及较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。

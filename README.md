@@ -180,7 +180,7 @@ Nerd Fonts 图标集主要面向等宽编程字体，用于在终端或代码编
 - [计划楷 / PlanKai](https://github.com/Des-Magmeta/PlanKai)
 - [秋水书体 / Qiushui Shotai](https://github.com/NoHeartPen/QiushuiShotai)
 
-## 更多「霞鹜」系列字体
+## 更多「霞鹜」开源字体
 ### 「霞鹜文楷」系列
 - **霞鹜文楷 / LXGW WenKai** | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)

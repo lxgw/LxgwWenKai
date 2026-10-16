@@ -202,8 +202,13 @@ Nerd Fonts 图标集主要面向等宽编程字体，用于在终端或代码编
 
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 
+## Star History
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/lxgw/LxgwWenKai.svg)](https://starchart.cc/lxgw/LxgwWenKai)
+<a href="https://www.star-history.com/?repos=lxgw%2Flxgwwenkai&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwwenkai&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwwenkai&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lxgw/lxgwwenkai&type=date&legend=top-left" />
+ </picture>
+</a>
 

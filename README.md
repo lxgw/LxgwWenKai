@@ -101,10 +101,10 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 
 1. 截至目前，完整版本字体含有全部 CJK 基本区和扩展 A 区汉字，以及零星扩展 B~J 区汉字。 ~~如有补字需求，请在 [Issue #33](https://github.com/lxgw/LxgwWenKai/issues/33) 提出，不要另开 Issue，以便于整理。~~ 由于字体文件越发臃肿，加字反馈通道已经关闭，不会接受用户加字请求，敬请谅解。
 2. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在 Medium 字重中部分字的轮廓曲线会有毛刺，Light 字重中部分字的轮廓会存在飞点；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。如有字形优化建议，请在 [Issue #14](https://github.com/lxgw/LxgwWenKai/issues/14) 提出，**不要另开 Issue**，以便于整理。
-3. 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)，或者在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜文楷」系列字体。
-4. 对于搭配的西文字体，个人推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有 Ysabeau Office 与霞鹜文楷轻便版的合并字体 [LXGW Bright](https://github.com/lxgw/LxgwBright)，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将两款字体合并而成。亦有中英文合并的等宽字体 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)，采用 [Monaspace Argon](https://github.com/githubnext/monaspace) 经缩窄调整后与霞鹜文楷轻便版合并而成。
-5. 为避免一些人误将本**字体**项目视作本字体的 **Magisk 模块**项目，且由于本人的字体模块可能存在兼容性问题而本人无力解决，即日起**不再提供** Magisk 字体模块。如需要 Magisk 字体模块，且本人此前分享的模块使用正常，请移步[模块模板项目](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)下载模板自行制作；若模块模板存在问题，则选用其他作者的字体模块，替换内部字体素材后刷入。
-6. 为了简化构建流程，减轻维护负担，本字体与[《霞鹜文楷 GB》](https://github.com/lxgw/LxgwWenkaiGB)共用一套完整版与轻便版的相差部分，因此本字体会混入大量 GB 写法的字形。
+3. 为了简化构建流程，减轻维护负担，本字体与[《霞鹜文楷 GB》](https://github.com/lxgw/LxgwWenkaiGB)共用一套完整版与轻便版的相差部分，因此本字体会混入大量 GB 版的楷化字形。
+4. 若需要在网站上使用这款字体，请参阅 [Issue #24](https://github.com/lxgw/LxgwWenKai/issues/24)，或者在 [ZSFT](https://fonts.zeoseven.com/designer/s/2/) 查找「霞鹜文楷」系列字体。
+5. 对于搭配的西文字体，个人推荐 [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) 系列字体。另有 Ysabeau Office 与霞鹜文楷轻便版的合并字体 [LXGW Bright](https://github.com/lxgw/LxgwBright)，采用 [字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 将两款字体合并而成。亦有中英文合并的等宽字体 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)，采用 [Monaspace Argon](https://github.com/githubnext/monaspace) 经缩窄调整后与霞鹜文楷轻便版合并而成。
+6. 为避免一些人误将本**字体**项目视作本字体的 **Magisk 模块**项目，且由于本人的字体模块可能存在兼容性问题而本人无力解决，即日起**不再提供** Magisk 字体模块。如需要 Magisk 字体模块，且本人此前分享的模块使用正常，请移步[模块模板项目](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)下载模板自行制作；若模块模板存在问题，则选用其他作者的字体模块，替换内部字体素材后刷入。
 
 ### 更多版本选择
 

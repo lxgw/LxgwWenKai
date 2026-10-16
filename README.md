@@ -113,8 +113,8 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 - [霞鹜文楷屏幕阅读版 / LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen)：以 Medium 字重为基准，调整度量数据与 Android 默认西文字体 Roboto 一致，适用于部分 Android 手机免 ROOT 更换第三方字体。
 - [霞鹜文楷 轻便版 / LXGW WenKai Lite](https://github.com/lxgw/LxgwWenKai-Lite)：剔除谚文及较不常用的汉字，便于开发者将字体嵌入软件中。若完整版有字形优化或特性更新，精简版也将会跟进。
 - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)：在文楷基础上进一步调整字形和笔形，符合 G 源字形规范。包含 GB 18030-2022 实现级别 2 范围内所有汉字。另有[文楷 GB 轻便版](https://github.com/lxgw/LxgwWenkaiGB-Lite)。
-- [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：供繁体中文用户和旧字形偏好者使用，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏字形，部分部件手动修改（大部分部件参考[一点字坊「传承字形标准化文件」](https://github.com/ichitenfont/inheritedglyphs)，借助[「汉文博士」](https://www.cnblogs.com/hanbox/)、[「国学迷」](http://www.guoxuemi.com/zidian/bujian/)、[「字统网」](http://zi.tools)等工具按部件查字，对字形进行修改）。此外已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的教育标准字形；另有采用香港地区字形标准的 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
-- 韩文版 [霞鹜文楷 KR / LXGW WenKai KR](https://github.com/lxgw/LxgwWenkaiKR) 已可用。 / 이 글꼴의 한글 버전을 사용할 수 있습니다: [LXGW WenKai KR](https://github.com/lxgw/LxgwWenkaiKR).
+- [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)：供繁体中文用户和旧字形偏好者使用，基于轻便版制作，采用旧字形写法，主要采用 Klee One 的隐藏变体字形，部分部件手动修改（大部分部件参考[一点字坊「传承字形标准化文件」](https://github.com/ichitenfont/inheritedglyphs)，借助[「汉文博士」](https://www.cnblogs.com/hanbox/)、[「国学迷」](http://www.guoxuemi.com/zidian/bujian/)、[「字统网」](http://zi.tools)等工具按部件查字，对字形进行修改）。此外已有基于 Klee One 改造的繁体中文字体 [芫荽 / Iansui](https://github.com/ButTaiwan/iansui)，采用台湾地区的教育标准字形；另有采用香港地区字形标准的 [芫茜雅楷 / JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai)。
+- 韩文版 [霞鹜文楷 KR / LXGW WenKai KR](https://github.com/lxgw/LxgwWenkaiKR) 已可用。 / 이 글꼴의 한글 버전을 사용할 수 있습니다: [LXGW 문해 KR / LXGW WenKai KR](https://github.com/lxgw/LxgwWenkaiKR).
 - 日文用户请直接选用**原始字体 [Klee One](https://github.com/fontworks-fonts/Klee)**。 / 日本語ユーザーの方は、**オリジナルフォント[「クレー One」](https://github.com/fontworks-fonts/Klee)** をそのままご利用ください。
 
 ### 不计划支持的功能

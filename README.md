@@ -135,7 +135,7 @@ An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文
 Nerd Fonts 图标集主要面向等宽编程字体，用于在终端或代码编辑器中显示文件类型、版本控制等图标。本字体定位为正文楷体，虽有等宽版，但仅支持 PowerLine 符号。如果加入大量风格不一的 Nerd 图标，会使字体文件更加臃肿，并带来巨大的维护成本。因此不计划提供 Nerd 图标版本。
 
 **关于编程连字（Ligatures）**：
-编程连字功能会引入 1.5 EM 甚至 2 EM 的字形宽度，这会导致字体在 GNU/Linux 等终端程序中无法被识别为等宽字体。业界如 [Monaspace](https://github.com/githubnext/monaspace) 虽然通过复杂的 OpenType 脚本解决了该问题，但这超出了本项目的维护精力，因此不计划支持。
+编程连字功能会引入 1.5 EM 甚至 2 EM 的字形宽度，这会导致字体在 GNU/Linux 环境下的终端程序中无法被识别为等宽字体。业界如 [Monaspace](https://github.com/githubnext/monaspace) 虽然通过复杂的 OpenType 脚本解决了该问题，但这超出了本项目的维护精力，因此不计划支持。
 
 如您有 Nerd 图标或编程连字的需求，建议移步 [LXGW Bright Code](https://github.com/lxgw/LxgwBright-Code)（该项目可能随时取消，也可能直接取代此前不带 NF 图标的版本）。
 

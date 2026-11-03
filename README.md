@@ -148,7 +148,7 @@ Nerd Fonts 图标集主要面向等宽编程字体，用于在终端或代码编
 - **[小红书](https://www.xiaohongshu.com/user/profile/64770ed70000000012035f3b)、[即刻](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card)、[少数派](https://sspai.com/u/ng008g7q)、[站酷](https://www.zcool.com.cn/u/26715019)、[酷安](https://www.coolapk.com/u/633884)：** @落霞孤鹜lxgw
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
-- **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
+- **Email：** calxgw2018@gmail.com lxgw1999@qq.com
 
 ## 授权信息
 

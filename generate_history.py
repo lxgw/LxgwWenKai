@@ -30,23 +30,35 @@ for rel in releases:
     magisk_keyword = "Assets 里的 zip 格式压缩包"
     if magisk_keyword in body:
         body = body.split(magisk_keyword)[0]
+        # 清理截断后尾部残留的引用符号、警告 emoji 和空白
+        body = re.sub(r'[\s>⚠️]+$', '', body)
         
-    # 2. 逐行过滤 [!NOTE] / [!WARNING] 等
+    # 2. 逐行过滤 [!NOTE] / [!WARNING] 等块
     cleaned_lines = []
     in_alert = False
     for line in body.split('\n'):
-        # 如果遇到警报标记，开始屏蔽
-        if re.match(r'^\s*>\s*\[!(?:NOTE|WARNING|IMPORTANT|TIP|CAUTION)\]', line, re.IGNORECASE):
+        stripped = line.strip()
+        
+        # 开启警报屏蔽
+        if re.match(r'^>\s*\[!(?:NOTE|WARNING|IMPORTANT|TIP|CAUTION)\]', stripped, re.IGNORECASE):
             in_alert = True
             continue
         
         # 如果处于屏蔽状态
         if in_alert:
-            if line.strip().startswith('>'): # 如果还是引用块，继续跳过
-                continue
+            if stripped.startswith('>'): 
+                continue # 继续过滤掉警告下面的 > 内容（包括 > ⚠️）
             else:
-                in_alert = False # 引用块结束，恢复正常
+                in_alert = False # 遇到普通段落，解除屏蔽
                 
+        # 强制过滤单独的 > ⚠️ 行（防止漏网）
+        if stripped.startswith('>') and "⚠️" in stripped:
+            continue
+            
+        # 强制过滤包含网盘网址的整行
+        if "http://lxgw.ys168.com/" in line:
+            continue
+            
         # 3. 过滤 Full Changelog 和包含“更新日志”的行
         if "**Full Changelog**" in line or "更新日志" in line:
             continue

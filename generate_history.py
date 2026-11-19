@@ -30,8 +30,6 @@ for rel in releases:
     magisk_keyword = "Assets 里的 zip 格式压缩包"
     if magisk_keyword in body:
         body = body.split(magisk_keyword)[0]
-        # 清理截断后尾部残留的引用符号、警告 emoji 和空白
-        body = re.sub(r'[\s>⚠️]+$', '', body)
         
     # 2. 逐行过滤 [!NOTE] / [!WARNING] 等块
     cleaned_lines = []
@@ -56,7 +54,7 @@ for rel in releases:
             continue
             
         # 强制过滤包含网盘网址的整行
-        if "http://lxgw.ys168.com/" in line:
+        if "http://lxgw.ys168.com" in line:
             continue
             
         # 3. 过滤 Full Changelog 和包含“更新日志”的行
@@ -73,6 +71,14 @@ for rel in releases:
 
     if body: 
         history_content += f"## [{tag}] - {date}\n\n{body}\n\n---\n\n"
+
+# ================= 新增：全局清理 =================
+# 5. 合并连续的分隔线（允许中间有空行），统一替换为单个 ---
+history_content = re.sub(r'(?m)^\s*---\s*$\s*(?:^---\s*$\s*)+', '---\n\n', history_content)
+
+# 6. 清理因为合并 --- 可能产生的多余空行
+history_content = re.sub(r'\n{3,}', '\n\n', history_content)
+# ==================================================
 
 with open("HISTORY.md", "w", encoding="utf-8") as f:
     f.write(history_content)

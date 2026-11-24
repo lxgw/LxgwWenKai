@@ -1,4 +1,4 @@
-<img width="884" height="88" alt="image" src="https://github.com/user-attachments/assets/db0017cb-5d73-417a-b13c-954c4660b0d3" />> 不纠正了，您觉得这个字体叫什么就是什么吧（
+> 不纠正了，您觉得这个字体叫什么就是什么吧（
 
 > [!CAUTION]
 > 
